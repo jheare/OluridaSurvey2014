@@ -1,3 +1,5 @@
+install.packages("plyr")
+install.packages("ggplot2")
 require(plyr)
 require(ggplot2)
 
