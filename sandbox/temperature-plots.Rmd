@@ -1,16 +1,27 @@
+#Title
+### some text
+
+
+```{r}
 #install.packages("plyr")
 #install.packages("ggplot2")
+```
+
+
 require(plyr)
 require(ggplot2)
 
-#set working directory to local copy of repository
+set working directory to local copy of repository
 
 ```{r}
 setwd<-("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 ```
 
+
+reads in edited CSV with raw data.
+```{r}
 daby1edit<-read.csv("./data/Dabob-temp-2014.csv")
-#reads in edited CSV with raw data.
+```
 
 
 daby1edit$Date<-as.Date(daby1edit$Date,"%m/%d/%Y")
