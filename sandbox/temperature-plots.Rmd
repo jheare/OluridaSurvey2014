@@ -1,18 +1,22 @@
 #Title
 ### some text
 
+---
 
+If you not already installed uncomment and intall the following packages
 ```{r}
 #install.packages("plyr")
 #install.packages("ggplot2")
 ```
 
 
+
+```{r}
 require(plyr)
 require(ggplot2)
+```
 
 set working directory to local copy of repository
-
 ```{r}
 setwd<-("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 ```
@@ -24,8 +28,11 @@ daby1edit<-read.csv("./data/Dabob-temp-2014.csv")
 ```
 
 
+
+Tells R that the date column contains dates so it knows how to deal with them
+```{r}
 daby1edit$Date<-as.Date(daby1edit$Date,"%m/%d/%Y")
-#Tells R that the date column contains dates so it knows how to deal with them
+```
 
 
 dabmeantemp<-ddply(daby1edit,.(Date),summarise,mean_temp=mean(Temp,na.rm=T),min_temp=min(Temp,na.rm=T),max_temp=max(Temp,na.rm=T))
