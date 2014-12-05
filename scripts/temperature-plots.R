@@ -6,7 +6,7 @@ require(ggplot2)
 #set working directory to local copy of repository
 setwd<-("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
-daby1edit<-read.csv("../data/DabobY1.csv")
+daby1edit<-read.csv("../data/Dabob-temp-2014.csv")
 #reads in edited CSV with raw data.
 
 
@@ -17,7 +17,7 @@ daby1edit$Date<-as.Date(daby1edit$Date,"%m/%d/%Y")
 dabmeantemp<-ddply(daby1edit,.(Date),summarise,mean_temp=mean(Temp,na.rm=T),min_temp=min(Temp,na.rm=T),max_temp=max(Temp,na.rm=T))
 #finds the mean, minimum, and maximum daily temps from raw data and creates dataframe with them for Dabob
 
-many1v3<-read.csv('../data/ManchesterY1.csv')
+many1v3<-read.csv('../data/Manchester-temp-2014.csv')
 #reads in edited CSV with raw data.
 
 many1v3$Date<-as.Date(many1v3$Date,"%m/%d/%Y")
@@ -28,7 +28,7 @@ manmeantemp<-ddply(many1v3,.(Date),summarise,mean_temp=mean(Temp,na.rm=T),min_te
 #finds the mean, minimum, and maximum daily temps from raw data and creates dataframe with them for Manchester
 
 
-fidy1v3<-read.csv("../data/FidalgoY1.csv")
+fidy1v3<-read.csv("../data/Fidalgo-temp-2014.csv")
 #reads in edited CSV with raw data.
 
 
@@ -40,7 +40,7 @@ fidmeantemp<-ddply(fidy1v3,.(Date),summarise,mean_temp=mean(Temp,na.rm=T),min_te
 #finds the mean, minimum, and maximum daily temps from raw data and creates dataframe with them for Fidalgo
 
 
-oysy1edit<-read.csv("../data/OysterBayY1.csv")
+oysy1edit<-read.csv("../data/OysterBay-temp-2014.csv")
 #reads in edited CSV with raw data.
 
 
