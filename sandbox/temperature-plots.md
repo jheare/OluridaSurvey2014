@@ -4,34 +4,63 @@
 ---
 
 If you not already installed uncomment and intall the following packages
-```{r}
+
+```r
 #install.packages("plyr")
 #install.packages("ggplot2")
 ```
 
 
 
-```{r}
+
+```r
 require(plyr)
+```
+
+```
+## Loading required package: plyr
+```
+
+```r
 require(ggplot2)
 ```
 
+```
+## Loading required package: ggplot2
+```
+
 set working directory to local copy of repository
-```{r}
+
+```r
 setwd<-("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 ```
 
 
 reads in edited CSV with raw data.
-```{r}
-daby1edit<-read.csv("../data/Dabob-temp-2014.csv")
+
+```r
+daby1edit<-read.csv("./data/Dabob-temp-2014.csv")
+```
+
+```
+## Warning: cannot open file './data/Dabob-temp-2014.csv': No such file or
+## directory
+```
+
+```
+## Error: cannot open the connection
 ```
 
 
 
 Tells R that the date column contains dates so it knows how to deal with them
-```{r}
+
+```r
 daby1edit$Date<-as.Date(daby1edit$Date,"%m/%d/%Y")
+```
+
+```
+## Error: object 'daby1edit' not found
 ```
 
 
