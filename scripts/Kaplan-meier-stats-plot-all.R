@@ -1,5 +1,10 @@
+========================
+#
+#UNCOMMENT the lines below if you do have the packages already installed
+#
 #install.packages("RVAideMemoire")
 #install.packages("multcomp")
+============================  
 
 #loads required packages
 require(survival)
