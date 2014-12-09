@@ -10,7 +10,7 @@ require(gtable)
 setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
 #read in brood numbers csv with all brooding data
-brood<-read.csv("Brood-numbers-all-2014.csv")
+brood<-read.csv("./data/Brood-numbers-all-2014.csv")
 
 #Make sure dates are understood to be Dates
 brood$Date<-as.Date(brood$Date, "%m/%d/%Y")
@@ -43,7 +43,7 @@ p1<-ggplot(data=manrep, aes(x=Date, weight=Percent, colour=Pop, fill=Pop))+
 
 
 #reads in temperature csv for Manchester
-manch<-read.csv('Manchester-temp-2014.csv')
+manch<-read.csv('./data/Manchester-temp-2014.csv')
 
 #Makes sure Dates are understood as Dates 
 manch$Date<-as.Date(manch$Date,"%m/%d/%Y")
