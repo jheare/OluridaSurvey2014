@@ -15,7 +15,7 @@ require(PMCMR)
 setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
 #creates dataframe and reads in the CSV file for sizes
-y1size=read.csv('Size-outplant-end-all-2013-14.csv')
+y1size=read.csv('./data/Size-outplant-end-all-2013-14.csv')
 
 #check data
 View(y1size)
