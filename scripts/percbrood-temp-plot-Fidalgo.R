@@ -10,7 +10,7 @@ require(gtable)
 setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
 #read in brood numbers csv with all brooding data
-brood<-read.csv("Brood-numbers-all-2014.csv")
+brood<-read.csv("./data/Brood-numbers-all-2014.csv")
 
 #Make sure dates are understood to be Dates
 brood$Date<-as.Date(brood$Date, "%m/%d/%Y")
@@ -41,7 +41,7 @@ p1<-ggplot(data=fidrep, aes(x=Date, weight=Percent, colour=Pop, fill=Pop))+
 
 
 #reads in temperature CSV for Fidalgo Bay
-fidtemp<-read.csv("Fidalgo-temp-2014")
+fidtemp<-read.csv("./data/Fidalgo-temp-2014")
 
 #Make sure dates are understood as Dates
 fidtemp$Date<-as.Date(fidtemp$Date,"%m/%d/%Y")
