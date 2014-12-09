@@ -12,7 +12,7 @@ require(nparcomp)
 require(PMCMR)
 
 #set working directory
-setwd(~)
+setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
 #creates dataframe and reads in the CSV file for sizes
 y1size=read.csv('Size-outplant-end-all-2013-14.csv')
