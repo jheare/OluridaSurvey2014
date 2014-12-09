@@ -13,7 +13,7 @@ These scripts were used to produce all the statistics and figures from the O. lu
 4. Load required packages first, packages needed to perform each script are included at the top of the page.
 5. If packages do not load use the commented install functions. Remove the hash (#) mark from the install function and run   only once.
 6. Highlight the scripts and run script. If everything works right you should create the graphs and tables of data/stats.
-7. 
+
 
 **Note**
 
