@@ -1,9 +1,16 @@
+
+
+========================
+#
+#UNCOMMENT the lines below if you do have the packages already installed
+#
 #install.packages("ggplot2")
 #install.packages("plyr")
 #install.packages("splitstackshape")
 #install.packages("nparcomp")
 #install.packages("PMCMR")
-
+=============================
+  
 #loads required packages
 require(ggplot2)
 require(plyr)
