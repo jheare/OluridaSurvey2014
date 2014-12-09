@@ -6,6 +6,8 @@ require(survival)
 require(RVAideMemoire)
 require(multcomp)
 
+setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
+
 #reads in  Kaplan Meier formatted survival data
 kmdab=read.csv("KMdataDabob.csv")
 
