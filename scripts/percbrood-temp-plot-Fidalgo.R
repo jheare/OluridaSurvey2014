@@ -7,7 +7,7 @@ require(grid)
 require(gtable)
 
 #set working directory
-setwd(~)
+setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
 #read in brood numbers csv with all brooding data
 brood<-read.csv("Brood-numbers-all-2014.csv")
