@@ -1,3 +1,8 @@
+#install.packages("plyr")
+#install.packages("ggplot2")
+#install.packages("scales")
+#install.packages("grid")
+#install.packages("gtable")
 
 #Loads required packages
 require(plyr)
