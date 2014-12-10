@@ -14,12 +14,12 @@ This repository includes raw data and R scripts used to generate figures for the
 
 If everything works right you should create the figures in the manuscript!
 
-*Files Contained in Repository w/ Description*
+**Files Contained in Repository w/ Description**
 
 
 
 
-**data folder contains:**
+*data folder contains:*
 ==========================================================================
 Brood-numbers-all-2014.csv
     Contains brooder information collected over the summer
@@ -77,7 +77,7 @@ Size-outplant-end-all-2013-14.csv
           sizedist-stats-plot.R
           
 =================================================================
-**scripts folder contains:**
+*scripts folder contains:*
 ====================================================================
 Kaplan-meier-stats-plot-all.R
     Used to generate Kaplan Meier graphs for all 4 sites at once
