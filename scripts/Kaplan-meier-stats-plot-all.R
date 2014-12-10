@@ -11,7 +11,7 @@ require(survival)
 require(RVAideMemoire)
 require(multcomp)
 
-setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
+setwd("**your directory here**")
 
 #reads in  Kaplan Meier formatted survival data
 kmdab=read.csv("./data/KMdataDabob.csv")
@@ -30,7 +30,7 @@ fit1=with(kmdab,survfit(Surv(Death,Status)~Population))
 summary(fit1)
 
 #Plots Kaplan Meier graph
-plot(fit1,xlim=c(0,11), col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="% Surviving", lwd=2)
+plot(fit1,xlim=c(0,11), col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
 legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
 
 
@@ -51,7 +51,7 @@ fit2=with(kmman, survfit(Surv(Death,Status)~Population))
 summary(fit2)
 
 #Plots Kaplan Meier graph
-plot(fit2, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="% Surviving", lwd=2)
+plot(fit2, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
 legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
 
 #reads in  Kaplan Meier formatted survival data
@@ -68,7 +68,7 @@ fit3=with(kmfid, survfit(Surv(Death,Status)~Population))
 summary(fit3)
 
 #Plots Kaplan Meier graph
-plot(fit3, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="% Surviving", lwd=2)
+plot(fit3, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
 legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
 
 #reads in  Kaplan Meier formatted survival data
@@ -85,7 +85,7 @@ fit4=with(kmoys, survfit(Surv(Death,Status)~Population))
 summary(fit4)
 
 #Plots Kaplan Meier graph
-plot(fit4, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="% Surviving", lwd=2)
+plot(fit4, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
 legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
 
 #calculates p-values for differences in Survival between groups
