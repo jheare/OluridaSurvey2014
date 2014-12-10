@@ -41,7 +41,7 @@ p1<-ggplot(data=fidrep, aes(x=Date, weight=Percent, colour=Pop, fill=Pop))+
 
 
 #reads in temperature CSV for Fidalgo Bay
-fidtemp<-read.csv("./data/Fidalgo-temp-2014")
+fidtemp<-read.csv("./data/Fidalgo-temp-2014.csv")
 
 #Make sure dates are understood as Dates
 fidtemp$Date<-as.Date(fidtemp$Date,"%m/%d/%Y")
