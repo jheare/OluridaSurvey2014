@@ -1,9 +1,16 @@
+
+
+========================
+#
+#UNCOMMENT the lines below if you do have the packages already installed
+#
 #install.packages("ggplot2")
 #install.packages("plyr")
 #install.packages("splitstackshape")
 #install.packages("nparcomp")
 #install.packages("PMCMR")
-
+=============================
+  
 #loads required packages
 require(ggplot2)
 require(plyr)
@@ -12,10 +19,10 @@ require(nparcomp)
 require(PMCMR)
 
 #set working directory
-setwd(~)
+setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
 #creates dataframe and reads in the CSV file for sizes
-y1size=read.csv('Size-outplant-end-all-2013-14.csv')
+y1size=read.csv('./data/Size-outplant-end-all-2013-14.csv')
 
 #check data
 View(y1size)

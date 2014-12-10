@@ -1,13 +1,20 @@
+========================
+#
+#UNCOMMENT the lines below if you do have the packages already installed
+#
 #install.packages("RVAideMemoire")
 #install.packages("multcomp")
+============================  
 
 #loads required packages
 require(survival)
 require(RVAideMemoire)
 require(multcomp)
 
+setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
+
 #reads in  Kaplan Meier formatted survival data
-kmdab=read.csv("KMdataDabob.csv")
+kmdab=read.csv("./data/KMdataDabob.csv")
 
 #shows names
 names(kmdab) 
@@ -28,7 +35,7 @@ legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill
 
 
 #reads in  Kaplan Meier formatted survival data
-kmman=read.csv("KMdataMan.csv")
+kmman=read.csv("./data/KMdataMan.csv")
 
 #shows names
 names(kmman)
@@ -48,7 +55,7 @@ plot(fit2, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outpla
 legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
 
 #reads in  Kaplan Meier formatted survival data
-kmfid=read.csv("KMdataFid.csv")
+kmfid=read.csv("./data/KMdataFid.csv")
 
 #Finds the mean and variance for each population at site
 with(kmfid, tapply(Death[Status==1],Population[Status==1],mean))
@@ -65,7 +72,7 @@ plot(fit3, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outpla
 legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
 
 #reads in  Kaplan Meier formatted survival data
-kmoys=read.csv("KMdataOys.csv")
+kmoys=read.csv("./data/KMdataOys.csv")
 
 #Finds the mean and variance for each population at site
 with(kmoys, tapply(Death[Status==1],Population[Status==1],mean))

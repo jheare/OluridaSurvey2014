@@ -7,10 +7,10 @@ require(grid)
 require(gtable)
 
 #set working directory
-setwd(~)
+setwd("/Users/sr320/git-repos/Temp-Data-And-Scripts")
 
 #read in brood numbers csv with all brooding data
-brood<-read.csv("Brood-numbers-all-2014.csv")
+brood<-read.csv("./data/Brood-numbers-all-2014.csv")
 
 #Make sure dates are understood to be Dates
 brood$Date<-as.Date(brood$Date, "%m/%d/%Y")
@@ -41,7 +41,7 @@ p1<-ggplot(data=oysbay, aes(x=Date, weight=Percent, colour=Pop, fill=Pop))+
         legend.text=element_text(size=20))
 
 #reads in temperature csv for Oyster Bay
-oystemp<-read.csv("OysterBay-temp-2014.csv")
+oystemp<-read.csv("./data/OysterBay-temp-2014.csv")
 
 #Make sure Dates are understood as Dates
 oystemp$Date<-as.Date(oystemp$Date, "%m/%d/%Y")
