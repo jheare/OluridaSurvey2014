@@ -1,7 +1,8 @@
 _Ostrea lurida_ Survey - Puget Sound, WA - 2014
 =====================
 
-This repository includes raw data and R scripts used to generate figures for the Heare et al 2014 - TITLE OF MANUSCRIPT
+This repository includes raw data and R scripts used to generate figures for Heare et al. "**Evidence of _Ostrea lurida_ population structure in Puget Sound, WA**"
+
 
 
 **To use these scripts:**
@@ -16,129 +17,41 @@ If everything works right you should create the figures in the manuscript!
 
 ---
 
-**Files Contained in Repository w/ Description**
+##File Desciptions
 
-*data folder contains:*
+**Files Contained in _data_ directory**
 
-Brood-numbers-all-2014.csv
+Brood-numbers-all-2014.csv  -  brooder information collected over the summer
 
-...Contains brooder information collected over the summer
+Dabob-temp-2014.csv  -  raw temperature data for Dabob
 
-...Used in scripts:
+Fidalgo-temp-2014.csv  -  raw temperature data for Fidalgo Bay
 
-.....percbrood-temp-plot-Fidalgo.R
+KMdataDabob.csv  -  survival data for Dabob
 
-.....percbrood-temp-plot-Manchester.R
+KMdataFid.csv  -  survival data for Fidalgo Bay
 
-.....percbrood-temp-plot-OysterBay.R
+KMdataMan.csv  -  survival data for Manchester
 
-Dabob-temp-2014.csv
+KMdataOys.csv  -  survival data for Oyster Bay
 
-...Contains raw temperature data for Dabob
+Manchester-temp-2014.csv  - raw temperature data for Manchester
 
-...Used in Scripts:
+OysterBay-temp-2014.csv -  raw temperature data for Oyster Bay
 
-.....temperature-plots.R
-
-Fidalgo-temp-2014.csv
-
-...Contains raw temperature data for Fidalgo Bay
-
-...Used in scripts:
-
-.....temperature-plots.R
-
-.....percbrood-temp-plot-Fidalgo.R
-
-KMdataDabob.csv
-
-...Contains KM formatted survival data for Dabob
-
-...Used in scripts:
-
-.....Kaplan-meier-stats-plot-all.R
-
-KMdataFid.csv
-
-...Contains KM formatted survival data for Fidalgo Bay
-
-...Used in scripts:
-
-.....Kaplan-meier-stats-plot-all.R
-
-KMdataMan.csv
-
-...Contains KM formatted survival data for Manchester
-
-...Used in scripts:
-
-.....Kaplan-meier-stats-plot-all.R
-
-KMdataOys.csv
-
-...Contains KM formatted survival data for Oyster Bay
-
-...Used in scripts:
-
-.....Kaplan-meier-stats-plot-all.R
-
-Manchester-temp-2014.csv
-
-...Contains raw temperature data for Manchester
-
-...Used in scripts:
-
-.....temperature-plots.R
-
-.....percbrood-temp-plot-Manchester.R
-
-OysterBay-temp-2014.csv
-
-...Contains raw temperature data for Oyster Bay
-
-...Used in scripts:
-
-.....temperature-plots.R
-
-.....percbrood-temp-plot-OysterBay.R
+Size-outplant-end-all-2013-14.csv  -  raw size data for outplant oysters and for Year 1 terminal sampling 
           
-Size-outplant-end-all-2013-14.csv
+--- 
+**Files Contained in _script_ directory**
 
-...Contains raw size data for outplant oysters and for Year 1 end sampling measurements
-
-...Used in scripts:
-
-.....sizedist-stats-plot.R
-          
-
-*scripts folder contains:*
-
-Kaplan-meier-stats-plot-all.R
-
-...Used to generate Kaplan Meier graphs for all 4 sites at once
+Kaplan-meier-stats-plot-all.R  -  R script to produce Kaplan meier figures.
     
-percbrood-temp-plot-Fidalgo.R
+percbrood-temp-plot-Fidalgo.R  - R script to generate percent brooding with temperature overlay for Fidalgo Bay (Does not produce second Y axis label. Must be manually added)
+   
+percbrood-temp-plot-Manchester.R  -- R script to generate percent brooding with temperature overlay for Manchester (Does not produce second Y axis label. Must be manually added)
 
-...Used to generate percent brooding with temperature overlay for Fidalgo Bay
-
-...*Note* Does *NOT* produce second Y axis label. Must be manually added in. 
+percbrood-temp-plot-OysterBay.R  -- R script to generate percent brooding with temperature overlay for Oyster Bay (Does not produce second Y axis label. Must be manually added)
     
-percbrood-temp-plot-Manchester.R
-
-...Used to generate percent brooding with temperature overlay for Manchester
-
-...*Note* Does *NOT* produce second Y axis label. Must be manually added in. 
+sizedist-stats-plot.R  -   R script to create boxplots for size at all sites.
     
-percbrood-temp-plot-OysterBay.R
-
-...Used to generate percent brooding with temperature overlay for Oyster Bay
-
-...*Note* Does *NOT* produce second Y axis label. Must be manually added in. 
-    
-sizedist-stats-plot.R
-
-...Used to create boxplots for size at all sites.
-    
-temperature-plots.R
-
-...Used to create minimum and maximum temperature graphs for all 4 sites combined
+temperature-plots.R  -  R script tp create minimum and maximum temperature graphs for all 4 sites combined
