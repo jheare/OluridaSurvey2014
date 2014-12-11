@@ -14,6 +14,8 @@ This repository includes raw data and R scripts used to generate figures for the
 
 If everything works right you should create the figures in the manuscript!
 
+---
+
 **Files Contained in Repository w/ Description**
 
 *data folder contains:*
