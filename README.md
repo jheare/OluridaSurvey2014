@@ -1,9 +1,14 @@
 _Ostrea lurida_ Survey - Puget Sound, WA - 2014
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13201.svg)](http://dx.doi.org/10.5281/zenodo.13201)
 =====================
 
-This repository includes raw data and R scripts used to generate figures for Heare et al. "[**Evidence of _Ostrea lurida_ population structure in Puget Sound, WA**](https://peerj.com/preprints/704v1/)"
+This repository includes raw data and R scripts used to generate figures for Heare et al. "[**Evidence of _Ostrea lurida_ population structure in Puget Sound, WA**](https://peerj.com/preprints/704v1/)" 
+```
+Heare JE, Blake B, Davis JP, Vadopalas B, Roberts SB. (2014) Evidence of Ostrea lurida (Carpenter 1894) population structure in Puget Sound, WA. PeerJ PrePrints 2:e704v1 http://dx.doi.org/10.7287/peerj.preprints.704v1
+```
 
+Specific release that is supplemental to the manuscript - [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13201.svg)](http://dx.doi.org/10.5281/zenodo.13201)
+
+---
 
 
 **To use these scripts:**
