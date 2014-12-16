@@ -1,7 +1,8 @@
 _Ostrea lurida_ Survey - Puget Sound, WA - 2014
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13201.svg)](http://dx.doi.org/10.5281/zenodo.13201)
 =====================
 
-This repository includes raw data and R scripts used to generate figures for Heare et al. "**Evidence of _Ostrea lurida_ population structure in Puget Sound, WA**"
+This repository includes raw data and R scripts used to generate figures for Heare et al. "[**Evidence of _Ostrea lurida_ population structure in Puget Sound, WA**](https://peerj.com/preprints/704v1/)"
 
 
 
