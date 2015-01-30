@@ -70,7 +70,7 @@ ggplot()+
   geom_hline(aes(yintercept=12.5,colour="5"),size=1)+
   scale_colour_manual(values=c("forestgreen","blue","purple","orange","red"),
                       name="Site",
-                      labels=c("Dabob Bay","Manchester","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
+                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
   labs(x="Date",y="Average Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.13,0.15),
@@ -90,7 +90,7 @@ ggplot()+
   geom_line(data=oysmeantemp, aes(x=Date, y=min_temp, group=1, colour="4"),size=1)+
   scale_colour_manual(values=c("forestgreen","blue","purple","orange"),
                       name="Site",
-                      labels=c("Dabob Bay","Manchester","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
+                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
   labs(x="Date",y="Minimum Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.13,0.18),
@@ -110,7 +110,7 @@ ggplot()+
   geom_line(data=oysmeantemp, aes(x=Date, y=max_temp, group=1, colour="4"),size=1)+
   scale_colour_manual(values=c("forestgreen","blue","purple","orange"),
                       name="Site",
-                      labels=c("Dabob Bay","Manchester","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
+                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
   labs(x="Date",y="Maximum Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.25,0.8),
