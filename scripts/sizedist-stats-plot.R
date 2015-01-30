@@ -47,10 +47,6 @@ endoysy1<-ddply(y1size,.(Length.mm,Pop,Tray,Sample,Area),subset,Date=="2014-09-1
 
 
 #using ggplot2 to create Boxplots
-ggplot()+
-  geom_boxplot(data=outmany1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("blue","purple","orange"))+
-  scale_fill_manual(values=c("blue","purple","orange"))
 
 ggplot()+
   geom_boxplot(data=endmany1,aes(x=Pop,y=Length.mm,fill=Pop))+
@@ -66,10 +62,6 @@ ggplot()+
         axis.title.y=element_text(size=25, vjust=2),
         axis.text.y=element_text(size=20))
 
-ggplot()+
-  geom_boxplot(data=outfidy1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("blue","purple","orange"))+
-  scale_fill_manual(values=c("blue","purple","orange"))
 
 ggplot()+
   geom_boxplot(data=endfidy1,aes(x=Pop,y=Length.mm,fill=Pop))+
@@ -84,11 +76,6 @@ ggplot()+
         axis.title.x=element_text(size=25, vjust=0.1),
         axis.title.y=element_text(size=25, vjust=2),
         axis.text.y=element_text(size=20))
-
-ggplot()+
-  geom_boxplot(data=outoysy1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("blue","purple","orange"))+
-  scale_fill_manual(values=c("blue","purple","orange"))
 
 ggplot()+
   geom_boxplot(data=endoysy1,aes(x=Pop,y=Length.mm,fill=Pop))+
