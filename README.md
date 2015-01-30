@@ -50,14 +50,20 @@ Size-outplant-end-all-2013-14.csv  -  raw size data for outplant oysters and for
 --- 
 **Files Contained in _script_ directory**
 
-Kaplan-meier-stats-plot-all.R  -  R script to produce Kaplan meier figures.
-    
-percbrood-temp-plot-Fidalgo.R  - R script to generate percent brooding with temperature overlay for Fidalgo Bay (Does not produce second Y axis label. Must be manually added)
-   
-percbrood-temp-plot-Manchester.R  -- R script to generate percent brooding with temperature overlay for Manchester (Does not produce second Y axis label. Must be manually added)
+Figure002-003-temperature-plots.R  -  R script tp create minimum and maximum temperature graphs for all 4 sites combined
 
-percbrood-temp-plot-OysterBay.R  -- R script to generate percent brooding with temperature overlay for Oyster Bay (Does not produce second Y axis label. Must be manually added)
+Figure004ABCD-Kaplan-meier-stats-plot-all.R  -  R script to produce Kaplan meier figures.(Makes 4 individual figures that were combined to make Figure 4)
+
+Figure005-006-007-sizedist-stats-plot.R  -   R script to create boxplots for size at all sites.
+
+Figure008-percbrood-temp-plot-OysterBay.R  -- R script to generate percent brooding with temperature overlay for Oyster Bay (Does not produce second Y axis label. Must be manually added)
     
-sizedist-stats-plot.R  -   R script to create boxplots for size at all sites.
+Figure009-percbrood-temp-plot-Fidalgo.R  - R script to generate percent brooding with temperature overlay for Fidalgo Bay (Does not produce second Y axis label. Must be manually added)
+   
+Figure010-percbrood-temp-plot-ClamBay.R  -- R script to generate percent brooding with temperature overlay for Manchester (Does not produce second Y axis label. Must be manually added)
+
+
     
-temperature-plots.R  -  R script tp create minimum and maximum temperature graphs for all 4 sites combined
+
+    
+
