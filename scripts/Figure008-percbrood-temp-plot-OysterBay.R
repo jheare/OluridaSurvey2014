@@ -93,3 +93,8 @@ g <- gtable_add_grob(g, ax, pp$t, length(g$widths) - 1, pp$b)
 
 #generates the final graph
 grid.draw(g)
+
+BroodANOVA<-aov(brood$Percent~brood$Site+brood$Pop+brood$Site:brood$Pop,brood)
+print(BroodANOVA)
+broodTukey<-TukeyHSD(BroodANOVA)
+print(broodTukey)

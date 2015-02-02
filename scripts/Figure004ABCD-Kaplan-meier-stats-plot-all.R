@@ -88,11 +88,18 @@ summary(fit4)
 plot(fit4, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
 legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
 
+#Summary of Survival Information
+mansum<-summary(survfit(Surv(Death,Status)~Population,data=kmman))
+print(mansum)
+
 #calculates p-values for differences in Survival between groups
 mansurv<-survdiff(Surv(Death,Status)~Population,data=kmman,rho=1)
-
 #prints survdiff statistics to show significant differences between groups
 print(mansurv)
+
+#Summary of Survival Information
+dabsum<-summary(survfit(Surv(Death,Status)~Population,data=kmdab))
+print(dabsum)
 
 #calculates p-values for differences in Survival between groups
 dabsurv<-survdiff(Surv(Death,Status)~Population,data=kmdab)
