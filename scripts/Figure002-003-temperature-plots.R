@@ -122,5 +122,7 @@ ggplot()+
         axis.title.y=element_text(size=20))
 #Creates a graph with each line representing observed maximum daily temps for each site
 
-
-
+#Dates Min Temp met Spawn Threshold
+oysspawntemp<-oysmeantemp[oysmeantemp$min_temp >= 12.5,]
+manspawntemp<-manmeantemp[manmeantemp$min_temp >= 12.5,]
+fidspawntemp<-fidmeantemp[fidmeantemp$min_temp >= 12.5,]
