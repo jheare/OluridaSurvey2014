@@ -17,6 +17,7 @@ require(plyr)
 require(splitstackshape)
 require(nparcomp)
 require(PMCMR)
+require(pastecs)
 
 #set working directory
 setwd("**your directory here**")
@@ -36,6 +37,17 @@ y1meansize<-ddply(y1size,.(Date,Site,Pop),summarise, mean_size=mean(Length.mm,na
 #print it out
 print(y1meansize)
 
+#create at DF with Average size for Each Site
+y1sitemeansize<-ddply(y1size,.(Date,Site),summarise, mean_size=mean(Length.mm,na.rm=T))
+
+#print it out
+print(y1sitemeansize)
+
+#produce some descriptive statistics using stat describe
+y1sitestats<-ddply(y1size,.(Date, Site),summarise, stats=stat.desc(Length.mm)[c(9,10,11,12,13)])
+
+#print it out, stats are in the order (mean, STD Error, 95% Confidence Interval, Variance, STD Deviation)
+print(y1sitestats)
 
 #now we need to create subsets for each site for out plant and end of year 1
 outmany1<-ddply(y1size,.(Length.mm,Pop,Tray,Sample,Area),subset,Date=="2013-08-16"&Site=="Manchester")
