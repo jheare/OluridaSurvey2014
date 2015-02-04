@@ -113,8 +113,34 @@ fidsurv<-survdiff(Surv(Death,Status)~Population,data=kmfid)
 #prints survdiff statistics to show significant differences between groups
 print(fidsurv)
 
+#Summary of Survival Information
+fidsum<-summary(survfit(Surv(Death,Status)~Population,data=kmfid))
+print(fidsum)
+
 #calculates p-values for differences in Survival between groups
 oyssurv<-survdiff(Surv(Death,Status)~Population,data=kmoys)
 
 #prints survdiff statistics to show significant differences between groups
 print(oyssurv)
+
+#Summary of Survival Information
+oyssum<-summary(survfit(Surv(Death,Status)~Population,data=kmoys))
+print(oyssum)
+
+kmall=read.csv("./data/KMdataAll.csv")
+names(kmall)
+
+allfit<-coxph(Surv(Death,Status)~Site+Population+Site:Population,data=kmall)
+thingy<-cox.zph(allfit)
+plot(thingy[5])
+allaov<-anova(allfit)
+
+allaov
+summary(allfit)
+
+allsurv<-survdiff(Surv(Death,Status)~Site+Population,data=kmall)
+print(allsurv)
+plot(allsurv)
+fitall2=(Surv(Death,Status)~as.factor(Site)+as.factor(Population),data=kmall)
+anova(fitall2)
+TukeyHSD(allfit)

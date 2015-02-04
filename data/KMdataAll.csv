@@ -1,0 +1,5761 @@
+Site,Animal,Population,Death,Status
+Dabob,1,N,4,1
+Dabob,2,N,4,1
+Dabob,3,N,4,1
+Dabob,4,N,4,1
+Dabob,5,N,4,1
+Dabob,6,N,4,1
+Dabob,7,N,4,1
+Dabob,8,N,4,1
+Dabob,9,N,4,1
+Dabob,10,N,4,1
+Dabob,11,N,4,1
+Dabob,12,N,4,1
+Dabob,13,N,4,1
+Dabob,14,N,4,1
+Dabob,15,N,4,1
+Dabob,16,N,4,1
+Dabob,17,N,4,1
+Dabob,18,N,4,1
+Dabob,19,N,4,1
+Dabob,20,N,4,1
+Dabob,21,N,4,1
+Dabob,22,N,4,1
+Dabob,23,N,4,1
+Dabob,24,N,4,1
+Dabob,25,N,4,1
+Dabob,26,N,4,1
+Dabob,27,N,4,1
+Dabob,28,N,4,1
+Dabob,29,N,4,1
+Dabob,30,N,4,1
+Dabob,31,N,4,1
+Dabob,32,N,4,1
+Dabob,33,N,4,1
+Dabob,34,N,4,1
+Dabob,35,N,4,1
+Dabob,36,N,4,1
+Dabob,37,N,4,1
+Dabob,38,N,4,1
+Dabob,39,N,4,1
+Dabob,40,N,4,1
+Dabob,41,N,4,1
+Dabob,42,N,4,1
+Dabob,43,N,4,1
+Dabob,44,N,4,1
+Dabob,45,N,4,1
+Dabob,46,N,4,1
+Dabob,47,N,4,1
+Dabob,48,N,4,1
+Dabob,49,N,4,1
+Dabob,50,N,4,1
+Dabob,51,N,4,1
+Dabob,52,N,4,1
+Dabob,53,N,4,1
+Dabob,54,N,4,1
+Dabob,55,N,4,1
+Dabob,56,N,4,1
+Dabob,57,N,4,1
+Dabob,58,N,4,1
+Dabob,59,N,4,1
+Dabob,60,N,4,1
+Dabob,61,N,4,1
+Dabob,62,N,4,1
+Dabob,63,N,4,1
+Dabob,64,N,4,1
+Dabob,65,N,4,1
+Dabob,66,N,4,1
+Dabob,67,N,4,1
+Dabob,68,N,4,1
+Dabob,69,N,4,1
+Dabob,70,N,4,1
+Dabob,71,N,4,1
+Dabob,72,N,4,1
+Dabob,73,N,4,1
+Dabob,74,N,4,1
+Dabob,75,N,4,1
+Dabob,76,N,4,1
+Dabob,77,N,4,1
+Dabob,78,N,4,1
+Dabob,79,N,4,1
+Dabob,80,N,4,1
+Dabob,81,N,4,1
+Dabob,82,N,4,1
+Dabob,83,N,4,1
+Dabob,84,N,4,1
+Dabob,85,N,4,1
+Dabob,86,N,4,1
+Dabob,87,N,4,1
+Dabob,88,N,4,1
+Dabob,89,N,4,1
+Dabob,90,N,4,1
+Dabob,91,N,4,1
+Dabob,92,N,4,1
+Dabob,93,N,4,1
+Dabob,94,N,4,1
+Dabob,95,N,4,1
+Dabob,96,N,4,1
+Dabob,97,N,4,1
+Dabob,98,N,4,1
+Dabob,99,N,4,1
+Dabob,100,N,4,1
+Dabob,101,N,4,1
+Dabob,102,N,4,1
+Dabob,103,N,4,1
+Dabob,104,N,4,1
+Dabob,105,N,4,1
+Dabob,106,N,4,1
+Dabob,107,N,4,1
+Dabob,108,N,4,1
+Dabob,109,N,4,1
+Dabob,110,N,4,1
+Dabob,111,N,4,1
+Dabob,112,N,4,1
+Dabob,113,N,4,1
+Dabob,114,N,4,1
+Dabob,115,N,4,1
+Dabob,116,N,4,1
+Dabob,117,N,4,1
+Dabob,118,N,4,1
+Dabob,119,N,4,1
+Dabob,120,N,4,1
+Dabob,121,N,4,1
+Dabob,122,N,4,1
+Dabob,123,N,4,1
+Dabob,124,N,4,1
+Dabob,125,N,4,1
+Dabob,126,N,4,1
+Dabob,127,N,4,1
+Dabob,128,N,4,1
+Dabob,129,N,4,1
+Dabob,130,N,4,1
+Dabob,131,N,4,1
+Dabob,132,N,4,1
+Dabob,133,N,4,1
+Dabob,134,N,4,1
+Dabob,135,N,4,1
+Dabob,136,N,4,1
+Dabob,137,N,4,1
+Dabob,138,N,4,1
+Dabob,139,N,4,1
+Dabob,140,N,4,1
+Dabob,141,N,4,1
+Dabob,142,N,4,1
+Dabob,143,N,4,1
+Dabob,144,N,4,1
+Dabob,145,N,4,1
+Dabob,146,N,4,1
+Dabob,147,N,4,1
+Dabob,148,N,4,1
+Dabob,149,N,4,1
+Dabob,150,N,4,1
+Dabob,151,N,4,1
+Dabob,152,N,4,1
+Dabob,153,N,4,1
+Dabob,154,N,4,1
+Dabob,155,N,4,1
+Dabob,156,N,4,1
+Dabob,157,N,4,1
+Dabob,158,N,4,1
+Dabob,159,N,4,1
+Dabob,160,N,4,1
+Dabob,161,N,4,1
+Dabob,162,N,4,1
+Dabob,163,N,4,1
+Dabob,164,N,4,1
+Dabob,165,N,4,1
+Dabob,166,N,4,1
+Dabob,167,N,4,1
+Dabob,168,N,4,1
+Dabob,169,N,4,1
+Dabob,170,N,4,1
+Dabob,171,N,4,1
+Dabob,172,N,4,1
+Dabob,173,N,4,1
+Dabob,174,N,4,1
+Dabob,175,N,4,1
+Dabob,176,N,4,1
+Dabob,177,N,4,1
+Dabob,178,N,4,1
+Dabob,179,N,4,1
+Dabob,180,N,4,1
+Dabob,181,N,4,1
+Dabob,182,N,4,1
+Dabob,183,N,4,1
+Dabob,184,N,4,1
+Dabob,185,N,4,1
+Dabob,186,N,4,1
+Dabob,187,N,4,1
+Dabob,188,N,4,1
+Dabob,189,N,4,1
+Dabob,190,N,4,1
+Dabob,191,N,4,1
+Dabob,192,N,4,1
+Dabob,193,N,4,1
+Dabob,194,N,4,1
+Dabob,195,N,4,1
+Dabob,196,N,4,1
+Dabob,197,N,4,1
+Dabob,198,N,4,1
+Dabob,199,N,4,1
+Dabob,200,N,4,1
+Dabob,201,N,4,1
+Dabob,202,N,4,1
+Dabob,203,N,4,1
+Dabob,204,N,4,1
+Dabob,205,N,4,1
+Dabob,206,N,4,1
+Dabob,207,N,4,1
+Dabob,208,N,4,1
+Dabob,209,N,4,1
+Dabob,210,N,4,1
+Dabob,211,N,4,1
+Dabob,212,N,4,1
+Dabob,213,N,4,1
+Dabob,214,N,4,1
+Dabob,215,N,4,1
+Dabob,216,N,4,1
+Dabob,217,N,4,1
+Dabob,218,N,4,1
+Dabob,219,N,4,1
+Dabob,220,N,4,1
+Dabob,221,N,4,1
+Dabob,222,N,4,1
+Dabob,223,N,4,1
+Dabob,224,N,4,1
+Dabob,225,N,4,1
+Dabob,226,N,4,1
+Dabob,227,N,4,1
+Dabob,228,N,4,1
+Dabob,229,N,4,1
+Dabob,230,N,4,0
+Dabob,231,N,4,0
+Dabob,232,N,4,0
+Dabob,233,N,4,0
+Dabob,234,N,4,0
+Dabob,235,N,4,0
+Dabob,236,N,4,0
+Dabob,237,N,4,0
+Dabob,238,N,4,0
+Dabob,239,N,4,0
+Dabob,240,N,4,0
+Dabob,241,N,4,0
+Dabob,242,N,4,0
+Dabob,243,N,4,0
+Dabob,244,N,4,0
+Dabob,245,N,4,0
+Dabob,246,N,4,0
+Dabob,247,N,4,0
+Dabob,248,N,4,0
+Dabob,249,N,4,0
+Dabob,250,N,4,0
+Dabob,251,N,4,0
+Dabob,252,N,4,0
+Dabob,253,N,4,0
+Dabob,254,N,4,0
+Dabob,255,N,4,0
+Dabob,256,N,4,0
+Dabob,257,N,4,0
+Dabob,258,N,4,0
+Dabob,259,N,4,0
+Dabob,260,N,4,0
+Dabob,261,N,4,0
+Dabob,262,N,4,0
+Dabob,263,N,4,0
+Dabob,264,N,4,0
+Dabob,265,N,4,0
+Dabob,266,N,4,0
+Dabob,267,N,4,0
+Dabob,268,N,4,0
+Dabob,269,N,4,0
+Dabob,270,N,4,0
+Dabob,271,N,4,0
+Dabob,272,N,4,0
+Dabob,273,N,5,1
+Dabob,274,N,5,1
+Dabob,275,N,5,1
+Dabob,276,N,5,1
+Dabob,277,N,5,1
+Dabob,278,N,5,1
+Dabob,279,N,5,1
+Dabob,280,N,5,1
+Dabob,281,N,5,1
+Dabob,282,N,5,1
+Dabob,283,N,5,1
+Dabob,284,N,5,1
+Dabob,285,N,5,1
+Dabob,286,N,5,1
+Dabob,287,N,5,1
+Dabob,288,N,5,1
+Dabob,289,N,5,1
+Dabob,290,N,5,1
+Dabob,291,N,5,1
+Dabob,292,N,5,1
+Dabob,293,N,5,1
+Dabob,294,N,5,1
+Dabob,295,N,5,1
+Dabob,296,N,5,1
+Dabob,297,N,5,1
+Dabob,298,N,5,1
+Dabob,299,N,5,1
+Dabob,300,N,5,1
+Dabob,301,N,5,1
+Dabob,302,N,5,1
+Dabob,303,N,5,1
+Dabob,304,N,5,1
+Dabob,305,N,5,1
+Dabob,306,N,5,1
+Dabob,307,N,5,1
+Dabob,308,N,5,1
+Dabob,309,N,5,1
+Dabob,310,N,5,1
+Dabob,311,N,5,1
+Dabob,312,N,5,1
+Dabob,313,N,5,1
+Dabob,314,N,5,1
+Dabob,315,N,5,1
+Dabob,316,N,5,1
+Dabob,317,N,5,1
+Dabob,318,N,5,1
+Dabob,319,N,5,1
+Dabob,320,N,5,1
+Dabob,321,N,5,1
+Dabob,322,N,5,1
+Dabob,323,N,5,1
+Dabob,324,N,5,1
+Dabob,325,N,5,1
+Dabob,326,N,5,1
+Dabob,327,N,5,1
+Dabob,328,N,5,1
+Dabob,329,N,5,1
+Dabob,330,N,5,1
+Dabob,331,N,5,1
+Dabob,332,N,5,1
+Dabob,333,N,5,1
+Dabob,334,N,5,1
+Dabob,335,N,5,1
+Dabob,336,N,5,1
+Dabob,337,N,5,1
+Dabob,338,N,5,1
+Dabob,339,N,5,1
+Dabob,340,N,5,1
+Dabob,341,N,5,1
+Dabob,342,N,5,1
+Dabob,343,N,5,1
+Dabob,344,N,5,1
+Dabob,345,N,5,1
+Dabob,346,N,5,1
+Dabob,347,N,5,1
+Dabob,348,N,5,1
+Dabob,349,N,5,1
+Dabob,350,N,5,1
+Dabob,351,N,5,1
+Dabob,352,N,5,1
+Dabob,353,N,5,1
+Dabob,354,N,5,1
+Dabob,355,N,5,1
+Dabob,356,N,5,1
+Dabob,357,N,5,1
+Dabob,358,N,5,1
+Dabob,359,N,5,1
+Dabob,360,N,5,1
+Dabob,361,N,5,1
+Dabob,362,N,5,1
+Dabob,363,N,5,1
+Dabob,364,N,5,1
+Dabob,365,N,5,1
+Dabob,366,N,5,1
+Dabob,367,N,5,1
+Dabob,368,N,5,1
+Dabob,369,N,5,1
+Dabob,370,N,5,0
+Dabob,371,N,5,0
+Dabob,372,N,5,0
+Dabob,373,N,5,0
+Dabob,374,N,5,0
+Dabob,375,N,5,0
+Dabob,376,N,5,0
+Dabob,377,N,5,0
+Dabob,378,N,5,0
+Dabob,379,N,5,0
+Dabob,380,N,5,0
+Dabob,381,N,5,0
+Dabob,382,N,5,0
+Dabob,383,N,5,0
+Dabob,384,N,5,0
+Dabob,385,N,5,0
+Dabob,386,N,5,0
+Dabob,387,N,5,0
+Dabob,388,N,5,0
+Dabob,389,N,5,0
+Dabob,390,N,5,0
+Dabob,391,N,5,0
+Dabob,392,N,5,0
+Dabob,393,N,8,1
+Dabob,394,N,8,1
+Dabob,395,N,8,1
+Dabob,396,N,8,1
+Dabob,397,N,8,1
+Dabob,398,N,8,1
+Dabob,399,N,8,1
+Dabob,400,N,8,1
+Dabob,401,N,8,1
+Dabob,402,N,8,1
+Dabob,403,N,8,1
+Dabob,404,N,8,1
+Dabob,405,N,8,1
+Dabob,406,N,8,1
+Dabob,407,N,8,1
+Dabob,408,N,8,1
+Dabob,409,N,8,1
+Dabob,410,N,8,1
+Dabob,411,N,8,1
+Dabob,412,N,8,1
+Dabob,413,N,8,1
+Dabob,414,N,8,0
+Dabob,415,N,8,0
+Dabob,416,N,8,0
+Dabob,417,N,8,0
+Dabob,418,N,8,0
+Dabob,419,N,8,0
+Dabob,420,N,8,0
+Dabob,421,N,8,0
+Dabob,422,N,8,0
+Dabob,423,N,8,0
+Dabob,424,N,8,0
+Dabob,425,N,8,0
+Dabob,426,N,8,0
+Dabob,427,N,8,0
+Dabob,428,N,8,0
+Dabob,429,N,8,0
+Dabob,430,N,8,0
+Dabob,431,N,8,0
+Dabob,432,N,8,0
+Dabob,433,N,8,0
+Dabob,434,N,8,0
+Dabob,435,N,8,0
+Dabob,436,N,8,0
+Dabob,437,N,8,0
+Dabob,438,N,8,0
+Dabob,439,N,8,0
+Dabob,440,N,8,0
+Dabob,441,N,8,0
+Dabob,442,N,8,0
+Dabob,443,N,8,0
+Dabob,444,N,8,0
+Dabob,445,N,8,0
+Dabob,446,N,8,0
+Dabob,447,N,8,0
+Dabob,448,N,8,0
+Dabob,449,N,8,0
+Dabob,450,N,8,0
+Dabob,451,N,8,0
+Dabob,452,N,8,0
+Dabob,453,N,8,0
+Dabob,454,N,8,0
+Dabob,455,N,8,0
+Dabob,456,N,8,0
+Dabob,457,N,8,0
+Dabob,458,N,8,0
+Dabob,459,N,8,0
+Dabob,460,N,8,0
+Dabob,461,N,8,0
+Dabob,462,N,8,0
+Dabob,463,N,8,0
+Dabob,464,N,8,0
+Dabob,465,N,8,0
+Dabob,466,N,8,0
+Dabob,467,N,8,0
+Dabob,468,N,8,0
+Dabob,469,N,8,0
+Dabob,470,N,8,0
+Dabob,471,N,8,0
+Dabob,472,N,8,0
+Dabob,473,N,8,0
+Dabob,474,N,8,0
+Dabob,475,N,8,0
+Dabob,476,N,8,0
+Dabob,477,N,8,0
+Dabob,478,N,8,0
+Dabob,479,N,8,0
+Dabob,480,N,8,0
+Dabob,481,H,4,1
+Dabob,482,H,4,1
+Dabob,483,H,4,1
+Dabob,484,H,4,1
+Dabob,485,H,4,1
+Dabob,486,H,4,1
+Dabob,487,H,4,1
+Dabob,488,H,4,1
+Dabob,489,H,4,1
+Dabob,490,H,4,1
+Dabob,491,H,4,1
+Dabob,492,H,4,1
+Dabob,493,H,4,1
+Dabob,494,H,4,1
+Dabob,495,H,4,1
+Dabob,496,H,4,1
+Dabob,497,H,4,1
+Dabob,498,H,4,1
+Dabob,499,H,4,1
+Dabob,500,H,4,1
+Dabob,501,H,4,1
+Dabob,502,H,4,1
+Dabob,503,H,4,1
+Dabob,504,H,4,1
+Dabob,505,H,4,1
+Dabob,506,H,4,1
+Dabob,507,H,4,1
+Dabob,508,H,4,1
+Dabob,509,H,4,1
+Dabob,510,H,4,1
+Dabob,511,H,4,1
+Dabob,512,H,4,1
+Dabob,513,H,4,1
+Dabob,514,H,4,1
+Dabob,515,H,4,1
+Dabob,516,H,4,1
+Dabob,517,H,4,1
+Dabob,518,H,4,1
+Dabob,519,H,4,1
+Dabob,520,H,4,1
+Dabob,521,H,4,1
+Dabob,522,H,4,1
+Dabob,523,H,4,1
+Dabob,524,H,4,1
+Dabob,525,H,4,1
+Dabob,526,H,4,1
+Dabob,527,H,4,1
+Dabob,528,H,4,1
+Dabob,529,H,4,1
+Dabob,530,H,4,1
+Dabob,531,H,4,1
+Dabob,532,H,4,1
+Dabob,533,H,4,1
+Dabob,534,H,4,1
+Dabob,535,H,4,1
+Dabob,536,H,4,1
+Dabob,537,H,4,1
+Dabob,538,H,4,1
+Dabob,539,H,4,1
+Dabob,540,H,4,1
+Dabob,541,H,4,1
+Dabob,542,H,4,1
+Dabob,543,H,4,1
+Dabob,544,H,4,1
+Dabob,545,H,4,1
+Dabob,546,H,4,1
+Dabob,547,H,4,1
+Dabob,548,H,4,1
+Dabob,549,H,4,1
+Dabob,550,H,4,1
+Dabob,551,H,4,1
+Dabob,552,H,4,1
+Dabob,553,H,4,1
+Dabob,554,H,4,1
+Dabob,555,H,4,1
+Dabob,556,H,4,1
+Dabob,557,H,4,1
+Dabob,558,H,4,1
+Dabob,559,H,4,1
+Dabob,560,H,4,1
+Dabob,561,H,4,1
+Dabob,562,H,4,1
+Dabob,563,H,4,1
+Dabob,564,H,4,1
+Dabob,565,H,4,1
+Dabob,566,H,4,1
+Dabob,567,H,4,1
+Dabob,568,H,4,1
+Dabob,569,H,4,1
+Dabob,570,H,4,1
+Dabob,571,H,4,1
+Dabob,572,H,4,1
+Dabob,573,H,4,1
+Dabob,574,H,4,1
+Dabob,575,H,4,1
+Dabob,576,H,4,1
+Dabob,577,H,4,1
+Dabob,578,H,4,1
+Dabob,579,H,4,1
+Dabob,580,H,4,1
+Dabob,581,H,4,1
+Dabob,582,H,4,1
+Dabob,583,H,4,1
+Dabob,584,H,4,1
+Dabob,585,H,4,1
+Dabob,586,H,4,1
+Dabob,587,H,4,1
+Dabob,588,H,4,1
+Dabob,589,H,4,1
+Dabob,590,H,4,1
+Dabob,591,H,4,1
+Dabob,592,H,4,1
+Dabob,593,H,4,1
+Dabob,594,H,4,0
+Dabob,595,H,4,0
+Dabob,596,H,4,0
+Dabob,597,H,4,0
+Dabob,598,H,4,0
+Dabob,599,H,4,0
+Dabob,600,H,4,0
+Dabob,601,H,4,0
+Dabob,602,H,4,0
+Dabob,603,H,4,0
+Dabob,604,H,4,0
+Dabob,605,H,4,0
+Dabob,606,H,4,0
+Dabob,607,H,4,0
+Dabob,608,H,4,0
+Dabob,609,H,4,0
+Dabob,610,H,4,0
+Dabob,611,H,4,0
+Dabob,612,H,4,0
+Dabob,613,H,4,0
+Dabob,614,H,4,0
+Dabob,615,H,4,0
+Dabob,616,H,4,0
+Dabob,617,H,4,0
+Dabob,618,H,4,0
+Dabob,619,H,4,0
+Dabob,620,H,4,0
+Dabob,621,H,4,0
+Dabob,622,H,4,0
+Dabob,623,H,4,0
+Dabob,624,H,4,0
+Dabob,625,H,4,0
+Dabob,626,H,4,0
+Dabob,627,H,4,0
+Dabob,628,H,4,0
+Dabob,629,H,4,0
+Dabob,630,H,4,0
+Dabob,631,H,4,0
+Dabob,632,H,4,0
+Dabob,633,H,4,0
+Dabob,634,H,4,0
+Dabob,635,H,4,0
+Dabob,636,H,4,0
+Dabob,637,H,4,0
+Dabob,638,H,4,0
+Dabob,639,H,4,0
+Dabob,640,H,4,0
+Dabob,641,H,4,0
+Dabob,642,H,4,0
+Dabob,643,H,4,0
+Dabob,644,H,4,0
+Dabob,645,H,4,0
+Dabob,646,H,4,0
+Dabob,647,H,4,0
+Dabob,648,H,4,0
+Dabob,649,H,4,0
+Dabob,650,H,4,0
+Dabob,651,H,4,0
+Dabob,652,H,4,0
+Dabob,653,H,4,0
+Dabob,654,H,5,1
+Dabob,655,H,5,1
+Dabob,656,H,5,1
+Dabob,657,H,5,1
+Dabob,658,H,5,1
+Dabob,659,H,5,1
+Dabob,660,H,5,1
+Dabob,661,H,5,1
+Dabob,662,H,5,1
+Dabob,663,H,5,1
+Dabob,664,H,5,1
+Dabob,665,H,5,1
+Dabob,666,H,5,1
+Dabob,667,H,5,1
+Dabob,668,H,5,1
+Dabob,669,H,5,1
+Dabob,670,H,5,1
+Dabob,671,H,5,1
+Dabob,672,H,5,1
+Dabob,673,H,5,1
+Dabob,674,H,5,1
+Dabob,675,H,5,1
+Dabob,676,H,5,1
+Dabob,677,H,5,1
+Dabob,678,H,5,1
+Dabob,679,H,5,1
+Dabob,680,H,5,1
+Dabob,681,H,5,1
+Dabob,682,H,5,1
+Dabob,683,H,5,1
+Dabob,684,H,5,1
+Dabob,685,H,5,1
+Dabob,686,H,5,1
+Dabob,687,H,5,1
+Dabob,688,H,5,1
+Dabob,689,H,5,1
+Dabob,690,H,5,1
+Dabob,691,H,5,1
+Dabob,692,H,5,1
+Dabob,693,H,5,1
+Dabob,694,H,5,1
+Dabob,695,H,5,1
+Dabob,696,H,5,1
+Dabob,697,H,5,1
+Dabob,698,H,5,1
+Dabob,699,H,5,1
+Dabob,700,H,5,1
+Dabob,701,H,5,1
+Dabob,702,H,5,1
+Dabob,703,H,5,1
+Dabob,704,H,5,1
+Dabob,705,H,5,1
+Dabob,706,H,5,1
+Dabob,707,H,5,0
+Dabob,708,H,5,0
+Dabob,709,H,5,0
+Dabob,710,H,5,0
+Dabob,711,H,5,0
+Dabob,712,H,5,0
+Dabob,713,H,5,0
+Dabob,714,H,5,0
+Dabob,715,H,5,0
+Dabob,716,H,5,0
+Dabob,717,H,5,0
+Dabob,718,H,5,0
+Dabob,719,H,5,0
+Dabob,720,H,5,0
+Dabob,721,H,5,0
+Dabob,722,H,5,0
+Dabob,723,H,5,0
+Dabob,724,H,5,0
+Dabob,725,H,5,0
+Dabob,726,H,5,0
+Dabob,727,H,5,0
+Dabob,728,H,5,0
+Dabob,729,H,5,0
+Dabob,730,H,5,0
+Dabob,731,H,5,0
+Dabob,732,H,5,0
+Dabob,733,H,5,0
+Dabob,734,H,5,0
+Dabob,735,H,5,0
+Dabob,736,H,5,0
+Dabob,737,H,5,0
+Dabob,738,H,5,0
+Dabob,739,H,5,0
+Dabob,740,H,5,0
+Dabob,741,H,5,0
+Dabob,742,H,5,0
+Dabob,743,H,5,0
+Dabob,744,H,5,0
+Dabob,745,H,5,0
+Dabob,746,H,5,0
+Dabob,747,H,8,1
+Dabob,748,H,8,1
+Dabob,749,H,8,1
+Dabob,750,H,8,0
+Dabob,751,H,8,0
+Dabob,752,H,8,0
+Dabob,753,H,8,0
+Dabob,754,H,8,0
+Dabob,755,H,8,0
+Dabob,756,H,8,0
+Dabob,757,H,8,0
+Dabob,758,H,8,0
+Dabob,759,H,8,0
+Dabob,760,H,8,0
+Dabob,761,H,8,0
+Dabob,762,H,8,0
+Dabob,763,H,8,0
+Dabob,764,H,8,0
+Dabob,765,H,8,0
+Dabob,766,H,8,0
+Dabob,767,H,8,0
+Dabob,768,H,8,0
+Dabob,769,H,8,0
+Dabob,770,H,8,0
+Dabob,771,H,8,0
+Dabob,772,H,8,0
+Dabob,773,H,8,0
+Dabob,774,H,8,0
+Dabob,775,H,8,0
+Dabob,776,H,8,0
+Dabob,777,H,8,0
+Dabob,778,H,8,0
+Dabob,779,H,8,0
+Dabob,780,H,8,0
+Dabob,781,H,8,0
+Dabob,782,H,8,0
+Dabob,783,H,8,0
+Dabob,784,H,8,0
+Dabob,785,H,8,0
+Dabob,786,H,8,0
+Dabob,787,H,8,0
+Dabob,788,H,8,0
+Dabob,789,H,8,0
+Dabob,790,H,8,0
+Dabob,791,H,8,0
+Dabob,792,H,8,0
+Dabob,793,H,8,0
+Dabob,794,H,8,0
+Dabob,795,H,8,0
+Dabob,796,H,8,0
+Dabob,797,H,8,0
+Dabob,798,H,8,0
+Dabob,799,H,8,0
+Dabob,800,H,8,0
+Dabob,801,H,8,0
+Dabob,802,H,8,0
+Dabob,803,H,8,0
+Dabob,804,H,8,0
+Dabob,805,H,8,0
+Dabob,806,H,8,0
+Dabob,807,H,8,0
+Dabob,808,H,8,0
+Dabob,809,H,8,0
+Dabob,810,H,8,0
+Dabob,811,H,8,0
+Dabob,812,H,8,0
+Dabob,813,H,8,0
+Dabob,814,H,8,0
+Dabob,815,H,8,0
+Dabob,816,H,8,0
+Dabob,817,H,8,0
+Dabob,818,H,8,0
+Dabob,819,H,8,0
+Dabob,820,H,8,0
+Dabob,821,H,8,0
+Dabob,822,H,8,0
+Dabob,823,H,8,0
+Dabob,824,H,8,0
+Dabob,825,H,8,0
+Dabob,826,H,8,0
+Dabob,827,H,8,0
+Dabob,828,H,8,0
+Dabob,829,H,8,0
+Dabob,830,H,8,0
+Dabob,831,H,8,0
+Dabob,832,H,8,0
+Dabob,833,H,8,0
+Dabob,834,H,8,0
+Dabob,835,H,8,0
+Dabob,836,H,8,0
+Dabob,837,H,8,0
+Dabob,838,H,8,0
+Dabob,839,H,8,0
+Dabob,840,H,8,0
+Dabob,841,H,8,0
+Dabob,842,H,8,0
+Dabob,843,H,8,0
+Dabob,844,H,8,0
+Dabob,845,H,8,0
+Dabob,846,H,8,0
+Dabob,847,H,8,0
+Dabob,848,H,8,0
+Dabob,849,H,8,0
+Dabob,850,H,8,0
+Dabob,851,H,8,0
+Dabob,852,H,8,0
+Dabob,853,H,8,0
+Dabob,854,H,8,0
+Dabob,855,H,8,0
+Dabob,856,H,8,0
+Dabob,857,H,8,0
+Dabob,858,H,8,0
+Dabob,859,H,8,0
+Dabob,860,H,8,0
+Dabob,861,H,8,0
+Dabob,862,H,8,0
+Dabob,863,H,8,0
+Dabob,864,H,8,0
+Dabob,865,H,8,0
+Dabob,866,H,8,0
+Dabob,867,H,8,0
+Dabob,868,H,8,0
+Dabob,869,H,8,0
+Dabob,870,H,8,0
+Dabob,871,H,8,0
+Dabob,872,H,8,0
+Dabob,873,H,8,0
+Dabob,874,H,8,0
+Dabob,875,H,8,0
+Dabob,876,H,8,0
+Dabob,877,H,8,0
+Dabob,878,H,8,0
+Dabob,879,H,8,0
+Dabob,880,H,8,0
+Dabob,881,H,8,0
+Dabob,882,H,8,0
+Dabob,883,H,8,0
+Dabob,884,H,8,0
+Dabob,885,H,8,0
+Dabob,886,H,8,0
+Dabob,887,H,8,0
+Dabob,888,H,8,0
+Dabob,889,H,8,0
+Dabob,890,H,8,0
+Dabob,891,H,8,0
+Dabob,892,H,8,0
+Dabob,893,H,8,0
+Dabob,894,H,8,0
+Dabob,895,H,8,0
+Dabob,896,H,8,0
+Dabob,897,H,8,0
+Dabob,898,H,8,0
+Dabob,899,H,8,0
+Dabob,900,H,8,0
+Dabob,901,H,8,0
+Dabob,902,H,8,0
+Dabob,903,H,8,0
+Dabob,904,H,8,0
+Dabob,905,H,8,0
+Dabob,906,H,8,0
+Dabob,907,H,8,0
+Dabob,908,H,8,0
+Dabob,909,H,8,0
+Dabob,910,H,8,0
+Dabob,911,H,8,0
+Dabob,912,H,8,0
+Dabob,913,H,8,0
+Dabob,914,H,8,0
+Dabob,915,H,8,0
+Dabob,916,H,8,0
+Dabob,917,H,8,0
+Dabob,918,H,8,0
+Dabob,919,H,8,0
+Dabob,920,H,8,0
+Dabob,921,H,8,0
+Dabob,922,H,8,0
+Dabob,923,H,8,0
+Dabob,924,H,8,0
+Dabob,925,H,8,0
+Dabob,926,H,8,0
+Dabob,927,H,8,0
+Dabob,928,H,8,0
+Dabob,929,H,8,0
+Dabob,930,H,8,0
+Dabob,931,H,8,0
+Dabob,932,H,8,0
+Dabob,933,H,8,0
+Dabob,934,H,8,0
+Dabob,935,H,8,0
+Dabob,936,H,8,0
+Dabob,937,H,8,0
+Dabob,938,H,8,0
+Dabob,939,H,8,0
+Dabob,940,H,8,0
+Dabob,941,H,8,0
+Dabob,942,H,8,0
+Dabob,943,H,8,0
+Dabob,944,H,8,0
+Dabob,945,H,8,0
+Dabob,946,H,8,0
+Dabob,947,H,8,0
+Dabob,948,H,8,0
+Dabob,949,H,8,0
+Dabob,950,H,8,0
+Dabob,951,H,8,0
+Dabob,952,H,8,0
+Dabob,953,H,8,0
+Dabob,954,H,8,0
+Dabob,955,H,8,0
+Dabob,956,H,8,0
+Dabob,957,H,8,0
+Dabob,958,H,8,0
+Dabob,959,H,8,0
+Dabob,960,H,8,0
+Dabob,961,S,4,1
+Dabob,962,S,4,1
+Dabob,963,S,4,1
+Dabob,964,S,4,1
+Dabob,965,S,4,1
+Dabob,966,S,4,1
+Dabob,967,S,4,1
+Dabob,968,S,4,1
+Dabob,969,S,4,1
+Dabob,970,S,4,1
+Dabob,971,S,4,1
+Dabob,972,S,4,1
+Dabob,973,S,4,1
+Dabob,974,S,4,1
+Dabob,975,S,4,1
+Dabob,976,S,4,1
+Dabob,977,S,4,1
+Dabob,978,S,4,1
+Dabob,979,S,4,1
+Dabob,980,S,4,1
+Dabob,981,S,4,1
+Dabob,982,S,4,1
+Dabob,983,S,4,1
+Dabob,984,S,4,1
+Dabob,985,S,4,1
+Dabob,986,S,4,1
+Dabob,987,S,4,1
+Dabob,988,S,4,1
+Dabob,989,S,4,1
+Dabob,990,S,4,1
+Dabob,991,S,4,1
+Dabob,992,S,4,1
+Dabob,993,S,4,1
+Dabob,994,S,4,1
+Dabob,995,S,4,1
+Dabob,996,S,4,1
+Dabob,997,S,4,1
+Dabob,998,S,4,1
+Dabob,999,S,4,1
+Dabob,1000,S,4,1
+Dabob,1001,S,4,1
+Dabob,1002,S,4,1
+Dabob,1003,S,4,1
+Dabob,1004,S,4,1
+Dabob,1005,S,4,1
+Dabob,1006,S,4,1
+Dabob,1007,S,4,1
+Dabob,1008,S,4,1
+Dabob,1009,S,4,1
+Dabob,1010,S,4,1
+Dabob,1011,S,4,1
+Dabob,1012,S,4,1
+Dabob,1013,S,4,1
+Dabob,1014,S,4,1
+Dabob,1015,S,4,1
+Dabob,1016,S,4,1
+Dabob,1017,S,4,1
+Dabob,1018,S,4,1
+Dabob,1019,S,4,1
+Dabob,1020,S,4,1
+Dabob,1021,S,4,1
+Dabob,1022,S,4,1
+Dabob,1023,S,4,1
+Dabob,1024,S,4,1
+Dabob,1025,S,4,1
+Dabob,1026,S,4,1
+Dabob,1027,S,4,1
+Dabob,1028,S,4,1
+Dabob,1029,S,4,1
+Dabob,1030,S,4,1
+Dabob,1031,S,4,1
+Dabob,1032,S,4,1
+Dabob,1033,S,4,1
+Dabob,1034,S,4,1
+Dabob,1035,S,4,1
+Dabob,1036,S,4,1
+Dabob,1037,S,4,1
+Dabob,1038,S,4,1
+Dabob,1039,S,4,1
+Dabob,1040,S,4,1
+Dabob,1041,S,4,1
+Dabob,1042,S,4,1
+Dabob,1043,S,4,1
+Dabob,1044,S,4,1
+Dabob,1045,S,4,1
+Dabob,1046,S,4,1
+Dabob,1047,S,4,1
+Dabob,1048,S,4,1
+Dabob,1049,S,4,1
+Dabob,1050,S,4,1
+Dabob,1051,S,4,1
+Dabob,1052,S,4,1
+Dabob,1053,S,4,1
+Dabob,1054,S,4,1
+Dabob,1055,S,4,1
+Dabob,1056,S,4,1
+Dabob,1057,S,4,1
+Dabob,1058,S,4,1
+Dabob,1059,S,4,1
+Dabob,1060,S,4,1
+Dabob,1061,S,4,1
+Dabob,1062,S,4,1
+Dabob,1063,S,4,1
+Dabob,1064,S,4,1
+Dabob,1065,S,4,1
+Dabob,1066,S,4,1
+Dabob,1067,S,4,1
+Dabob,1068,S,4,1
+Dabob,1069,S,4,1
+Dabob,1070,S,4,1
+Dabob,1071,S,4,1
+Dabob,1072,S,4,1
+Dabob,1073,S,4,1
+Dabob,1074,S,4,1
+Dabob,1075,S,4,1
+Dabob,1076,S,4,1
+Dabob,1077,S,4,1
+Dabob,1078,S,4,1
+Dabob,1079,S,4,1
+Dabob,1080,S,4,1
+Dabob,1081,S,4,1
+Dabob,1082,S,4,1
+Dabob,1083,S,4,1
+Dabob,1084,S,4,1
+Dabob,1085,S,4,1
+Dabob,1086,S,4,1
+Dabob,1087,S,4,1
+Dabob,1088,S,4,1
+Dabob,1089,S,4,1
+Dabob,1090,S,4,1
+Dabob,1091,S,4,1
+Dabob,1092,S,4,1
+Dabob,1093,S,4,1
+Dabob,1094,S,4,1
+Dabob,1095,S,4,1
+Dabob,1096,S,4,1
+Dabob,1097,S,4,1
+Dabob,1098,S,4,1
+Dabob,1099,S,4,1
+Dabob,1100,S,4,1
+Dabob,1101,S,4,1
+Dabob,1102,S,4,1
+Dabob,1103,S,4,1
+Dabob,1104,S,4,1
+Dabob,1105,S,4,1
+Dabob,1106,S,4,1
+Dabob,1107,S,4,1
+Dabob,1108,S,4,1
+Dabob,1109,S,4,1
+Dabob,1110,S,4,1
+Dabob,1111,S,4,1
+Dabob,1112,S,4,1
+Dabob,1113,S,4,1
+Dabob,1114,S,4,1
+Dabob,1115,S,4,1
+Dabob,1116,S,4,1
+Dabob,1117,S,4,1
+Dabob,1118,S,4,1
+Dabob,1119,S,4,1
+Dabob,1120,S,4,1
+Dabob,1121,S,4,1
+Dabob,1122,S,4,1
+Dabob,1123,S,4,1
+Dabob,1124,S,4,1
+Dabob,1125,S,4,1
+Dabob,1126,S,4,1
+Dabob,1127,S,4,1
+Dabob,1128,S,4,1
+Dabob,1129,S,4,1
+Dabob,1130,S,4,1
+Dabob,1131,S,4,1
+Dabob,1132,S,4,1
+Dabob,1133,S,4,1
+Dabob,1134,S,4,1
+Dabob,1135,S,4,1
+Dabob,1136,S,4,1
+Dabob,1137,S,4,1
+Dabob,1138,S,4,1
+Dabob,1139,S,4,1
+Dabob,1140,S,4,1
+Dabob,1141,S,4,0
+Dabob,1142,S,4,0
+Dabob,1143,S,4,0
+Dabob,1144,S,4,0
+Dabob,1145,S,4,0
+Dabob,1146,S,4,0
+Dabob,1147,S,4,0
+Dabob,1148,S,4,0
+Dabob,1149,S,4,0
+Dabob,1150,S,4,0
+Dabob,1151,S,4,0
+Dabob,1152,S,4,0
+Dabob,1153,S,4,0
+Dabob,1154,S,4,0
+Dabob,1155,S,4,0
+Dabob,1156,S,4,0
+Dabob,1157,S,4,0
+Dabob,1158,S,4,0
+Dabob,1159,S,4,0
+Dabob,1160,S,4,0
+Dabob,1161,S,4,0
+Dabob,1162,S,4,0
+Dabob,1163,S,4,0
+Dabob,1164,S,4,0
+Dabob,1165,S,4,0
+Dabob,1166,S,4,0
+Dabob,1167,S,4,0
+Dabob,1168,S,4,0
+Dabob,1169,S,4,0
+Dabob,1170,S,4,0
+Dabob,1171,S,4,0
+Dabob,1172,S,4,0
+Dabob,1173,S,4,0
+Dabob,1174,S,4,0
+Dabob,1175,S,4,0
+Dabob,1176,S,4,0
+Dabob,1177,S,4,0
+Dabob,1178,S,4,0
+Dabob,1179,S,4,0
+Dabob,1180,S,4,0
+Dabob,1181,S,4,0
+Dabob,1182,S,4,0
+Dabob,1183,S,4,0
+Dabob,1184,S,4,0
+Dabob,1185,S,4,0
+Dabob,1186,S,4,0
+Dabob,1187,S,4,0
+Dabob,1188,S,4,0
+Dabob,1189,S,4,0
+Dabob,1190,S,4,0
+Dabob,1191,S,4,0
+Dabob,1192,S,5,1
+Dabob,1193,S,5,1
+Dabob,1194,S,5,1
+Dabob,1195,S,5,1
+Dabob,1196,S,5,1
+Dabob,1197,S,5,1
+Dabob,1198,S,5,1
+Dabob,1199,S,5,1
+Dabob,1200,S,5,1
+Dabob,1201,S,5,1
+Dabob,1202,S,5,1
+Dabob,1203,S,5,1
+Dabob,1204,S,5,1
+Dabob,1205,S,5,1
+Dabob,1206,S,5,1
+Dabob,1207,S,5,1
+Dabob,1208,S,5,1
+Dabob,1209,S,5,1
+Dabob,1210,S,5,1
+Dabob,1211,S,5,1
+Dabob,1212,S,5,1
+Dabob,1213,S,5,1
+Dabob,1214,S,5,1
+Dabob,1215,S,5,1
+Dabob,1216,S,5,1
+Dabob,1217,S,5,1
+Dabob,1218,S,5,1
+Dabob,1219,S,5,1
+Dabob,1220,S,5,1
+Dabob,1221,S,5,1
+Dabob,1222,S,5,1
+Dabob,1223,S,5,1
+Dabob,1224,S,5,1
+Dabob,1225,S,5,1
+Dabob,1226,S,5,1
+Dabob,1227,S,5,1
+Dabob,1228,S,5,1
+Dabob,1229,S,5,1
+Dabob,1230,S,5,1
+Dabob,1231,S,5,1
+Dabob,1232,S,5,1
+Dabob,1233,S,5,1
+Dabob,1234,S,5,1
+Dabob,1235,S,5,1
+Dabob,1236,S,5,1
+Dabob,1237,S,5,1
+Dabob,1238,S,5,1
+Dabob,1239,S,5,1
+Dabob,1240,S,5,1
+Dabob,1241,S,5,1
+Dabob,1242,S,5,1
+Dabob,1243,S,5,1
+Dabob,1244,S,5,1
+Dabob,1245,S,5,1
+Dabob,1246,S,5,1
+Dabob,1247,S,5,1
+Dabob,1248,S,5,1
+Dabob,1249,S,5,1
+Dabob,1250,S,5,1
+Dabob,1251,S,5,1
+Dabob,1252,S,5,1
+Dabob,1253,S,5,1
+Dabob,1254,S,5,1
+Dabob,1255,S,5,1
+Dabob,1256,S,5,1
+Dabob,1257,S,5,1
+Dabob,1258,S,5,1
+Dabob,1259,S,5,1
+Dabob,1260,S,5,1
+Dabob,1261,S,5,1
+Dabob,1262,S,5,1
+Dabob,1263,S,5,0
+Dabob,1264,S,5,0
+Dabob,1265,S,5,0
+Dabob,1266,S,5,0
+Dabob,1267,S,5,0
+Dabob,1268,S,5,0
+Dabob,1269,S,5,0
+Dabob,1270,S,5,0
+Dabob,1271,S,5,0
+Dabob,1272,S,5,0
+Dabob,1273,S,5,0
+Dabob,1274,S,5,0
+Dabob,1275,S,5,0
+Dabob,1276,S,5,0
+Dabob,1277,S,5,0
+Dabob,1278,S,5,0
+Dabob,1279,S,5,0
+Dabob,1280,S,5,0
+Dabob,1281,S,5,0
+Dabob,1282,S,5,0
+Dabob,1283,S,5,0
+Dabob,1284,S,5,0
+Dabob,1285,S,5,0
+Dabob,1286,S,5,0
+Dabob,1287,S,5,0
+Dabob,1288,S,5,0
+Dabob,1289,S,5,0
+Dabob,1290,S,5,0
+Dabob,1291,S,5,0
+Dabob,1292,S,5,0
+Dabob,1293,S,5,0
+Dabob,1294,S,5,0
+Dabob,1295,S,5,0
+Dabob,1296,S,5,0
+Dabob,1297,S,8,1
+Dabob,1298,S,8,1
+Dabob,1299,S,8,1
+Dabob,1300,S,8,1
+Dabob,1301,S,8,1
+Dabob,1302,S,8,1
+Dabob,1303,S,8,1
+Dabob,1304,S,8,1
+Dabob,1305,S,8,1
+Dabob,1306,S,8,1
+Dabob,1307,S,8,1
+Dabob,1308,S,8,1
+Dabob,1309,S,8,1
+Dabob,1310,S,8,1
+Dabob,1311,S,8,1
+Dabob,1312,S,8,1
+Dabob,1313,S,8,1
+Dabob,1314,S,8,1
+Dabob,1315,S,8,1
+Dabob,1316,S,8,1
+Dabob,1317,S,8,1
+Dabob,1318,S,8,1
+Dabob,1319,S,8,1
+Dabob,1320,S,8,1
+Dabob,1321,S,8,1
+Dabob,1322,S,8,1
+Dabob,1323,S,8,1
+Dabob,1324,S,8,1
+Dabob,1325,S,8,1
+Dabob,1326,S,8,1
+Dabob,1327,S,8,1
+Dabob,1328,S,8,1
+Dabob,1329,S,8,1
+Dabob,1330,S,8,0
+Dabob,1331,S,8,0
+Dabob,1332,S,8,0
+Dabob,1333,S,8,0
+Dabob,1334,S,8,0
+Dabob,1335,S,8,0
+Dabob,1336,S,8,0
+Dabob,1337,S,8,0
+Dabob,1338,S,8,0
+Dabob,1339,S,8,0
+Dabob,1340,S,8,0
+Dabob,1341,S,8,0
+Dabob,1342,S,8,0
+Dabob,1343,S,8,0
+Dabob,1344,S,8,0
+Dabob,1345,S,8,0
+Dabob,1346,S,8,0
+Dabob,1347,S,8,0
+Dabob,1348,S,8,0
+Dabob,1349,S,8,0
+Dabob,1350,S,8,0
+Dabob,1351,S,8,0
+Dabob,1352,S,8,0
+Dabob,1353,S,8,0
+Dabob,1354,S,8,0
+Dabob,1355,S,8,0
+Dabob,1356,S,8,0
+Dabob,1357,S,8,0
+Dabob,1358,S,8,0
+Dabob,1359,S,8,0
+Dabob,1360,S,8,0
+Dabob,1361,S,8,0
+Dabob,1362,S,8,0
+Dabob,1363,S,8,0
+Dabob,1364,S,8,0
+Dabob,1365,S,8,0
+Dabob,1366,S,8,0
+Dabob,1367,S,8,0
+Dabob,1368,S,8,0
+Dabob,1369,S,8,0
+Dabob,1370,S,8,0
+Dabob,1371,S,8,0
+Dabob,1372,S,8,0
+Dabob,1373,S,8,0
+Dabob,1374,S,8,0
+Dabob,1375,S,8,0
+Dabob,1376,S,8,0
+Dabob,1377,S,8,0
+Dabob,1378,S,8,0
+Dabob,1379,S,8,0
+Dabob,1380,S,8,0
+Dabob,1381,S,8,0
+Dabob,1382,S,8,0
+Dabob,1383,S,8,0
+Dabob,1384,S,8,0
+Dabob,1385,S,8,0
+Dabob,1386,S,8,0
+Dabob,1387,S,8,0
+Dabob,1388,S,8,0
+Dabob,1389,S,8,0
+Dabob,1390,S,8,0
+Dabob,1391,S,8,0
+Dabob,1392,S,8,0
+Dabob,1393,S,8,0
+Dabob,1394,S,8,0
+Dabob,1395,S,8,0
+Dabob,1396,S,8,0
+Dabob,1397,S,8,0
+Dabob,1398,S,8,0
+Dabob,1399,S,8,0
+Dabob,1400,S,8,0
+Dabob,1401,S,8,0
+Dabob,1402,S,8,0
+Dabob,1403,S,8,0
+Dabob,1404,S,8,0
+Dabob,1405,S,8,0
+Dabob,1406,S,8,0
+Dabob,1407,S,8,0
+Dabob,1408,S,8,0
+Dabob,1409,S,8,0
+Dabob,1410,S,8,0
+Dabob,1411,S,8,0
+Dabob,1412,S,8,0
+Dabob,1413,S,8,0
+Dabob,1414,S,8,0
+Dabob,1415,S,8,0
+Dabob,1416,S,8,0
+Dabob,1417,S,8,0
+Dabob,1418,S,8,0
+Dabob,1419,S,8,0
+Dabob,1420,S,8,0
+Dabob,1421,S,8,0
+Dabob,1422,S,8,0
+Dabob,1423,S,8,0
+Dabob,1424,S,8,0
+Dabob,1425,S,8,0
+Dabob,1426,S,8,0
+Dabob,1427,S,8,0
+Dabob,1428,S,8,0
+Dabob,1429,S,8,0
+Dabob,1430,S,8,0
+Dabob,1431,S,8,0
+Dabob,1432,S,8,0
+Dabob,1433,S,8,0
+Dabob,1434,S,8,0
+Dabob,1435,S,8,0
+Dabob,1436,S,8,0
+Dabob,1437,S,8,0
+Dabob,1438,S,8,0
+Dabob,1439,S,8,0
+Dabob,1440,S,8,0
+Fidalgo,1,N,4,1
+Fidalgo,2,N,4,1
+Fidalgo,3,N,4,1
+Fidalgo,4,N,4,1
+Fidalgo,5,N,4,1
+Fidalgo,6,N,4,1
+Fidalgo,7,N,4,1
+Fidalgo,8,N,4,1
+Fidalgo,9,N,4,1
+Fidalgo,10,N,4,1
+Fidalgo,11,N,4,1
+Fidalgo,12,N,4,1
+Fidalgo,13,N,4,1
+Fidalgo,14,N,4,1
+Fidalgo,15,N,4,1
+Fidalgo,16,N,4,1
+Fidalgo,17,N,4,1
+Fidalgo,18,N,4,1
+Fidalgo,19,N,4,0
+Fidalgo,20,N,4,0
+Fidalgo,21,N,4,0
+Fidalgo,22,N,4,0
+Fidalgo,23,N,4,0
+Fidalgo,24,N,4,0
+Fidalgo,25,N,4,0
+Fidalgo,26,N,4,0
+Fidalgo,27,N,4,0
+Fidalgo,28,N,4,0
+Fidalgo,29,N,4,0
+Fidalgo,30,N,4,0
+Fidalgo,31,N,4,0
+Fidalgo,32,N,4,0
+Fidalgo,33,N,4,0
+Fidalgo,34,N,4,0
+Fidalgo,35,N,4,0
+Fidalgo,36,N,4,0
+Fidalgo,37,N,4,0
+Fidalgo,38,N,4,0
+Fidalgo,39,N,4,0
+Fidalgo,40,N,4,0
+Fidalgo,41,N,4,0
+Fidalgo,42,N,4,0
+Fidalgo,43,N,4,0
+Fidalgo,44,N,4,0
+Fidalgo,45,N,4,0
+Fidalgo,46,N,4,0
+Fidalgo,47,N,4,0
+Fidalgo,48,N,4,0
+Fidalgo,49,N,4,0
+Fidalgo,50,N,4,0
+Fidalgo,51,N,6,1
+Fidalgo,52,N,6,1
+Fidalgo,53,N,6,1
+Fidalgo,54,N,6,1
+Fidalgo,55,N,6,1
+Fidalgo,56,N,6,1
+Fidalgo,57,N,6,1
+Fidalgo,58,N,6,1
+Fidalgo,59,N,6,1
+Fidalgo,60,N,6,1
+Fidalgo,61,N,6,1
+Fidalgo,62,N,6,1
+Fidalgo,63,N,6,1
+Fidalgo,64,N,6,1
+Fidalgo,65,N,6,1
+Fidalgo,66,N,6,1
+Fidalgo,67,N,6,1
+Fidalgo,68,N,6,1
+Fidalgo,69,N,6,1
+Fidalgo,70,N,6,1
+Fidalgo,71,N,6,1
+Fidalgo,72,N,6,1
+Fidalgo,73,N,6,1
+Fidalgo,74,N,6,1
+Fidalgo,75,N,6,1
+Fidalgo,76,N,6,1
+Fidalgo,77,N,6,1
+Fidalgo,78,N,6,1
+Fidalgo,79,N,6,1
+Fidalgo,80,N,6,1
+Fidalgo,81,N,6,1
+Fidalgo,82,N,6,1
+Fidalgo,83,N,6,1
+Fidalgo,84,N,6,1
+Fidalgo,85,N,6,1
+Fidalgo,86,N,6,1
+Fidalgo,87,N,9,1
+Fidalgo,88,N,9,1
+Fidalgo,89,N,9,1
+Fidalgo,90,N,9,1
+Fidalgo,91,N,9,1
+Fidalgo,92,N,9,1
+Fidalgo,93,N,9,1
+Fidalgo,94,N,11,0
+Fidalgo,95,N,11,0
+Fidalgo,96,N,11,0
+Fidalgo,97,N,11,0
+Fidalgo,98,N,11,0
+Fidalgo,99,N,11,0
+Fidalgo,100,N,11,0
+Fidalgo,101,N,11,0
+Fidalgo,102,N,11,0
+Fidalgo,103,N,11,0
+Fidalgo,104,N,11,0
+Fidalgo,105,N,11,0
+Fidalgo,106,N,11,0
+Fidalgo,107,N,11,0
+Fidalgo,108,N,11,0
+Fidalgo,109,N,11,0
+Fidalgo,110,N,11,0
+Fidalgo,111,N,11,0
+Fidalgo,112,N,11,0
+Fidalgo,113,N,11,0
+Fidalgo,114,N,11,0
+Fidalgo,115,N,11,0
+Fidalgo,116,N,11,0
+Fidalgo,117,N,11,0
+Fidalgo,118,N,11,0
+Fidalgo,119,N,11,0
+Fidalgo,120,N,11,0
+Fidalgo,121,N,11,0
+Fidalgo,122,N,11,0
+Fidalgo,123,N,11,0
+Fidalgo,124,N,11,0
+Fidalgo,125,N,11,0
+Fidalgo,126,N,11,0
+Fidalgo,127,N,11,0
+Fidalgo,128,N,11,0
+Fidalgo,129,N,11,0
+Fidalgo,130,N,11,0
+Fidalgo,131,N,11,0
+Fidalgo,132,N,11,0
+Fidalgo,133,N,11,0
+Fidalgo,134,N,11,0
+Fidalgo,135,N,11,0
+Fidalgo,136,N,11,0
+Fidalgo,137,N,11,0
+Fidalgo,138,N,11,0
+Fidalgo,139,N,11,0
+Fidalgo,140,N,11,0
+Fidalgo,141,N,11,0
+Fidalgo,142,N,11,0
+Fidalgo,143,N,11,0
+Fidalgo,144,N,11,0
+Fidalgo,145,N,11,0
+Fidalgo,146,N,11,0
+Fidalgo,147,N,11,0
+Fidalgo,148,N,11,0
+Fidalgo,149,N,11,0
+Fidalgo,150,N,11,0
+Fidalgo,151,N,11,0
+Fidalgo,152,N,11,0
+Fidalgo,153,N,11,0
+Fidalgo,154,N,11,0
+Fidalgo,155,N,11,0
+Fidalgo,156,N,11,0
+Fidalgo,157,N,11,0
+Fidalgo,158,N,11,0
+Fidalgo,159,N,11,0
+Fidalgo,160,N,11,0
+Fidalgo,161,N,11,0
+Fidalgo,162,N,11,0
+Fidalgo,163,N,11,0
+Fidalgo,164,N,11,0
+Fidalgo,165,N,11,0
+Fidalgo,166,N,11,0
+Fidalgo,167,N,11,0
+Fidalgo,168,N,11,0
+Fidalgo,169,N,11,0
+Fidalgo,170,N,11,0
+Fidalgo,171,N,11,0
+Fidalgo,172,N,11,0
+Fidalgo,173,N,11,0
+Fidalgo,174,N,11,0
+Fidalgo,175,N,11,0
+Fidalgo,176,N,11,0
+Fidalgo,177,N,11,0
+Fidalgo,178,N,11,0
+Fidalgo,179,N,11,0
+Fidalgo,180,N,11,0
+Fidalgo,181,N,11,0
+Fidalgo,182,N,11,0
+Fidalgo,183,N,11,0
+Fidalgo,184,N,11,0
+Fidalgo,185,N,11,0
+Fidalgo,186,N,11,0
+Fidalgo,187,N,11,0
+Fidalgo,188,N,11,0
+Fidalgo,189,N,11,0
+Fidalgo,190,N,11,0
+Fidalgo,191,N,11,0
+Fidalgo,192,N,11,0
+Fidalgo,193,N,11,0
+Fidalgo,194,N,11,0
+Fidalgo,195,N,11,0
+Fidalgo,196,N,11,0
+Fidalgo,197,N,11,0
+Fidalgo,198,N,11,0
+Fidalgo,199,N,11,0
+Fidalgo,200,N,11,0
+Fidalgo,201,N,11,0
+Fidalgo,202,N,11,0
+Fidalgo,203,N,11,0
+Fidalgo,204,N,11,0
+Fidalgo,205,N,11,0
+Fidalgo,206,N,11,0
+Fidalgo,207,N,11,0
+Fidalgo,208,N,11,0
+Fidalgo,209,N,11,0
+Fidalgo,210,N,11,0
+Fidalgo,211,N,11,0
+Fidalgo,212,N,11,0
+Fidalgo,213,N,11,0
+Fidalgo,214,N,11,0
+Fidalgo,215,N,11,0
+Fidalgo,216,N,11,0
+Fidalgo,217,N,11,0
+Fidalgo,218,N,11,0
+Fidalgo,219,N,11,0
+Fidalgo,220,N,11,0
+Fidalgo,221,N,11,0
+Fidalgo,222,N,11,0
+Fidalgo,223,N,11,0
+Fidalgo,224,N,11,0
+Fidalgo,225,N,11,0
+Fidalgo,226,N,11,0
+Fidalgo,227,N,11,0
+Fidalgo,228,N,11,0
+Fidalgo,229,N,11,0
+Fidalgo,230,N,11,0
+Fidalgo,231,N,11,0
+Fidalgo,232,N,11,0
+Fidalgo,233,N,11,0
+Fidalgo,234,N,11,0
+Fidalgo,235,N,11,0
+Fidalgo,236,N,11,0
+Fidalgo,237,N,11,0
+Fidalgo,238,N,11,0
+Fidalgo,239,N,11,0
+Fidalgo,240,N,11,0
+Fidalgo,241,N,11,0
+Fidalgo,242,N,11,0
+Fidalgo,243,N,11,0
+Fidalgo,244,N,11,0
+Fidalgo,245,N,11,0
+Fidalgo,246,N,11,0
+Fidalgo,247,N,11,0
+Fidalgo,248,N,11,0
+Fidalgo,249,N,11,0
+Fidalgo,250,N,11,0
+Fidalgo,251,N,11,0
+Fidalgo,252,N,11,0
+Fidalgo,253,N,11,0
+Fidalgo,254,N,11,0
+Fidalgo,255,N,11,0
+Fidalgo,256,N,11,0
+Fidalgo,257,N,11,0
+Fidalgo,258,N,11,0
+Fidalgo,259,N,11,0
+Fidalgo,260,N,11,0
+Fidalgo,261,N,11,0
+Fidalgo,262,N,11,0
+Fidalgo,263,N,11,0
+Fidalgo,264,N,11,0
+Fidalgo,265,N,11,0
+Fidalgo,266,N,11,0
+Fidalgo,267,N,11,0
+Fidalgo,268,N,11,0
+Fidalgo,269,N,11,0
+Fidalgo,270,N,11,0
+Fidalgo,271,N,11,0
+Fidalgo,272,N,11,0
+Fidalgo,273,N,11,0
+Fidalgo,274,N,11,0
+Fidalgo,275,N,11,0
+Fidalgo,276,N,11,0
+Fidalgo,277,N,11,0
+Fidalgo,278,N,11,0
+Fidalgo,279,N,11,0
+Fidalgo,280,N,11,0
+Fidalgo,281,N,11,0
+Fidalgo,282,N,11,0
+Fidalgo,283,N,11,0
+Fidalgo,284,N,11,0
+Fidalgo,285,N,11,0
+Fidalgo,286,N,11,0
+Fidalgo,287,N,11,0
+Fidalgo,288,N,11,0
+Fidalgo,289,N,11,0
+Fidalgo,290,N,11,0
+Fidalgo,291,N,11,0
+Fidalgo,292,N,11,0
+Fidalgo,293,N,11,0
+Fidalgo,294,N,11,0
+Fidalgo,295,N,11,0
+Fidalgo,296,N,11,0
+Fidalgo,297,N,11,0
+Fidalgo,298,N,11,0
+Fidalgo,299,N,11,0
+Fidalgo,300,N,11,0
+Fidalgo,301,N,11,0
+Fidalgo,302,N,11,0
+Fidalgo,303,N,11,0
+Fidalgo,304,N,11,0
+Fidalgo,305,N,11,0
+Fidalgo,306,N,11,0
+Fidalgo,307,N,11,0
+Fidalgo,308,N,11,0
+Fidalgo,309,N,11,0
+Fidalgo,310,N,11,0
+Fidalgo,311,N,11,0
+Fidalgo,312,N,11,0
+Fidalgo,313,N,11,0
+Fidalgo,314,N,11,0
+Fidalgo,315,N,11,0
+Fidalgo,316,N,11,0
+Fidalgo,317,N,11,0
+Fidalgo,318,N,11,0
+Fidalgo,319,N,11,0
+Fidalgo,320,N,11,0
+Fidalgo,321,N,11,0
+Fidalgo,322,N,11,0
+Fidalgo,323,N,11,0
+Fidalgo,324,N,11,0
+Fidalgo,325,N,11,0
+Fidalgo,326,N,11,0
+Fidalgo,327,N,11,0
+Fidalgo,328,N,11,0
+Fidalgo,329,N,11,0
+Fidalgo,330,N,11,0
+Fidalgo,331,N,11,0
+Fidalgo,332,N,11,0
+Fidalgo,333,N,11,0
+Fidalgo,334,N,11,0
+Fidalgo,335,N,11,0
+Fidalgo,336,N,11,0
+Fidalgo,337,N,11,0
+Fidalgo,338,N,11,0
+Fidalgo,339,N,11,0
+Fidalgo,340,N,11,0
+Fidalgo,341,N,11,0
+Fidalgo,342,N,11,0
+Fidalgo,343,N,11,0
+Fidalgo,344,N,11,0
+Fidalgo,345,N,11,0
+Fidalgo,346,N,11,0
+Fidalgo,347,N,11,0
+Fidalgo,348,N,11,0
+Fidalgo,349,N,11,0
+Fidalgo,350,N,11,0
+Fidalgo,351,N,11,0
+Fidalgo,352,N,11,0
+Fidalgo,353,N,11,0
+Fidalgo,354,N,11,0
+Fidalgo,355,N,11,0
+Fidalgo,356,N,11,0
+Fidalgo,357,N,11,0
+Fidalgo,358,N,11,0
+Fidalgo,359,N,11,0
+Fidalgo,360,N,11,0
+Fidalgo,361,N,11,0
+Fidalgo,362,N,11,0
+Fidalgo,363,N,11,0
+Fidalgo,364,N,11,0
+Fidalgo,365,N,11,0
+Fidalgo,366,N,11,0
+Fidalgo,367,N,11,0
+Fidalgo,368,N,11,0
+Fidalgo,369,N,11,0
+Fidalgo,370,N,11,0
+Fidalgo,371,N,11,0
+Fidalgo,372,N,11,0
+Fidalgo,373,N,11,0
+Fidalgo,374,N,11,0
+Fidalgo,375,N,11,0
+Fidalgo,376,N,11,0
+Fidalgo,377,N,11,0
+Fidalgo,378,N,11,0
+Fidalgo,379,N,11,0
+Fidalgo,380,N,11,0
+Fidalgo,381,N,11,0
+Fidalgo,382,N,11,0
+Fidalgo,383,N,11,0
+Fidalgo,384,N,11,0
+Fidalgo,385,N,11,0
+Fidalgo,386,N,11,0
+Fidalgo,387,N,11,0
+Fidalgo,388,N,11,0
+Fidalgo,389,N,11,0
+Fidalgo,390,N,11,0
+Fidalgo,391,N,11,0
+Fidalgo,392,N,11,0
+Fidalgo,393,N,11,0
+Fidalgo,394,N,11,0
+Fidalgo,395,N,11,0
+Fidalgo,396,N,11,0
+Fidalgo,397,N,11,0
+Fidalgo,398,N,11,0
+Fidalgo,399,N,11,0
+Fidalgo,400,N,11,0
+Fidalgo,401,N,11,0
+Fidalgo,402,N,11,0
+Fidalgo,403,N,11,0
+Fidalgo,404,N,11,0
+Fidalgo,405,N,11,0
+Fidalgo,406,N,11,0
+Fidalgo,407,N,11,0
+Fidalgo,408,N,11,0
+Fidalgo,409,N,11,0
+Fidalgo,410,N,11,0
+Fidalgo,411,N,11,0
+Fidalgo,412,N,11,0
+Fidalgo,413,N,11,0
+Fidalgo,414,N,11,0
+Fidalgo,415,N,11,0
+Fidalgo,416,N,11,0
+Fidalgo,417,N,11,0
+Fidalgo,418,N,11,0
+Fidalgo,419,N,11,0
+Fidalgo,420,N,11,0
+Fidalgo,421,N,11,0
+Fidalgo,422,N,11,0
+Fidalgo,423,N,11,0
+Fidalgo,424,N,11,0
+Fidalgo,425,N,11,0
+Fidalgo,426,N,11,0
+Fidalgo,427,N,11,0
+Fidalgo,428,N,11,0
+Fidalgo,429,N,11,0
+Fidalgo,430,N,11,0
+Fidalgo,431,N,11,0
+Fidalgo,432,N,11,0
+Fidalgo,433,N,11,0
+Fidalgo,434,N,11,0
+Fidalgo,435,N,11,0
+Fidalgo,436,N,11,0
+Fidalgo,437,N,11,0
+Fidalgo,438,N,11,0
+Fidalgo,439,N,11,0
+Fidalgo,440,N,11,0
+Fidalgo,441,N,11,0
+Fidalgo,442,N,11,0
+Fidalgo,443,N,11,0
+Fidalgo,444,N,11,0
+Fidalgo,445,N,11,0
+Fidalgo,446,N,11,0
+Fidalgo,447,N,11,0
+Fidalgo,448,N,11,0
+Fidalgo,449,N,11,0
+Fidalgo,450,N,11,0
+Fidalgo,451,N,11,0
+Fidalgo,452,N,11,0
+Fidalgo,453,N,11,0
+Fidalgo,454,N,11,0
+Fidalgo,455,N,11,0
+Fidalgo,456,N,11,0
+Fidalgo,457,N,11,0
+Fidalgo,458,N,11,0
+Fidalgo,459,N,11,0
+Fidalgo,460,N,11,0
+Fidalgo,461,N,11,0
+Fidalgo,462,N,11,0
+Fidalgo,463,N,11,0
+Fidalgo,464,N,11,0
+Fidalgo,465,N,11,0
+Fidalgo,466,N,11,0
+Fidalgo,467,N,11,0
+Fidalgo,468,N,11,0
+Fidalgo,469,N,11,0
+Fidalgo,470,N,11,0
+Fidalgo,471,N,11,0
+Fidalgo,472,N,11,0
+Fidalgo,473,N,11,0
+Fidalgo,474,N,11,0
+Fidalgo,475,N,11,0
+Fidalgo,476,N,11,0
+Fidalgo,477,N,11,0
+Fidalgo,478,N,11,0
+Fidalgo,479,N,11,0
+Fidalgo,480,N,11,0
+Fidalgo,481,H,4,1
+Fidalgo,482,H,4,1
+Fidalgo,483,H,4,1
+Fidalgo,484,H,4,1
+Fidalgo,485,H,4,1
+Fidalgo,486,H,4,1
+Fidalgo,487,H,4,1
+Fidalgo,488,H,4,1
+Fidalgo,489,H,4,1
+Fidalgo,490,H,4,1
+Fidalgo,491,H,4,1
+Fidalgo,492,H,4,1
+Fidalgo,493,H,4,1
+Fidalgo,494,H,4,1
+Fidalgo,495,H,4,1
+Fidalgo,496,H,4,1
+Fidalgo,497,H,4,1
+Fidalgo,498,H,4,1
+Fidalgo,499,H,4,1
+Fidalgo,500,H,4,1
+Fidalgo,501,H,4,1
+Fidalgo,502,H,4,0
+Fidalgo,503,H,4,0
+Fidalgo,504,H,4,0
+Fidalgo,505,H,4,0
+Fidalgo,506,H,4,0
+Fidalgo,507,H,4,0
+Fidalgo,508,H,4,0
+Fidalgo,509,H,4,0
+Fidalgo,510,H,4,0
+Fidalgo,511,H,4,0
+Fidalgo,512,H,4,0
+Fidalgo,513,H,4,0
+Fidalgo,514,H,4,0
+Fidalgo,515,H,4,0
+Fidalgo,516,H,4,0
+Fidalgo,517,H,4,0
+Fidalgo,518,H,4,0
+Fidalgo,519,H,4,0
+Fidalgo,520,H,4,0
+Fidalgo,521,H,4,0
+Fidalgo,522,H,4,0
+Fidalgo,523,H,4,0
+Fidalgo,524,H,4,0
+Fidalgo,525,H,4,0
+Fidalgo,526,H,4,0
+Fidalgo,527,H,4,0
+Fidalgo,528,H,4,0
+Fidalgo,529,H,4,0
+Fidalgo,530,H,4,0
+Fidalgo,531,H,4,0
+Fidalgo,532,H,4,0
+Fidalgo,533,H,4,0
+Fidalgo,534,H,4,0
+Fidalgo,535,H,6,1
+Fidalgo,536,H,6,1
+Fidalgo,537,H,6,1
+Fidalgo,538,H,6,1
+Fidalgo,539,H,6,1
+Fidalgo,540,H,6,1
+Fidalgo,541,H,6,1
+Fidalgo,542,H,6,1
+Fidalgo,543,H,6,1
+Fidalgo,544,H,6,1
+Fidalgo,545,H,6,1
+Fidalgo,546,H,6,1
+Fidalgo,547,H,6,1
+Fidalgo,548,H,6,1
+Fidalgo,549,H,6,1
+Fidalgo,550,H,6,1
+Fidalgo,551,H,6,1
+Fidalgo,552,H,6,1
+Fidalgo,553,H,6,1
+Fidalgo,554,H,6,1
+Fidalgo,555,H,6,1
+Fidalgo,556,H,6,1
+Fidalgo,557,H,6,1
+Fidalgo,558,H,6,1
+Fidalgo,559,H,6,1
+Fidalgo,560,H,6,1
+Fidalgo,561,H,6,1
+Fidalgo,562,H,6,1
+Fidalgo,563,H,6,1
+Fidalgo,564,H,6,1
+Fidalgo,565,H,6,1
+Fidalgo,566,H,6,1
+Fidalgo,567,H,6,1
+Fidalgo,568,H,6,1
+Fidalgo,569,H,6,1
+Fidalgo,570,H,6,1
+Fidalgo,571,H,6,1
+Fidalgo,572,H,6,1
+Fidalgo,573,H,6,1
+Fidalgo,574,H,6,1
+Fidalgo,575,H,6,1
+Fidalgo,576,H,6,1
+Fidalgo,577,H,6,1
+Fidalgo,578,H,9,1
+Fidalgo,579,H,9,1
+Fidalgo,580,H,9,1
+Fidalgo,581,H,9,1
+Fidalgo,582,H,9,1
+Fidalgo,583,H,9,1
+Fidalgo,584,H,9,1
+Fidalgo,585,H,9,1
+Fidalgo,586,H,9,1
+Fidalgo,587,H,9,1
+Fidalgo,588,H,9,1
+Fidalgo,589,H,9,1
+Fidalgo,590,H,11,0
+Fidalgo,591,H,11,0
+Fidalgo,592,H,11,0
+Fidalgo,593,H,11,0
+Fidalgo,594,H,11,0
+Fidalgo,595,H,11,0
+Fidalgo,596,H,11,0
+Fidalgo,597,H,11,0
+Fidalgo,598,H,11,0
+Fidalgo,599,H,11,0
+Fidalgo,600,H,11,0
+Fidalgo,601,H,11,0
+Fidalgo,602,H,11,0
+Fidalgo,603,H,11,0
+Fidalgo,604,H,11,0
+Fidalgo,605,H,11,0
+Fidalgo,606,H,11,0
+Fidalgo,607,H,11,0
+Fidalgo,608,H,11,0
+Fidalgo,609,H,11,0
+Fidalgo,610,H,11,0
+Fidalgo,611,H,11,0
+Fidalgo,612,H,11,0
+Fidalgo,613,H,11,0
+Fidalgo,614,H,11,0
+Fidalgo,615,H,11,0
+Fidalgo,616,H,11,0
+Fidalgo,617,H,11,0
+Fidalgo,618,H,11,0
+Fidalgo,619,H,11,0
+Fidalgo,620,H,11,0
+Fidalgo,621,H,11,0
+Fidalgo,622,H,11,0
+Fidalgo,623,H,11,0
+Fidalgo,624,H,11,0
+Fidalgo,625,H,11,0
+Fidalgo,626,H,11,0
+Fidalgo,627,H,11,0
+Fidalgo,628,H,11,0
+Fidalgo,629,H,11,0
+Fidalgo,630,H,11,0
+Fidalgo,631,H,11,0
+Fidalgo,632,H,11,0
+Fidalgo,633,H,11,0
+Fidalgo,634,H,11,0
+Fidalgo,635,H,11,0
+Fidalgo,636,H,11,0
+Fidalgo,637,H,11,0
+Fidalgo,638,H,11,0
+Fidalgo,639,H,11,0
+Fidalgo,640,H,11,0
+Fidalgo,641,H,11,0
+Fidalgo,642,H,11,0
+Fidalgo,643,H,11,0
+Fidalgo,644,H,11,0
+Fidalgo,645,H,11,0
+Fidalgo,646,H,11,0
+Fidalgo,647,H,11,0
+Fidalgo,648,H,11,0
+Fidalgo,649,H,11,0
+Fidalgo,650,H,11,0
+Fidalgo,651,H,11,0
+Fidalgo,652,H,11,0
+Fidalgo,653,H,11,0
+Fidalgo,654,H,11,0
+Fidalgo,655,H,11,0
+Fidalgo,656,H,11,0
+Fidalgo,657,H,11,0
+Fidalgo,658,H,11,0
+Fidalgo,659,H,11,0
+Fidalgo,660,H,11,0
+Fidalgo,661,H,11,0
+Fidalgo,662,H,11,0
+Fidalgo,663,H,11,0
+Fidalgo,664,H,11,0
+Fidalgo,665,H,11,0
+Fidalgo,666,H,11,0
+Fidalgo,667,H,11,0
+Fidalgo,668,H,11,0
+Fidalgo,669,H,11,0
+Fidalgo,670,H,11,0
+Fidalgo,671,H,11,0
+Fidalgo,672,H,11,0
+Fidalgo,673,H,11,0
+Fidalgo,674,H,11,0
+Fidalgo,675,H,11,0
+Fidalgo,676,H,11,0
+Fidalgo,677,H,11,0
+Fidalgo,678,H,11,0
+Fidalgo,679,H,11,0
+Fidalgo,680,H,11,0
+Fidalgo,681,H,11,0
+Fidalgo,682,H,11,0
+Fidalgo,683,H,11,0
+Fidalgo,684,H,11,0
+Fidalgo,685,H,11,0
+Fidalgo,686,H,11,0
+Fidalgo,687,H,11,0
+Fidalgo,688,H,11,0
+Fidalgo,689,H,11,0
+Fidalgo,690,H,11,0
+Fidalgo,691,H,11,0
+Fidalgo,692,H,11,0
+Fidalgo,693,H,11,0
+Fidalgo,694,H,11,0
+Fidalgo,695,H,11,0
+Fidalgo,696,H,11,0
+Fidalgo,697,H,11,0
+Fidalgo,698,H,11,0
+Fidalgo,699,H,11,0
+Fidalgo,700,H,11,0
+Fidalgo,701,H,11,0
+Fidalgo,702,H,11,0
+Fidalgo,703,H,11,0
+Fidalgo,704,H,11,0
+Fidalgo,705,H,11,0
+Fidalgo,706,H,11,0
+Fidalgo,707,H,11,0
+Fidalgo,708,H,11,0
+Fidalgo,709,H,11,0
+Fidalgo,710,H,11,0
+Fidalgo,711,H,11,0
+Fidalgo,712,H,11,0
+Fidalgo,713,H,11,0
+Fidalgo,714,H,11,0
+Fidalgo,715,H,11,0
+Fidalgo,716,H,11,0
+Fidalgo,717,H,11,0
+Fidalgo,718,H,11,0
+Fidalgo,719,H,11,0
+Fidalgo,720,H,11,0
+Fidalgo,721,H,11,0
+Fidalgo,722,H,11,0
+Fidalgo,723,H,11,0
+Fidalgo,724,H,11,0
+Fidalgo,725,H,11,0
+Fidalgo,726,H,11,0
+Fidalgo,727,H,11,0
+Fidalgo,728,H,11,0
+Fidalgo,729,H,11,0
+Fidalgo,730,H,11,0
+Fidalgo,731,H,11,0
+Fidalgo,732,H,11,0
+Fidalgo,733,H,11,0
+Fidalgo,734,H,11,0
+Fidalgo,735,H,11,0
+Fidalgo,736,H,11,0
+Fidalgo,737,H,11,0
+Fidalgo,738,H,11,0
+Fidalgo,739,H,11,0
+Fidalgo,740,H,11,0
+Fidalgo,741,H,11,0
+Fidalgo,742,H,11,0
+Fidalgo,743,H,11,0
+Fidalgo,744,H,11,0
+Fidalgo,745,H,11,0
+Fidalgo,746,H,11,0
+Fidalgo,747,H,11,0
+Fidalgo,748,H,11,0
+Fidalgo,749,H,11,0
+Fidalgo,750,H,11,0
+Fidalgo,751,H,11,0
+Fidalgo,752,H,11,0
+Fidalgo,753,H,11,0
+Fidalgo,754,H,11,0
+Fidalgo,755,H,11,0
+Fidalgo,756,H,11,0
+Fidalgo,757,H,11,0
+Fidalgo,758,H,11,0
+Fidalgo,759,H,11,0
+Fidalgo,760,H,11,0
+Fidalgo,761,H,11,0
+Fidalgo,762,H,11,0
+Fidalgo,763,H,11,0
+Fidalgo,764,H,11,0
+Fidalgo,765,H,11,0
+Fidalgo,766,H,11,0
+Fidalgo,767,H,11,0
+Fidalgo,768,H,11,0
+Fidalgo,769,H,11,0
+Fidalgo,770,H,11,0
+Fidalgo,771,H,11,0
+Fidalgo,772,H,11,0
+Fidalgo,773,H,11,0
+Fidalgo,774,H,11,0
+Fidalgo,775,H,11,0
+Fidalgo,776,H,11,0
+Fidalgo,777,H,11,0
+Fidalgo,778,H,11,0
+Fidalgo,779,H,11,0
+Fidalgo,780,H,11,0
+Fidalgo,781,H,11,0
+Fidalgo,782,H,11,0
+Fidalgo,783,H,11,0
+Fidalgo,784,H,11,0
+Fidalgo,785,H,11,0
+Fidalgo,786,H,11,0
+Fidalgo,787,H,11,0
+Fidalgo,788,H,11,0
+Fidalgo,789,H,11,0
+Fidalgo,790,H,11,0
+Fidalgo,791,H,11,0
+Fidalgo,792,H,11,0
+Fidalgo,793,H,11,0
+Fidalgo,794,H,11,0
+Fidalgo,795,H,11,0
+Fidalgo,796,H,11,0
+Fidalgo,797,H,11,0
+Fidalgo,798,H,11,0
+Fidalgo,799,H,11,0
+Fidalgo,800,H,11,0
+Fidalgo,801,H,11,0
+Fidalgo,802,H,11,0
+Fidalgo,803,H,11,0
+Fidalgo,804,H,11,0
+Fidalgo,805,H,11,0
+Fidalgo,806,H,11,0
+Fidalgo,807,H,11,0
+Fidalgo,808,H,11,0
+Fidalgo,809,H,11,0
+Fidalgo,810,H,11,0
+Fidalgo,811,H,11,0
+Fidalgo,812,H,11,0
+Fidalgo,813,H,11,0
+Fidalgo,814,H,11,0
+Fidalgo,815,H,11,0
+Fidalgo,816,H,11,0
+Fidalgo,817,H,11,0
+Fidalgo,818,H,11,0
+Fidalgo,819,H,11,0
+Fidalgo,820,H,11,0
+Fidalgo,821,H,11,0
+Fidalgo,822,H,11,0
+Fidalgo,823,H,11,0
+Fidalgo,824,H,11,0
+Fidalgo,825,H,11,0
+Fidalgo,826,H,11,0
+Fidalgo,827,H,11,0
+Fidalgo,828,H,11,0
+Fidalgo,829,H,11,0
+Fidalgo,830,H,11,0
+Fidalgo,831,H,11,0
+Fidalgo,832,H,11,0
+Fidalgo,833,H,11,0
+Fidalgo,834,H,11,0
+Fidalgo,835,H,11,0
+Fidalgo,836,H,11,0
+Fidalgo,837,H,11,0
+Fidalgo,838,H,11,0
+Fidalgo,839,H,11,0
+Fidalgo,840,H,11,0
+Fidalgo,841,H,11,0
+Fidalgo,842,H,11,0
+Fidalgo,843,H,11,0
+Fidalgo,844,H,11,0
+Fidalgo,845,H,11,0
+Fidalgo,846,H,11,0
+Fidalgo,847,H,11,0
+Fidalgo,848,H,11,0
+Fidalgo,849,H,11,0
+Fidalgo,850,H,11,0
+Fidalgo,851,H,11,0
+Fidalgo,852,H,11,0
+Fidalgo,853,H,11,0
+Fidalgo,854,H,11,0
+Fidalgo,855,H,11,0
+Fidalgo,856,H,11,0
+Fidalgo,857,H,11,0
+Fidalgo,858,H,11,0
+Fidalgo,859,H,11,0
+Fidalgo,860,H,11,0
+Fidalgo,861,H,11,0
+Fidalgo,862,H,11,0
+Fidalgo,863,H,11,0
+Fidalgo,864,H,11,0
+Fidalgo,865,H,11,0
+Fidalgo,866,H,11,0
+Fidalgo,867,H,11,0
+Fidalgo,868,H,11,0
+Fidalgo,869,H,11,0
+Fidalgo,870,H,11,0
+Fidalgo,871,H,11,0
+Fidalgo,872,H,11,0
+Fidalgo,873,H,11,0
+Fidalgo,874,H,11,0
+Fidalgo,875,H,11,0
+Fidalgo,876,H,11,0
+Fidalgo,877,H,11,0
+Fidalgo,878,H,11,0
+Fidalgo,879,H,11,0
+Fidalgo,880,H,11,0
+Fidalgo,881,H,11,0
+Fidalgo,882,H,11,0
+Fidalgo,883,H,11,0
+Fidalgo,884,H,11,0
+Fidalgo,885,H,11,0
+Fidalgo,886,H,11,0
+Fidalgo,887,H,11,0
+Fidalgo,888,H,11,0
+Fidalgo,889,H,11,0
+Fidalgo,890,H,11,0
+Fidalgo,891,H,11,0
+Fidalgo,892,H,11,0
+Fidalgo,893,H,11,0
+Fidalgo,894,H,11,0
+Fidalgo,895,H,11,0
+Fidalgo,896,H,11,0
+Fidalgo,897,H,11,0
+Fidalgo,898,H,11,0
+Fidalgo,899,H,11,0
+Fidalgo,900,H,11,0
+Fidalgo,901,H,11,0
+Fidalgo,902,H,11,0
+Fidalgo,903,H,11,0
+Fidalgo,904,H,11,0
+Fidalgo,905,H,11,0
+Fidalgo,906,H,11,0
+Fidalgo,907,H,11,0
+Fidalgo,908,H,11,0
+Fidalgo,909,H,11,0
+Fidalgo,910,H,11,0
+Fidalgo,911,H,11,0
+Fidalgo,912,H,11,0
+Fidalgo,913,H,11,0
+Fidalgo,914,H,11,0
+Fidalgo,915,H,11,0
+Fidalgo,916,H,11,0
+Fidalgo,917,H,11,0
+Fidalgo,918,H,11,0
+Fidalgo,919,H,11,0
+Fidalgo,920,H,11,0
+Fidalgo,921,H,11,0
+Fidalgo,922,H,11,0
+Fidalgo,923,H,11,0
+Fidalgo,924,H,11,0
+Fidalgo,925,H,11,0
+Fidalgo,926,H,11,0
+Fidalgo,927,H,11,0
+Fidalgo,928,H,11,0
+Fidalgo,929,H,11,0
+Fidalgo,930,H,11,0
+Fidalgo,931,H,11,0
+Fidalgo,932,H,11,0
+Fidalgo,933,H,11,0
+Fidalgo,934,H,11,0
+Fidalgo,935,H,11,0
+Fidalgo,936,H,11,0
+Fidalgo,937,H,11,0
+Fidalgo,938,H,11,0
+Fidalgo,939,H,11,0
+Fidalgo,940,H,11,0
+Fidalgo,941,H,11,0
+Fidalgo,942,H,11,0
+Fidalgo,943,H,11,0
+Fidalgo,944,H,11,0
+Fidalgo,945,H,11,0
+Fidalgo,946,H,11,0
+Fidalgo,947,H,11,0
+Fidalgo,948,H,11,0
+Fidalgo,949,H,11,0
+Fidalgo,950,H,11,0
+Fidalgo,951,H,11,0
+Fidalgo,952,H,11,0
+Fidalgo,953,H,11,0
+Fidalgo,954,H,11,0
+Fidalgo,955,H,11,0
+Fidalgo,956,H,11,0
+Fidalgo,957,H,11,0
+Fidalgo,958,H,11,0
+Fidalgo,959,H,11,0
+Fidalgo,960,H,11,0
+Fidalgo,961,S,4,1
+Fidalgo,962,S,4,1
+Fidalgo,963,S,4,1
+Fidalgo,964,S,4,1
+Fidalgo,965,S,4,1
+Fidalgo,966,S,4,1
+Fidalgo,967,S,4,1
+Fidalgo,968,S,4,1
+Fidalgo,969,S,4,1
+Fidalgo,970,S,4,1
+Fidalgo,971,S,4,1
+Fidalgo,972,S,4,1
+Fidalgo,973,S,4,1
+Fidalgo,974,S,4,1
+Fidalgo,975,S,4,1
+Fidalgo,976,S,4,1
+Fidalgo,977,S,4,0
+Fidalgo,978,S,4,0
+Fidalgo,979,S,4,0
+Fidalgo,980,S,4,0
+Fidalgo,981,S,4,0
+Fidalgo,982,S,4,0
+Fidalgo,983,S,4,0
+Fidalgo,984,S,4,0
+Fidalgo,985,S,4,0
+Fidalgo,986,S,4,0
+Fidalgo,987,S,4,0
+Fidalgo,988,S,4,0
+Fidalgo,989,S,4,0
+Fidalgo,990,S,4,0
+Fidalgo,991,S,4,0
+Fidalgo,992,S,4,0
+Fidalgo,993,S,4,0
+Fidalgo,994,S,4,0
+Fidalgo,995,S,4,0
+Fidalgo,996,S,4,0
+Fidalgo,997,S,4,0
+Fidalgo,998,S,4,0
+Fidalgo,999,S,4,0
+Fidalgo,1000,S,4,0
+Fidalgo,1001,S,4,0
+Fidalgo,1002,S,4,0
+Fidalgo,1003,S,4,0
+Fidalgo,1004,S,4,0
+Fidalgo,1005,S,4,0
+Fidalgo,1006,S,4,0
+Fidalgo,1007,S,4,0
+Fidalgo,1008,S,4,0
+Fidalgo,1009,S,4,0
+Fidalgo,1010,S,6,1
+Fidalgo,1011,S,6,1
+Fidalgo,1012,S,6,1
+Fidalgo,1013,S,6,1
+Fidalgo,1014,S,6,1
+Fidalgo,1015,S,6,1
+Fidalgo,1016,S,6,1
+Fidalgo,1017,S,6,1
+Fidalgo,1018,S,6,1
+Fidalgo,1019,S,6,1
+Fidalgo,1020,S,6,1
+Fidalgo,1021,S,6,1
+Fidalgo,1022,S,6,1
+Fidalgo,1023,S,6,1
+Fidalgo,1024,S,6,1
+Fidalgo,1025,S,6,1
+Fidalgo,1026,S,6,1
+Fidalgo,1027,S,6,1
+Fidalgo,1028,S,6,1
+Fidalgo,1029,S,6,1
+Fidalgo,1030,S,6,1
+Fidalgo,1031,S,6,1
+Fidalgo,1032,S,6,1
+Fidalgo,1033,S,6,1
+Fidalgo,1034,S,6,1
+Fidalgo,1035,S,6,1
+Fidalgo,1036,S,6,1
+Fidalgo,1037,S,6,1
+Fidalgo,1038,S,9,1
+Fidalgo,1039,S,9,1
+Fidalgo,1040,S,9,1
+Fidalgo,1041,S,9,1
+Fidalgo,1042,S,9,1
+Fidalgo,1043,S,9,1
+Fidalgo,1044,S,9,1
+Fidalgo,1045,S,9,1
+Fidalgo,1046,S,9,1
+Fidalgo,1047,S,9,1
+Fidalgo,1048,S,9,1
+Fidalgo,1049,S,9,1
+Fidalgo,1050,S,9,1
+Fidalgo,1051,S,9,1
+Fidalgo,1052,S,9,1
+Fidalgo,1053,S,9,1
+Fidalgo,1054,S,9,1
+Fidalgo,1055,S,9,1
+Fidalgo,1056,S,9,1
+Fidalgo,1057,S,9,1
+Fidalgo,1058,S,9,1
+Fidalgo,1059,S,9,1
+Fidalgo,1060,S,9,1
+Fidalgo,1061,S,9,1
+Fidalgo,1062,S,9,1
+Fidalgo,1063,S,9,1
+Fidalgo,1064,S,9,1
+Fidalgo,1065,S,9,1
+Fidalgo,1066,S,9,1
+Fidalgo,1067,S,9,1
+Fidalgo,1068,S,9,1
+Fidalgo,1069,S,9,1
+Fidalgo,1070,S,9,1
+Fidalgo,1071,S,9,1
+Fidalgo,1072,S,11,0
+Fidalgo,1073,S,11,0
+Fidalgo,1074,S,11,0
+Fidalgo,1075,S,11,0
+Fidalgo,1076,S,11,0
+Fidalgo,1077,S,11,0
+Fidalgo,1078,S,11,0
+Fidalgo,1079,S,11,0
+Fidalgo,1080,S,11,0
+Fidalgo,1081,S,11,0
+Fidalgo,1082,S,11,0
+Fidalgo,1083,S,11,0
+Fidalgo,1084,S,11,0
+Fidalgo,1085,S,11,0
+Fidalgo,1086,S,11,0
+Fidalgo,1087,S,11,0
+Fidalgo,1088,S,11,0
+Fidalgo,1089,S,11,0
+Fidalgo,1090,S,11,0
+Fidalgo,1091,S,11,0
+Fidalgo,1092,S,11,0
+Fidalgo,1093,S,11,0
+Fidalgo,1094,S,11,0
+Fidalgo,1095,S,11,0
+Fidalgo,1096,S,11,0
+Fidalgo,1097,S,11,0
+Fidalgo,1098,S,11,0
+Fidalgo,1099,S,11,0
+Fidalgo,1100,S,11,0
+Fidalgo,1101,S,11,0
+Fidalgo,1102,S,11,0
+Fidalgo,1103,S,11,0
+Fidalgo,1104,S,11,0
+Fidalgo,1105,S,11,0
+Fidalgo,1106,S,11,0
+Fidalgo,1107,S,11,0
+Fidalgo,1108,S,11,0
+Fidalgo,1109,S,11,0
+Fidalgo,1110,S,11,0
+Fidalgo,1111,S,11,0
+Fidalgo,1112,S,11,0
+Fidalgo,1113,S,11,0
+Fidalgo,1114,S,11,0
+Fidalgo,1115,S,11,0
+Fidalgo,1116,S,11,0
+Fidalgo,1117,S,11,0
+Fidalgo,1118,S,11,0
+Fidalgo,1119,S,11,0
+Fidalgo,1120,S,11,0
+Fidalgo,1121,S,11,0
+Fidalgo,1122,S,11,0
+Fidalgo,1123,S,11,0
+Fidalgo,1124,S,11,0
+Fidalgo,1125,S,11,0
+Fidalgo,1126,S,11,0
+Fidalgo,1127,S,11,0
+Fidalgo,1128,S,11,0
+Fidalgo,1129,S,11,0
+Fidalgo,1130,S,11,0
+Fidalgo,1131,S,11,0
+Fidalgo,1132,S,11,0
+Fidalgo,1133,S,11,0
+Fidalgo,1134,S,11,0
+Fidalgo,1135,S,11,0
+Fidalgo,1136,S,11,0
+Fidalgo,1137,S,11,0
+Fidalgo,1138,S,11,0
+Fidalgo,1139,S,11,0
+Fidalgo,1140,S,11,0
+Fidalgo,1141,S,11,0
+Fidalgo,1142,S,11,0
+Fidalgo,1143,S,11,0
+Fidalgo,1144,S,11,0
+Fidalgo,1145,S,11,0
+Fidalgo,1146,S,11,0
+Fidalgo,1147,S,11,0
+Fidalgo,1148,S,11,0
+Fidalgo,1149,S,11,0
+Fidalgo,1150,S,11,0
+Fidalgo,1151,S,11,0
+Fidalgo,1152,S,11,0
+Fidalgo,1153,S,11,0
+Fidalgo,1154,S,11,0
+Fidalgo,1155,S,11,0
+Fidalgo,1156,S,11,0
+Fidalgo,1157,S,11,0
+Fidalgo,1158,S,11,0
+Fidalgo,1159,S,11,0
+Fidalgo,1160,S,11,0
+Fidalgo,1161,S,11,0
+Fidalgo,1162,S,11,0
+Fidalgo,1163,S,11,0
+Fidalgo,1164,S,11,0
+Fidalgo,1165,S,11,0
+Fidalgo,1166,S,11,0
+Fidalgo,1167,S,11,0
+Fidalgo,1168,S,11,0
+Fidalgo,1169,S,11,0
+Fidalgo,1170,S,11,0
+Fidalgo,1171,S,11,0
+Fidalgo,1172,S,11,0
+Fidalgo,1173,S,11,0
+Fidalgo,1174,S,11,0
+Fidalgo,1175,S,11,0
+Fidalgo,1176,S,11,0
+Fidalgo,1177,S,11,0
+Fidalgo,1178,S,11,0
+Fidalgo,1179,S,11,0
+Fidalgo,1180,S,11,0
+Fidalgo,1181,S,11,0
+Fidalgo,1182,S,11,0
+Fidalgo,1183,S,11,0
+Fidalgo,1184,S,11,0
+Fidalgo,1185,S,11,0
+Fidalgo,1186,S,11,0
+Fidalgo,1187,S,11,0
+Fidalgo,1188,S,11,0
+Fidalgo,1189,S,11,0
+Fidalgo,1190,S,11,0
+Fidalgo,1191,S,11,0
+Fidalgo,1192,S,11,0
+Fidalgo,1193,S,11,0
+Fidalgo,1194,S,11,0
+Fidalgo,1195,S,11,0
+Fidalgo,1196,S,11,0
+Fidalgo,1197,S,11,0
+Fidalgo,1198,S,11,0
+Fidalgo,1199,S,11,0
+Fidalgo,1200,S,11,0
+Fidalgo,1201,S,11,0
+Fidalgo,1202,S,11,0
+Fidalgo,1203,S,11,0
+Fidalgo,1204,S,11,0
+Fidalgo,1205,S,11,0
+Fidalgo,1206,S,11,0
+Fidalgo,1207,S,11,0
+Fidalgo,1208,S,11,0
+Fidalgo,1209,S,11,0
+Fidalgo,1210,S,11,0
+Fidalgo,1211,S,11,0
+Fidalgo,1212,S,11,0
+Fidalgo,1213,S,11,0
+Fidalgo,1214,S,11,0
+Fidalgo,1215,S,11,0
+Fidalgo,1216,S,11,0
+Fidalgo,1217,S,11,0
+Fidalgo,1218,S,11,0
+Fidalgo,1219,S,11,0
+Fidalgo,1220,S,11,0
+Fidalgo,1221,S,11,0
+Fidalgo,1222,S,11,0
+Fidalgo,1223,S,11,0
+Fidalgo,1224,S,11,0
+Fidalgo,1225,S,11,0
+Fidalgo,1226,S,11,0
+Fidalgo,1227,S,11,0
+Fidalgo,1228,S,11,0
+Fidalgo,1229,S,11,0
+Fidalgo,1230,S,11,0
+Fidalgo,1231,S,11,0
+Fidalgo,1232,S,11,0
+Fidalgo,1233,S,11,0
+Fidalgo,1234,S,11,0
+Fidalgo,1235,S,11,0
+Fidalgo,1236,S,11,0
+Fidalgo,1237,S,11,0
+Fidalgo,1238,S,11,0
+Fidalgo,1239,S,11,0
+Fidalgo,1240,S,11,0
+Fidalgo,1241,S,11,0
+Fidalgo,1242,S,11,0
+Fidalgo,1243,S,11,0
+Fidalgo,1244,S,11,0
+Fidalgo,1245,S,11,0
+Fidalgo,1246,S,11,0
+Fidalgo,1247,S,11,0
+Fidalgo,1248,S,11,0
+Fidalgo,1249,S,11,0
+Fidalgo,1250,S,11,0
+Fidalgo,1251,S,11,0
+Fidalgo,1252,S,11,0
+Fidalgo,1253,S,11,0
+Fidalgo,1254,S,11,0
+Fidalgo,1255,S,11,0
+Fidalgo,1256,S,11,0
+Fidalgo,1257,S,11,0
+Fidalgo,1258,S,11,0
+Fidalgo,1259,S,11,0
+Fidalgo,1260,S,11,0
+Fidalgo,1261,S,11,0
+Fidalgo,1262,S,11,0
+Fidalgo,1263,S,11,0
+Fidalgo,1264,S,11,0
+Fidalgo,1265,S,11,0
+Fidalgo,1266,S,11,0
+Fidalgo,1267,S,11,0
+Fidalgo,1268,S,11,0
+Fidalgo,1269,S,11,0
+Fidalgo,1270,S,11,0
+Fidalgo,1271,S,11,0
+Fidalgo,1272,S,11,0
+Fidalgo,1273,S,11,0
+Fidalgo,1274,S,11,0
+Fidalgo,1275,S,11,0
+Fidalgo,1276,S,11,0
+Fidalgo,1277,S,11,0
+Fidalgo,1278,S,11,0
+Fidalgo,1279,S,11,0
+Fidalgo,1280,S,11,0
+Fidalgo,1281,S,11,0
+Fidalgo,1282,S,11,0
+Fidalgo,1283,S,11,0
+Fidalgo,1284,S,11,0
+Fidalgo,1285,S,11,0
+Fidalgo,1286,S,11,0
+Fidalgo,1287,S,11,0
+Fidalgo,1288,S,11,0
+Fidalgo,1289,S,11,0
+Fidalgo,1290,S,11,0
+Fidalgo,1291,S,11,0
+Fidalgo,1292,S,11,0
+Fidalgo,1293,S,11,0
+Fidalgo,1294,S,11,0
+Fidalgo,1295,S,11,0
+Fidalgo,1296,S,11,0
+Fidalgo,1297,S,11,0
+Fidalgo,1298,S,11,0
+Fidalgo,1299,S,11,0
+Fidalgo,1300,S,11,0
+Fidalgo,1301,S,11,0
+Fidalgo,1302,S,11,0
+Fidalgo,1303,S,11,0
+Fidalgo,1304,S,11,0
+Fidalgo,1305,S,11,0
+Fidalgo,1306,S,11,0
+Fidalgo,1307,S,11,0
+Fidalgo,1308,S,11,0
+Fidalgo,1309,S,11,0
+Fidalgo,1310,S,11,0
+Fidalgo,1311,S,11,0
+Fidalgo,1312,S,11,0
+Fidalgo,1313,S,11,0
+Fidalgo,1314,S,11,0
+Fidalgo,1315,S,11,0
+Fidalgo,1316,S,11,0
+Fidalgo,1317,S,11,0
+Fidalgo,1318,S,11,0
+Fidalgo,1319,S,11,0
+Fidalgo,1320,S,11,0
+Fidalgo,1321,S,11,0
+Fidalgo,1322,S,11,0
+Fidalgo,1323,S,11,0
+Fidalgo,1324,S,11,0
+Fidalgo,1325,S,11,0
+Fidalgo,1326,S,11,0
+Fidalgo,1327,S,11,0
+Fidalgo,1328,S,11,0
+Fidalgo,1329,S,11,0
+Fidalgo,1330,S,11,0
+Fidalgo,1331,S,11,0
+Fidalgo,1332,S,11,0
+Fidalgo,1333,S,11,0
+Fidalgo,1334,S,11,0
+Fidalgo,1335,S,11,0
+Fidalgo,1336,S,11,0
+Fidalgo,1337,S,11,0
+Fidalgo,1338,S,11,0
+Fidalgo,1339,S,11,0
+Fidalgo,1340,S,11,0
+Fidalgo,1341,S,11,0
+Fidalgo,1342,S,11,0
+Fidalgo,1343,S,11,0
+Fidalgo,1344,S,11,0
+Fidalgo,1345,S,11,0
+Fidalgo,1346,S,11,0
+Fidalgo,1347,S,11,0
+Fidalgo,1348,S,11,0
+Fidalgo,1349,S,11,0
+Fidalgo,1350,S,11,0
+Fidalgo,1351,S,11,0
+Fidalgo,1352,S,11,0
+Fidalgo,1353,S,11,0
+Fidalgo,1354,S,11,0
+Fidalgo,1355,S,11,0
+Fidalgo,1356,S,11,0
+Fidalgo,1357,S,11,0
+Fidalgo,1358,S,11,0
+Fidalgo,1359,S,11,0
+Fidalgo,1360,S,11,0
+Fidalgo,1361,S,11,0
+Fidalgo,1362,S,11,0
+Fidalgo,1363,S,11,0
+Fidalgo,1364,S,11,0
+Fidalgo,1365,S,11,0
+Fidalgo,1366,S,11,0
+Fidalgo,1367,S,11,0
+Fidalgo,1368,S,11,0
+Fidalgo,1369,S,11,0
+Fidalgo,1370,S,11,0
+Fidalgo,1371,S,11,0
+Fidalgo,1372,S,11,0
+Fidalgo,1373,S,11,0
+Fidalgo,1374,S,11,0
+Fidalgo,1375,S,11,0
+Fidalgo,1376,S,11,0
+Fidalgo,1377,S,11,0
+Fidalgo,1378,S,11,0
+Fidalgo,1379,S,11,0
+Fidalgo,1380,S,11,0
+Fidalgo,1381,S,11,0
+Fidalgo,1382,S,11,0
+Fidalgo,1383,S,11,0
+Fidalgo,1384,S,11,0
+Fidalgo,1385,S,11,0
+Fidalgo,1386,S,11,0
+Fidalgo,1387,S,11,0
+Fidalgo,1388,S,11,0
+Fidalgo,1389,S,11,0
+Fidalgo,1390,S,11,0
+Fidalgo,1391,S,11,0
+Fidalgo,1392,S,11,0
+Fidalgo,1393,S,11,0
+Fidalgo,1394,S,11,0
+Fidalgo,1395,S,11,0
+Fidalgo,1396,S,11,0
+Fidalgo,1397,S,11,0
+Fidalgo,1398,S,11,0
+Fidalgo,1399,S,11,0
+Fidalgo,1400,S,11,0
+Fidalgo,1401,S,11,0
+Fidalgo,1402,S,11,0
+Fidalgo,1403,S,11,0
+Fidalgo,1404,S,11,0
+Fidalgo,1405,S,11,0
+Fidalgo,1406,S,11,0
+Fidalgo,1407,S,11,0
+Fidalgo,1408,S,11,0
+Fidalgo,1409,S,11,0
+Fidalgo,1410,S,11,0
+Fidalgo,1411,S,11,0
+Fidalgo,1412,S,11,0
+Fidalgo,1413,S,11,0
+Fidalgo,1414,S,11,0
+Fidalgo,1415,S,11,0
+Fidalgo,1416,S,11,0
+Fidalgo,1417,S,11,0
+Fidalgo,1418,S,11,0
+Fidalgo,1419,S,11,0
+Fidalgo,1420,S,11,0
+Fidalgo,1421,S,11,0
+Fidalgo,1422,S,11,0
+Fidalgo,1423,S,11,0
+Fidalgo,1424,S,11,0
+Fidalgo,1425,S,11,0
+Fidalgo,1426,S,11,0
+Fidalgo,1427,S,11,0
+Fidalgo,1428,S,11,0
+Fidalgo,1429,S,11,0
+Fidalgo,1430,S,11,0
+Fidalgo,1431,S,11,0
+Fidalgo,1432,S,11,0
+Fidalgo,1433,S,11,0
+Fidalgo,1434,S,11,0
+Fidalgo,1435,S,11,0
+Fidalgo,1436,S,11,0
+Fidalgo,1437,S,11,0
+Fidalgo,1438,S,11,0
+Fidalgo,1439,S,11,0
+Fidalgo,1440,S,11,0
+Manchester,1,N,4,1
+Manchester,2,N,4,1
+Manchester,3,N,4,1
+Manchester,4,N,4,1
+Manchester,5,N,4,1
+Manchester,6,N,4,1
+Manchester,7,N,4,1
+Manchester,8,N,4,1
+Manchester,9,N,4,1
+Manchester,10,N,4,1
+Manchester,11,N,4,1
+Manchester,12,N,4,1
+Manchester,13,N,4,1
+Manchester,14,N,4,0
+Manchester,15,N,4,0
+Manchester,16,N,4,0
+Manchester,17,N,4,0
+Manchester,18,N,4,0
+Manchester,19,N,4,0
+Manchester,20,N,4,0
+Manchester,21,N,4,0
+Manchester,22,N,4,0
+Manchester,23,N,4,0
+Manchester,24,N,4,0
+Manchester,25,N,4,0
+Manchester,26,N,4,0
+Manchester,27,N,4,0
+Manchester,28,N,4,0
+Manchester,29,N,4,0
+Manchester,30,N,4,0
+Manchester,31,N,4,0
+Manchester,32,N,4,0
+Manchester,33,N,4,0
+Manchester,34,N,4,0
+Manchester,35,N,4,0
+Manchester,36,N,4,0
+Manchester,37,N,4,0
+Manchester,38,N,4,0
+Manchester,39,N,4,0
+Manchester,40,N,4,0
+Manchester,41,N,4,0
+Manchester,42,N,4,0
+Manchester,43,N,4,0
+Manchester,44,N,4,0
+Manchester,45,N,4,0
+Manchester,46,N,6,1
+Manchester,47,N,6,1
+Manchester,48,N,6,1
+Manchester,49,N,6,1
+Manchester,50,N,6,1
+Manchester,51,N,10,1
+Manchester,52,N,10,1
+Manchester,53,N,10,1
+Manchester,54,N,10,1
+Manchester,55,N,10,1
+Manchester,56,N,10,1
+Manchester,57,N,10,1
+Manchester,58,N,10,1
+Manchester,59,N,10,1
+Manchester,60,N,10,1
+Manchester,61,N,10,1
+Manchester,62,N,10,1
+Manchester,63,N,10,1
+Manchester,64,N,10,1
+Manchester,65,N,10,1
+Manchester,66,N,10,1
+Manchester,67,N,10,1
+Manchester,68,N,10,1
+Manchester,69,N,10,1
+Manchester,70,N,10,1
+Manchester,71,N,10,1
+Manchester,72,N,10,1
+Manchester,73,N,10,1
+Manchester,74,N,10,1
+Manchester,75,N,10,1
+Manchester,76,N,10,1
+Manchester,77,N,11,1
+Manchester,78,N,11,1
+Manchester,79,N,11,1
+Manchester,80,N,11,1
+Manchester,81,N,11,1
+Manchester,82,N,11,1
+Manchester,83,N,11,1
+Manchester,84,N,11,1
+Manchester,85,N,11,1
+Manchester,86,N,11,1
+Manchester,87,N,11,1
+Manchester,88,N,11,1
+Manchester,89,N,11,1
+Manchester,90,N,11,1
+Manchester,91,N,11,1
+Manchester,92,N,11,1
+Manchester,93,N,11,1
+Manchester,94,N,11,1
+Manchester,95,N,11,1
+Manchester,96,N,11,1
+Manchester,97,N,11,1
+Manchester,98,N,11,1
+Manchester,99,N,11,1
+Manchester,100,N,11,1
+Manchester,101,N,11,1
+Manchester,102,N,11,1
+Manchester,103,N,11,1
+Manchester,104,N,11,1
+Manchester,105,N,11,1
+Manchester,106,N,11,1
+Manchester,107,N,11,1
+Manchester,108,N,11,1
+Manchester,109,N,11,1
+Manchester,110,N,11,1
+Manchester,111,N,11,1
+Manchester,112,N,11,1
+Manchester,113,N,11,1
+Manchester,114,N,11,1
+Manchester,115,N,11,1
+Manchester,116,N,11,1
+Manchester,117,N,11,1
+Manchester,118,N,11,1
+Manchester,119,N,11,1
+Manchester,120,N,11,0
+Manchester,121,N,11,0
+Manchester,122,N,11,0
+Manchester,123,N,11,0
+Manchester,124,N,11,0
+Manchester,125,N,11,0
+Manchester,126,N,11,0
+Manchester,127,N,11,0
+Manchester,128,N,11,0
+Manchester,129,N,11,0
+Manchester,130,N,11,0
+Manchester,131,N,11,0
+Manchester,132,N,11,0
+Manchester,133,N,11,0
+Manchester,134,N,11,0
+Manchester,135,N,11,0
+Manchester,136,N,11,0
+Manchester,137,N,11,0
+Manchester,138,N,11,0
+Manchester,139,N,11,0
+Manchester,140,N,11,0
+Manchester,141,N,11,0
+Manchester,142,N,11,0
+Manchester,143,N,11,0
+Manchester,144,N,11,0
+Manchester,145,N,11,0
+Manchester,146,N,11,0
+Manchester,147,N,11,0
+Manchester,148,N,11,0
+Manchester,149,N,11,0
+Manchester,150,N,11,0
+Manchester,151,N,11,0
+Manchester,152,N,11,0
+Manchester,153,N,11,0
+Manchester,154,N,11,0
+Manchester,155,N,11,0
+Manchester,156,N,11,0
+Manchester,157,N,11,0
+Manchester,158,N,11,0
+Manchester,159,N,11,0
+Manchester,160,N,11,0
+Manchester,161,N,11,0
+Manchester,162,N,11,0
+Manchester,163,N,11,0
+Manchester,164,N,11,0
+Manchester,165,N,11,0
+Manchester,166,N,11,0
+Manchester,167,N,11,0
+Manchester,168,N,11,0
+Manchester,169,N,11,0
+Manchester,170,N,11,0
+Manchester,171,N,11,0
+Manchester,172,N,11,0
+Manchester,173,N,11,0
+Manchester,174,N,11,0
+Manchester,175,N,11,0
+Manchester,176,N,11,0
+Manchester,177,N,11,0
+Manchester,178,N,11,0
+Manchester,179,N,11,0
+Manchester,180,N,11,0
+Manchester,181,N,11,0
+Manchester,182,N,11,0
+Manchester,183,N,11,0
+Manchester,184,N,11,0
+Manchester,185,N,11,0
+Manchester,186,N,11,0
+Manchester,187,N,11,0
+Manchester,188,N,11,0
+Manchester,189,N,11,0
+Manchester,190,N,11,0
+Manchester,191,N,11,0
+Manchester,192,N,11,0
+Manchester,193,N,11,0
+Manchester,194,N,11,0
+Manchester,195,N,11,0
+Manchester,196,N,11,0
+Manchester,197,N,11,0
+Manchester,198,N,11,0
+Manchester,199,N,11,0
+Manchester,200,N,11,0
+Manchester,201,N,11,0
+Manchester,202,N,11,0
+Manchester,203,N,11,0
+Manchester,204,N,11,0
+Manchester,205,N,11,0
+Manchester,206,N,11,0
+Manchester,207,N,11,0
+Manchester,208,N,11,0
+Manchester,209,N,11,0
+Manchester,210,N,11,0
+Manchester,211,N,11,0
+Manchester,212,N,11,0
+Manchester,213,N,11,0
+Manchester,214,N,11,0
+Manchester,215,N,11,0
+Manchester,216,N,11,0
+Manchester,217,N,11,0
+Manchester,218,N,11,0
+Manchester,219,N,11,0
+Manchester,220,N,11,0
+Manchester,221,N,11,0
+Manchester,222,N,11,0
+Manchester,223,N,11,0
+Manchester,224,N,11,0
+Manchester,225,N,11,0
+Manchester,226,N,11,0
+Manchester,227,N,11,0
+Manchester,228,N,11,0
+Manchester,229,N,11,0
+Manchester,230,N,11,0
+Manchester,231,N,11,0
+Manchester,232,N,11,0
+Manchester,233,N,11,0
+Manchester,234,N,11,0
+Manchester,235,N,11,0
+Manchester,236,N,11,0
+Manchester,237,N,11,0
+Manchester,238,N,11,0
+Manchester,239,N,11,0
+Manchester,240,N,11,0
+Manchester,241,N,11,0
+Manchester,242,N,11,0
+Manchester,243,N,11,0
+Manchester,244,N,11,0
+Manchester,245,N,11,0
+Manchester,246,N,11,0
+Manchester,247,N,11,0
+Manchester,248,N,11,0
+Manchester,249,N,11,0
+Manchester,250,N,11,0
+Manchester,251,N,11,0
+Manchester,252,N,11,0
+Manchester,253,N,11,0
+Manchester,254,N,11,0
+Manchester,255,N,11,0
+Manchester,256,N,11,0
+Manchester,257,N,11,0
+Manchester,258,N,11,0
+Manchester,259,N,11,0
+Manchester,260,N,11,0
+Manchester,261,N,11,0
+Manchester,262,N,11,0
+Manchester,263,N,11,0
+Manchester,264,N,11,0
+Manchester,265,N,11,0
+Manchester,266,N,11,0
+Manchester,267,N,11,0
+Manchester,268,N,11,0
+Manchester,269,N,11,0
+Manchester,270,N,11,0
+Manchester,271,N,11,0
+Manchester,272,N,11,0
+Manchester,273,N,11,0
+Manchester,274,N,11,0
+Manchester,275,N,11,0
+Manchester,276,N,11,0
+Manchester,277,N,11,0
+Manchester,278,N,11,0
+Manchester,279,N,11,0
+Manchester,280,N,11,0
+Manchester,281,N,11,0
+Manchester,282,N,11,0
+Manchester,283,N,11,0
+Manchester,284,N,11,0
+Manchester,285,N,11,0
+Manchester,286,N,11,0
+Manchester,287,N,11,0
+Manchester,288,N,11,0
+Manchester,289,N,11,0
+Manchester,290,N,11,0
+Manchester,291,N,11,0
+Manchester,292,N,11,0
+Manchester,293,N,11,0
+Manchester,294,N,11,0
+Manchester,295,N,11,0
+Manchester,296,N,11,0
+Manchester,297,N,11,0
+Manchester,298,N,11,0
+Manchester,299,N,11,0
+Manchester,300,N,11,0
+Manchester,301,N,11,0
+Manchester,302,N,11,0
+Manchester,303,N,11,0
+Manchester,304,N,11,0
+Manchester,305,N,11,0
+Manchester,306,N,11,0
+Manchester,307,N,11,0
+Manchester,308,N,11,0
+Manchester,309,N,11,0
+Manchester,310,N,11,0
+Manchester,311,N,11,0
+Manchester,312,N,11,0
+Manchester,313,N,11,0
+Manchester,314,N,11,0
+Manchester,315,N,11,0
+Manchester,316,N,11,0
+Manchester,317,N,11,0
+Manchester,318,N,11,0
+Manchester,319,N,11,0
+Manchester,320,N,11,0
+Manchester,321,N,11,0
+Manchester,322,N,11,0
+Manchester,323,N,11,0
+Manchester,324,N,11,0
+Manchester,325,N,11,0
+Manchester,326,N,11,0
+Manchester,327,N,11,0
+Manchester,328,N,11,0
+Manchester,329,N,11,0
+Manchester,330,N,11,0
+Manchester,331,N,11,0
+Manchester,332,N,11,0
+Manchester,333,N,11,0
+Manchester,334,N,11,0
+Manchester,335,N,11,0
+Manchester,336,N,11,0
+Manchester,337,N,11,0
+Manchester,338,N,11,0
+Manchester,339,N,11,0
+Manchester,340,N,11,0
+Manchester,341,N,11,0
+Manchester,342,N,11,0
+Manchester,343,N,11,0
+Manchester,344,N,11,0
+Manchester,345,N,11,0
+Manchester,346,N,11,0
+Manchester,347,N,11,0
+Manchester,348,N,11,0
+Manchester,349,N,11,0
+Manchester,350,N,11,0
+Manchester,351,N,11,0
+Manchester,352,N,11,0
+Manchester,353,N,11,0
+Manchester,354,N,11,0
+Manchester,355,N,11,0
+Manchester,356,N,11,0
+Manchester,357,N,11,0
+Manchester,358,N,11,0
+Manchester,359,N,11,0
+Manchester,360,N,11,0
+Manchester,361,N,11,0
+Manchester,362,N,11,0
+Manchester,363,N,11,0
+Manchester,364,N,11,0
+Manchester,365,N,11,0
+Manchester,366,N,11,0
+Manchester,367,N,11,0
+Manchester,368,N,11,0
+Manchester,369,N,11,0
+Manchester,370,N,11,0
+Manchester,371,N,11,0
+Manchester,372,N,11,0
+Manchester,373,N,11,0
+Manchester,374,N,11,0
+Manchester,375,N,11,0
+Manchester,376,N,11,0
+Manchester,377,N,11,0
+Manchester,378,N,11,0
+Manchester,379,N,11,0
+Manchester,380,N,11,0
+Manchester,381,N,11,0
+Manchester,382,N,11,0
+Manchester,383,N,11,0
+Manchester,384,N,11,0
+Manchester,385,N,11,0
+Manchester,386,N,11,0
+Manchester,387,N,11,0
+Manchester,388,N,11,0
+Manchester,389,N,11,0
+Manchester,390,N,11,0
+Manchester,391,N,11,0
+Manchester,392,N,11,0
+Manchester,393,N,11,0
+Manchester,394,N,11,0
+Manchester,395,N,11,0
+Manchester,396,N,11,0
+Manchester,397,N,11,0
+Manchester,398,N,11,0
+Manchester,399,N,11,0
+Manchester,400,N,11,0
+Manchester,401,N,11,0
+Manchester,402,N,11,0
+Manchester,403,N,11,0
+Manchester,404,N,11,0
+Manchester,405,N,11,0
+Manchester,406,N,11,0
+Manchester,407,N,11,0
+Manchester,408,N,11,0
+Manchester,409,N,11,0
+Manchester,410,N,11,0
+Manchester,411,N,11,0
+Manchester,412,N,11,0
+Manchester,413,N,11,0
+Manchester,414,N,11,0
+Manchester,415,N,11,0
+Manchester,416,N,11,0
+Manchester,417,N,11,0
+Manchester,418,N,11,0
+Manchester,419,N,11,0
+Manchester,420,N,11,0
+Manchester,421,N,11,0
+Manchester,422,N,11,0
+Manchester,423,N,11,0
+Manchester,424,N,11,0
+Manchester,425,N,11,0
+Manchester,426,N,11,0
+Manchester,427,N,11,0
+Manchester,428,N,11,0
+Manchester,429,N,11,0
+Manchester,430,N,11,0
+Manchester,431,N,11,0
+Manchester,432,N,11,0
+Manchester,433,N,11,0
+Manchester,434,N,11,0
+Manchester,435,N,11,0
+Manchester,436,N,11,0
+Manchester,437,N,11,0
+Manchester,438,N,11,0
+Manchester,439,N,11,0
+Manchester,440,N,11,0
+Manchester,441,N,11,0
+Manchester,442,N,11,0
+Manchester,443,N,11,0
+Manchester,444,N,11,0
+Manchester,445,N,11,0
+Manchester,446,N,11,0
+Manchester,447,N,11,0
+Manchester,448,N,11,0
+Manchester,449,N,11,0
+Manchester,450,N,11,0
+Manchester,451,N,11,0
+Manchester,452,N,11,0
+Manchester,453,N,11,0
+Manchester,454,N,11,0
+Manchester,455,N,11,0
+Manchester,456,N,11,0
+Manchester,457,N,11,0
+Manchester,458,N,11,0
+Manchester,459,N,11,0
+Manchester,460,N,11,0
+Manchester,461,N,11,0
+Manchester,462,N,11,0
+Manchester,463,N,11,0
+Manchester,464,N,11,0
+Manchester,465,N,11,0
+Manchester,466,N,11,0
+Manchester,467,N,11,0
+Manchester,468,N,11,0
+Manchester,469,N,11,0
+Manchester,470,N,11,0
+Manchester,471,N,11,0
+Manchester,472,N,11,0
+Manchester,473,N,11,0
+Manchester,474,N,11,0
+Manchester,475,N,11,0
+Manchester,476,N,11,0
+Manchester,477,N,11,0
+Manchester,478,N,11,0
+Manchester,479,N,11,0
+Manchester,480,N,11,0
+Manchester,481,H,4,1
+Manchester,482,H,4,0
+Manchester,483,H,4,0
+Manchester,484,H,4,0
+Manchester,485,H,4,0
+Manchester,486,H,4,0
+Manchester,487,H,4,0
+Manchester,488,H,4,0
+Manchester,489,H,4,0
+Manchester,490,H,4,0
+Manchester,491,H,4,0
+Manchester,492,H,4,0
+Manchester,493,H,4,0
+Manchester,494,H,4,0
+Manchester,495,H,4,0
+Manchester,496,H,4,0
+Manchester,497,H,4,0
+Manchester,498,H,4,0
+Manchester,499,H,4,0
+Manchester,500,H,4,0
+Manchester,501,H,4,0
+Manchester,502,H,4,0
+Manchester,503,H,4,0
+Manchester,504,H,4,0
+Manchester,505,H,4,0
+Manchester,506,H,4,0
+Manchester,507,H,4,0
+Manchester,508,H,4,0
+Manchester,509,H,4,0
+Manchester,510,H,4,0
+Manchester,511,H,4,0
+Manchester,512,H,4,0
+Manchester,513,H,4,0
+Manchester,514,H,4,0
+Manchester,515,H,6,1
+Manchester,516,H,10,1
+Manchester,517,H,10,1
+Manchester,518,H,10,1
+Manchester,519,H,10,1
+Manchester,520,H,10,1
+Manchester,521,H,10,1
+Manchester,522,H,10,1
+Manchester,523,H,10,1
+Manchester,524,H,10,1
+Manchester,525,H,10,1
+Manchester,526,H,10,1
+Manchester,527,H,11,1
+Manchester,528,H,11,1
+Manchester,529,H,11,1
+Manchester,530,H,11,1
+Manchester,531,H,11,1
+Manchester,532,H,11,1
+Manchester,533,H,11,1
+Manchester,534,H,11,1
+Manchester,535,H,11,1
+Manchester,536,H,11,1
+Manchester,537,H,11,1
+Manchester,538,H,11,1
+Manchester,539,H,11,1
+Manchester,540,H,11,1
+Manchester,541,H,11,1
+Manchester,542,H,11,1
+Manchester,543,H,11,1
+Manchester,544,H,11,1
+Manchester,545,H,11,1
+Manchester,546,H,11,1
+Manchester,547,H,11,1
+Manchester,548,H,11,1
+Manchester,549,H,11,1
+Manchester,550,H,11,1
+Manchester,551,H,11,1
+Manchester,552,H,11,1
+Manchester,553,H,11,1
+Manchester,554,H,11,1
+Manchester,555,H,11,1
+Manchester,556,H,11,1
+Manchester,557,H,11,1
+Manchester,558,H,11,1
+Manchester,559,H,11,1
+Manchester,560,H,11,1
+Manchester,561,H,11,1
+Manchester,562,H,11,1
+Manchester,563,H,11,1
+Manchester,564,H,11,0
+Manchester,565,H,11,0
+Manchester,566,H,11,0
+Manchester,567,H,11,0
+Manchester,568,H,11,0
+Manchester,569,H,11,0
+Manchester,570,H,11,0
+Manchester,571,H,11,0
+Manchester,572,H,11,0
+Manchester,573,H,11,0
+Manchester,574,H,11,0
+Manchester,575,H,11,0
+Manchester,576,H,11,0
+Manchester,577,H,11,0
+Manchester,578,H,11,0
+Manchester,579,H,11,0
+Manchester,580,H,11,0
+Manchester,581,H,11,0
+Manchester,582,H,11,0
+Manchester,583,H,11,0
+Manchester,584,H,11,0
+Manchester,585,H,11,0
+Manchester,586,H,11,0
+Manchester,587,H,11,0
+Manchester,588,H,11,0
+Manchester,589,H,11,0
+Manchester,590,H,11,0
+Manchester,591,H,11,0
+Manchester,592,H,11,0
+Manchester,593,H,11,0
+Manchester,594,H,11,0
+Manchester,595,H,11,0
+Manchester,596,H,11,0
+Manchester,597,H,11,0
+Manchester,598,H,11,0
+Manchester,599,H,11,0
+Manchester,600,H,11,0
+Manchester,601,H,11,0
+Manchester,602,H,11,0
+Manchester,603,H,11,0
+Manchester,604,H,11,0
+Manchester,605,H,11,0
+Manchester,606,H,11,0
+Manchester,607,H,11,0
+Manchester,608,H,11,0
+Manchester,609,H,11,0
+Manchester,610,H,11,0
+Manchester,611,H,11,0
+Manchester,612,H,11,0
+Manchester,613,H,11,0
+Manchester,614,H,11,0
+Manchester,615,H,11,0
+Manchester,616,H,11,0
+Manchester,617,H,11,0
+Manchester,618,H,11,0
+Manchester,619,H,11,0
+Manchester,620,H,11,0
+Manchester,621,H,11,0
+Manchester,622,H,11,0
+Manchester,623,H,11,0
+Manchester,624,H,11,0
+Manchester,625,H,11,0
+Manchester,626,H,11,0
+Manchester,627,H,11,0
+Manchester,628,H,11,0
+Manchester,629,H,11,0
+Manchester,630,H,11,0
+Manchester,631,H,11,0
+Manchester,632,H,11,0
+Manchester,633,H,11,0
+Manchester,634,H,11,0
+Manchester,635,H,11,0
+Manchester,636,H,11,0
+Manchester,637,H,11,0
+Manchester,638,H,11,0
+Manchester,639,H,11,0
+Manchester,640,H,11,0
+Manchester,641,H,11,0
+Manchester,642,H,11,0
+Manchester,643,H,11,0
+Manchester,644,H,11,0
+Manchester,645,H,11,0
+Manchester,646,H,11,0
+Manchester,647,H,11,0
+Manchester,648,H,11,0
+Manchester,649,H,11,0
+Manchester,650,H,11,0
+Manchester,651,H,11,0
+Manchester,652,H,11,0
+Manchester,653,H,11,0
+Manchester,654,H,11,0
+Manchester,655,H,11,0
+Manchester,656,H,11,0
+Manchester,657,H,11,0
+Manchester,658,H,11,0
+Manchester,659,H,11,0
+Manchester,660,H,11,0
+Manchester,661,H,11,0
+Manchester,662,H,11,0
+Manchester,663,H,11,0
+Manchester,664,H,11,0
+Manchester,665,H,11,0
+Manchester,666,H,11,0
+Manchester,667,H,11,0
+Manchester,668,H,11,0
+Manchester,669,H,11,0
+Manchester,670,H,11,0
+Manchester,671,H,11,0
+Manchester,672,H,11,0
+Manchester,673,H,11,0
+Manchester,674,H,11,0
+Manchester,675,H,11,0
+Manchester,676,H,11,0
+Manchester,677,H,11,0
+Manchester,678,H,11,0
+Manchester,679,H,11,0
+Manchester,680,H,11,0
+Manchester,681,H,11,0
+Manchester,682,H,11,0
+Manchester,683,H,11,0
+Manchester,684,H,11,0
+Manchester,685,H,11,0
+Manchester,686,H,11,0
+Manchester,687,H,11,0
+Manchester,688,H,11,0
+Manchester,689,H,11,0
+Manchester,690,H,11,0
+Manchester,691,H,11,0
+Manchester,692,H,11,0
+Manchester,693,H,11,0
+Manchester,694,H,11,0
+Manchester,695,H,11,0
+Manchester,696,H,11,0
+Manchester,697,H,11,0
+Manchester,698,H,11,0
+Manchester,699,H,11,0
+Manchester,700,H,11,0
+Manchester,701,H,11,0
+Manchester,702,H,11,0
+Manchester,703,H,11,0
+Manchester,704,H,11,0
+Manchester,705,H,11,0
+Manchester,706,H,11,0
+Manchester,707,H,11,0
+Manchester,708,H,11,0
+Manchester,709,H,11,0
+Manchester,710,H,11,0
+Manchester,711,H,11,0
+Manchester,712,H,11,0
+Manchester,713,H,11,0
+Manchester,714,H,11,0
+Manchester,715,H,11,0
+Manchester,716,H,11,0
+Manchester,717,H,11,0
+Manchester,718,H,11,0
+Manchester,719,H,11,0
+Manchester,720,H,11,0
+Manchester,721,H,11,0
+Manchester,722,H,11,0
+Manchester,723,H,11,0
+Manchester,724,H,11,0
+Manchester,725,H,11,0
+Manchester,726,H,11,0
+Manchester,727,H,11,0
+Manchester,728,H,11,0
+Manchester,729,H,11,0
+Manchester,730,H,11,0
+Manchester,731,H,11,0
+Manchester,732,H,11,0
+Manchester,733,H,11,0
+Manchester,734,H,11,0
+Manchester,735,H,11,0
+Manchester,736,H,11,0
+Manchester,737,H,11,0
+Manchester,738,H,11,0
+Manchester,739,H,11,0
+Manchester,740,H,11,0
+Manchester,741,H,11,0
+Manchester,742,H,11,0
+Manchester,743,H,11,0
+Manchester,744,H,11,0
+Manchester,745,H,11,0
+Manchester,746,H,11,0
+Manchester,747,H,11,0
+Manchester,748,H,11,0
+Manchester,749,H,11,0
+Manchester,750,H,11,0
+Manchester,751,H,11,0
+Manchester,752,H,11,0
+Manchester,753,H,11,0
+Manchester,754,H,11,0
+Manchester,755,H,11,0
+Manchester,756,H,11,0
+Manchester,757,H,11,0
+Manchester,758,H,11,0
+Manchester,759,H,11,0
+Manchester,760,H,11,0
+Manchester,761,H,11,0
+Manchester,762,H,11,0
+Manchester,763,H,11,0
+Manchester,764,H,11,0
+Manchester,765,H,11,0
+Manchester,766,H,11,0
+Manchester,767,H,11,0
+Manchester,768,H,11,0
+Manchester,769,H,11,0
+Manchester,770,H,11,0
+Manchester,771,H,11,0
+Manchester,772,H,11,0
+Manchester,773,H,11,0
+Manchester,774,H,11,0
+Manchester,775,H,11,0
+Manchester,776,H,11,0
+Manchester,777,H,11,0
+Manchester,778,H,11,0
+Manchester,779,H,11,0
+Manchester,780,H,11,0
+Manchester,781,H,11,0
+Manchester,782,H,11,0
+Manchester,783,H,11,0
+Manchester,784,H,11,0
+Manchester,785,H,11,0
+Manchester,786,H,11,0
+Manchester,787,H,11,0
+Manchester,788,H,11,0
+Manchester,789,H,11,0
+Manchester,790,H,11,0
+Manchester,791,H,11,0
+Manchester,792,H,11,0
+Manchester,793,H,11,0
+Manchester,794,H,11,0
+Manchester,795,H,11,0
+Manchester,796,H,11,0
+Manchester,797,H,11,0
+Manchester,798,H,11,0
+Manchester,799,H,11,0
+Manchester,800,H,11,0
+Manchester,801,H,11,0
+Manchester,802,H,11,0
+Manchester,803,H,11,0
+Manchester,804,H,11,0
+Manchester,805,H,11,0
+Manchester,806,H,11,0
+Manchester,807,H,11,0
+Manchester,808,H,11,0
+Manchester,809,H,11,0
+Manchester,810,H,11,0
+Manchester,811,H,11,0
+Manchester,812,H,11,0
+Manchester,813,H,11,0
+Manchester,814,H,11,0
+Manchester,815,H,11,0
+Manchester,816,H,11,0
+Manchester,817,H,11,0
+Manchester,818,H,11,0
+Manchester,819,H,11,0
+Manchester,820,H,11,0
+Manchester,821,H,11,0
+Manchester,822,H,11,0
+Manchester,823,H,11,0
+Manchester,824,H,11,0
+Manchester,825,H,11,0
+Manchester,826,H,11,0
+Manchester,827,H,11,0
+Manchester,828,H,11,0
+Manchester,829,H,11,0
+Manchester,830,H,11,0
+Manchester,831,H,11,0
+Manchester,832,H,11,0
+Manchester,833,H,11,0
+Manchester,834,H,11,0
+Manchester,835,H,11,0
+Manchester,836,H,11,0
+Manchester,837,H,11,0
+Manchester,838,H,11,0
+Manchester,839,H,11,0
+Manchester,840,H,11,0
+Manchester,841,H,11,0
+Manchester,842,H,11,0
+Manchester,843,H,11,0
+Manchester,844,H,11,0
+Manchester,845,H,11,0
+Manchester,846,H,11,0
+Manchester,847,H,11,0
+Manchester,848,H,11,0
+Manchester,849,H,11,0
+Manchester,850,H,11,0
+Manchester,851,H,11,0
+Manchester,852,H,11,0
+Manchester,853,H,11,0
+Manchester,854,H,11,0
+Manchester,855,H,11,0
+Manchester,856,H,11,0
+Manchester,857,H,11,0
+Manchester,858,H,11,0
+Manchester,859,H,11,0
+Manchester,860,H,11,0
+Manchester,861,H,11,0
+Manchester,862,H,11,0
+Manchester,863,H,11,0
+Manchester,864,H,11,0
+Manchester,865,H,11,0
+Manchester,866,H,11,0
+Manchester,867,H,11,0
+Manchester,868,H,11,0
+Manchester,869,H,11,0
+Manchester,870,H,11,0
+Manchester,871,H,11,0
+Manchester,872,H,11,0
+Manchester,873,H,11,0
+Manchester,874,H,11,0
+Manchester,875,H,11,0
+Manchester,876,H,11,0
+Manchester,877,H,11,0
+Manchester,878,H,11,0
+Manchester,879,H,11,0
+Manchester,880,H,11,0
+Manchester,881,H,11,0
+Manchester,882,H,11,0
+Manchester,883,H,11,0
+Manchester,884,H,11,0
+Manchester,885,H,11,0
+Manchester,886,H,11,0
+Manchester,887,H,11,0
+Manchester,888,H,11,0
+Manchester,889,H,11,0
+Manchester,890,H,11,0
+Manchester,891,H,11,0
+Manchester,892,H,11,0
+Manchester,893,H,11,0
+Manchester,894,H,11,0
+Manchester,895,H,11,0
+Manchester,896,H,11,0
+Manchester,897,H,11,0
+Manchester,898,H,11,0
+Manchester,899,H,11,0
+Manchester,900,H,11,0
+Manchester,901,H,11,0
+Manchester,902,H,11,0
+Manchester,903,H,11,0
+Manchester,904,H,11,0
+Manchester,905,H,11,0
+Manchester,906,H,11,0
+Manchester,907,H,11,0
+Manchester,908,H,11,0
+Manchester,909,H,11,0
+Manchester,910,H,11,0
+Manchester,911,H,11,0
+Manchester,912,H,11,0
+Manchester,913,H,11,0
+Manchester,914,H,11,0
+Manchester,915,H,11,0
+Manchester,916,H,11,0
+Manchester,917,H,11,0
+Manchester,918,H,11,0
+Manchester,919,H,11,0
+Manchester,920,H,11,0
+Manchester,921,H,11,0
+Manchester,922,H,11,0
+Manchester,923,H,11,0
+Manchester,924,H,11,0
+Manchester,925,H,11,0
+Manchester,926,H,11,0
+Manchester,927,H,11,0
+Manchester,928,H,11,0
+Manchester,929,H,11,0
+Manchester,930,H,11,0
+Manchester,931,H,11,0
+Manchester,932,H,11,0
+Manchester,933,H,11,0
+Manchester,934,H,11,0
+Manchester,935,H,11,0
+Manchester,936,H,11,0
+Manchester,937,H,11,0
+Manchester,938,H,11,0
+Manchester,939,H,11,0
+Manchester,940,H,11,0
+Manchester,941,H,11,0
+Manchester,942,H,11,0
+Manchester,943,H,11,0
+Manchester,944,H,11,0
+Manchester,945,H,11,0
+Manchester,946,H,11,0
+Manchester,947,H,11,0
+Manchester,948,H,11,0
+Manchester,949,H,11,0
+Manchester,950,H,11,0
+Manchester,951,H,11,0
+Manchester,952,H,11,0
+Manchester,953,H,11,0
+Manchester,954,H,11,0
+Manchester,955,H,11,0
+Manchester,956,H,11,0
+Manchester,957,H,11,0
+Manchester,958,H,11,0
+Manchester,959,H,11,0
+Manchester,960,H,11,0
+Manchester,961,S,4,1
+Manchester,962,S,4,1
+Manchester,963,S,4,1
+Manchester,964,S,4,1
+Manchester,965,S,4,1
+Manchester,966,S,4,1
+Manchester,967,S,4,1
+Manchester,968,S,4,1
+Manchester,969,S,4,1
+Manchester,970,S,4,1
+Manchester,971,S,4,1
+Manchester,972,S,4,1
+Manchester,973,S,4,0
+Manchester,974,S,4,0
+Manchester,975,S,4,0
+Manchester,976,S,4,0
+Manchester,977,S,4,0
+Manchester,978,S,4,0
+Manchester,979,S,4,0
+Manchester,980,S,4,0
+Manchester,981,S,4,0
+Manchester,982,S,4,0
+Manchester,983,S,4,0
+Manchester,984,S,4,0
+Manchester,985,S,4,0
+Manchester,986,S,4,0
+Manchester,987,S,4,0
+Manchester,988,S,4,0
+Manchester,989,S,4,0
+Manchester,990,S,4,0
+Manchester,991,S,4,0
+Manchester,992,S,4,0
+Manchester,993,S,4,0
+Manchester,994,S,4,0
+Manchester,995,S,4,0
+Manchester,996,S,4,0
+Manchester,997,S,4,0
+Manchester,998,S,4,0
+Manchester,999,S,4,0
+Manchester,1000,S,4,0
+Manchester,1001,S,4,0
+Manchester,1002,S,4,0
+Manchester,1003,S,4,0
+Manchester,1004,S,4,0
+Manchester,1005,S,6,1
+Manchester,1006,S,6,1
+Manchester,1007,S,6,1
+Manchester,1008,S,6,1
+Manchester,1009,S,10,1
+Manchester,1010,S,10,1
+Manchester,1011,S,10,1
+Manchester,1012,S,10,1
+Manchester,1013,S,10,1
+Manchester,1014,S,10,1
+Manchester,1015,S,10,1
+Manchester,1016,S,10,1
+Manchester,1017,S,10,1
+Manchester,1018,S,10,1
+Manchester,1019,S,10,1
+Manchester,1020,S,10,1
+Manchester,1021,S,10,1
+Manchester,1022,S,10,1
+Manchester,1023,S,10,1
+Manchester,1024,S,10,1
+Manchester,1025,S,10,1
+Manchester,1026,S,10,1
+Manchester,1027,S,10,1
+Manchester,1028,S,10,1
+Manchester,1029,S,10,1
+Manchester,1030,S,10,1
+Manchester,1031,S,10,1
+Manchester,1032,S,10,1
+Manchester,1033,S,10,1
+Manchester,1034,S,10,1
+Manchester,1035,S,10,1
+Manchester,1036,S,10,1
+Manchester,1037,S,10,1
+Manchester,1038,S,10,1
+Manchester,1039,S,10,1
+Manchester,1040,S,10,1
+Manchester,1041,S,10,1
+Manchester,1042,S,11,1
+Manchester,1043,S,11,1
+Manchester,1044,S,11,1
+Manchester,1045,S,11,1
+Manchester,1046,S,11,1
+Manchester,1047,S,11,1
+Manchester,1048,S,11,1
+Manchester,1049,S,11,1
+Manchester,1050,S,11,1
+Manchester,1051,S,11,1
+Manchester,1052,S,11,1
+Manchester,1053,S,11,1
+Manchester,1054,S,11,1
+Manchester,1055,S,11,1
+Manchester,1056,S,11,1
+Manchester,1057,S,11,1
+Manchester,1058,S,11,1
+Manchester,1059,S,11,1
+Manchester,1060,S,11,1
+Manchester,1061,S,11,1
+Manchester,1062,S,11,1
+Manchester,1063,S,11,1
+Manchester,1064,S,11,1
+Manchester,1065,S,11,1
+Manchester,1066,S,11,1
+Manchester,1067,S,11,1
+Manchester,1068,S,11,1
+Manchester,1069,S,11,0
+Manchester,1070,S,11,0
+Manchester,1071,S,11,0
+Manchester,1072,S,11,0
+Manchester,1073,S,11,0
+Manchester,1074,S,11,0
+Manchester,1075,S,11,0
+Manchester,1076,S,11,0
+Manchester,1077,S,11,0
+Manchester,1078,S,11,0
+Manchester,1079,S,11,0
+Manchester,1080,S,11,0
+Manchester,1081,S,11,0
+Manchester,1082,S,11,0
+Manchester,1083,S,11,0
+Manchester,1084,S,11,0
+Manchester,1085,S,11,0
+Manchester,1086,S,11,0
+Manchester,1087,S,11,0
+Manchester,1088,S,11,0
+Manchester,1089,S,11,0
+Manchester,1090,S,11,0
+Manchester,1091,S,11,0
+Manchester,1092,S,11,0
+Manchester,1093,S,11,0
+Manchester,1094,S,11,0
+Manchester,1095,S,11,0
+Manchester,1096,S,11,0
+Manchester,1097,S,11,0
+Manchester,1098,S,11,0
+Manchester,1099,S,11,0
+Manchester,1100,S,11,0
+Manchester,1101,S,11,0
+Manchester,1102,S,11,0
+Manchester,1103,S,11,0
+Manchester,1104,S,11,0
+Manchester,1105,S,11,0
+Manchester,1106,S,11,0
+Manchester,1107,S,11,0
+Manchester,1108,S,11,0
+Manchester,1109,S,11,0
+Manchester,1110,S,11,0
+Manchester,1111,S,11,0
+Manchester,1112,S,11,0
+Manchester,1113,S,11,0
+Manchester,1114,S,11,0
+Manchester,1115,S,11,0
+Manchester,1116,S,11,0
+Manchester,1117,S,11,0
+Manchester,1118,S,11,0
+Manchester,1119,S,11,0
+Manchester,1120,S,11,0
+Manchester,1121,S,11,0
+Manchester,1122,S,11,0
+Manchester,1123,S,11,0
+Manchester,1124,S,11,0
+Manchester,1125,S,11,0
+Manchester,1126,S,11,0
+Manchester,1127,S,11,0
+Manchester,1128,S,11,0
+Manchester,1129,S,11,0
+Manchester,1130,S,11,0
+Manchester,1131,S,11,0
+Manchester,1132,S,11,0
+Manchester,1133,S,11,0
+Manchester,1134,S,11,0
+Manchester,1135,S,11,0
+Manchester,1136,S,11,0
+Manchester,1137,S,11,0
+Manchester,1138,S,11,0
+Manchester,1139,S,11,0
+Manchester,1140,S,11,0
+Manchester,1141,S,11,0
+Manchester,1142,S,11,0
+Manchester,1143,S,11,0
+Manchester,1144,S,11,0
+Manchester,1145,S,11,0
+Manchester,1146,S,11,0
+Manchester,1147,S,11,0
+Manchester,1148,S,11,0
+Manchester,1149,S,11,0
+Manchester,1150,S,11,0
+Manchester,1151,S,11,0
+Manchester,1152,S,11,0
+Manchester,1153,S,11,0
+Manchester,1154,S,11,0
+Manchester,1155,S,11,0
+Manchester,1156,S,11,0
+Manchester,1157,S,11,0
+Manchester,1158,S,11,0
+Manchester,1159,S,11,0
+Manchester,1160,S,11,0
+Manchester,1161,S,11,0
+Manchester,1162,S,11,0
+Manchester,1163,S,11,0
+Manchester,1164,S,11,0
+Manchester,1165,S,11,0
+Manchester,1166,S,11,0
+Manchester,1167,S,11,0
+Manchester,1168,S,11,0
+Manchester,1169,S,11,0
+Manchester,1170,S,11,0
+Manchester,1171,S,11,0
+Manchester,1172,S,11,0
+Manchester,1173,S,11,0
+Manchester,1174,S,11,0
+Manchester,1175,S,11,0
+Manchester,1176,S,11,0
+Manchester,1177,S,11,0
+Manchester,1178,S,11,0
+Manchester,1179,S,11,0
+Manchester,1180,S,11,0
+Manchester,1181,S,11,0
+Manchester,1182,S,11,0
+Manchester,1183,S,11,0
+Manchester,1184,S,11,0
+Manchester,1185,S,11,0
+Manchester,1186,S,11,0
+Manchester,1187,S,11,0
+Manchester,1188,S,11,0
+Manchester,1189,S,11,0
+Manchester,1190,S,11,0
+Manchester,1191,S,11,0
+Manchester,1192,S,11,0
+Manchester,1193,S,11,0
+Manchester,1194,S,11,0
+Manchester,1195,S,11,0
+Manchester,1196,S,11,0
+Manchester,1197,S,11,0
+Manchester,1198,S,11,0
+Manchester,1199,S,11,0
+Manchester,1200,S,11,0
+Manchester,1201,S,11,0
+Manchester,1202,S,11,0
+Manchester,1203,S,11,0
+Manchester,1204,S,11,0
+Manchester,1205,S,11,0
+Manchester,1206,S,11,0
+Manchester,1207,S,11,0
+Manchester,1208,S,11,0
+Manchester,1209,S,11,0
+Manchester,1210,S,11,0
+Manchester,1211,S,11,0
+Manchester,1212,S,11,0
+Manchester,1213,S,11,0
+Manchester,1214,S,11,0
+Manchester,1215,S,11,0
+Manchester,1216,S,11,0
+Manchester,1217,S,11,0
+Manchester,1218,S,11,0
+Manchester,1219,S,11,0
+Manchester,1220,S,11,0
+Manchester,1221,S,11,0
+Manchester,1222,S,11,0
+Manchester,1223,S,11,0
+Manchester,1224,S,11,0
+Manchester,1225,S,11,0
+Manchester,1226,S,11,0
+Manchester,1227,S,11,0
+Manchester,1228,S,11,0
+Manchester,1229,S,11,0
+Manchester,1230,S,11,0
+Manchester,1231,S,11,0
+Manchester,1232,S,11,0
+Manchester,1233,S,11,0
+Manchester,1234,S,11,0
+Manchester,1235,S,11,0
+Manchester,1236,S,11,0
+Manchester,1237,S,11,0
+Manchester,1238,S,11,0
+Manchester,1239,S,11,0
+Manchester,1240,S,11,0
+Manchester,1241,S,11,0
+Manchester,1242,S,11,0
+Manchester,1243,S,11,0
+Manchester,1244,S,11,0
+Manchester,1245,S,11,0
+Manchester,1246,S,11,0
+Manchester,1247,S,11,0
+Manchester,1248,S,11,0
+Manchester,1249,S,11,0
+Manchester,1250,S,11,0
+Manchester,1251,S,11,0
+Manchester,1252,S,11,0
+Manchester,1253,S,11,0
+Manchester,1254,S,11,0
+Manchester,1255,S,11,0
+Manchester,1256,S,11,0
+Manchester,1257,S,11,0
+Manchester,1258,S,11,0
+Manchester,1259,S,11,0
+Manchester,1260,S,11,0
+Manchester,1261,S,11,0
+Manchester,1262,S,11,0
+Manchester,1263,S,11,0
+Manchester,1264,S,11,0
+Manchester,1265,S,11,0
+Manchester,1266,S,11,0
+Manchester,1267,S,11,0
+Manchester,1268,S,11,0
+Manchester,1269,S,11,0
+Manchester,1270,S,11,0
+Manchester,1271,S,11,0
+Manchester,1272,S,11,0
+Manchester,1273,S,11,0
+Manchester,1274,S,11,0
+Manchester,1275,S,11,0
+Manchester,1276,S,11,0
+Manchester,1277,S,11,0
+Manchester,1278,S,11,0
+Manchester,1279,S,11,0
+Manchester,1280,S,11,0
+Manchester,1281,S,11,0
+Manchester,1282,S,11,0
+Manchester,1283,S,11,0
+Manchester,1284,S,11,0
+Manchester,1285,S,11,0
+Manchester,1286,S,11,0
+Manchester,1287,S,11,0
+Manchester,1288,S,11,0
+Manchester,1289,S,11,0
+Manchester,1290,S,11,0
+Manchester,1291,S,11,0
+Manchester,1292,S,11,0
+Manchester,1293,S,11,0
+Manchester,1294,S,11,0
+Manchester,1295,S,11,0
+Manchester,1296,S,11,0
+Manchester,1297,S,11,0
+Manchester,1298,S,11,0
+Manchester,1299,S,11,0
+Manchester,1300,S,11,0
+Manchester,1301,S,11,0
+Manchester,1302,S,11,0
+Manchester,1303,S,11,0
+Manchester,1304,S,11,0
+Manchester,1305,S,11,0
+Manchester,1306,S,11,0
+Manchester,1307,S,11,0
+Manchester,1308,S,11,0
+Manchester,1309,S,11,0
+Manchester,1310,S,11,0
+Manchester,1311,S,11,0
+Manchester,1312,S,11,0
+Manchester,1313,S,11,0
+Manchester,1314,S,11,0
+Manchester,1315,S,11,0
+Manchester,1316,S,11,0
+Manchester,1317,S,11,0
+Manchester,1318,S,11,0
+Manchester,1319,S,11,0
+Manchester,1320,S,11,0
+Manchester,1321,S,11,0
+Manchester,1322,S,11,0
+Manchester,1323,S,11,0
+Manchester,1324,S,11,0
+Manchester,1325,S,11,0
+Manchester,1326,S,11,0
+Manchester,1327,S,11,0
+Manchester,1328,S,11,0
+Manchester,1329,S,11,0
+Manchester,1330,S,11,0
+Manchester,1331,S,11,0
+Manchester,1332,S,11,0
+Manchester,1333,S,11,0
+Manchester,1334,S,11,0
+Manchester,1335,S,11,0
+Manchester,1336,S,11,0
+Manchester,1337,S,11,0
+Manchester,1338,S,11,0
+Manchester,1339,S,11,0
+Manchester,1340,S,11,0
+Manchester,1341,S,11,0
+Manchester,1342,S,11,0
+Manchester,1343,S,11,0
+Manchester,1344,S,11,0
+Manchester,1345,S,11,0
+Manchester,1346,S,11,0
+Manchester,1347,S,11,0
+Manchester,1348,S,11,0
+Manchester,1349,S,11,0
+Manchester,1350,S,11,0
+Manchester,1351,S,11,0
+Manchester,1352,S,11,0
+Manchester,1353,S,11,0
+Manchester,1354,S,11,0
+Manchester,1355,S,11,0
+Manchester,1356,S,11,0
+Manchester,1357,S,11,0
+Manchester,1358,S,11,0
+Manchester,1359,S,11,0
+Manchester,1360,S,11,0
+Manchester,1361,S,11,0
+Manchester,1362,S,11,0
+Manchester,1363,S,11,0
+Manchester,1364,S,11,0
+Manchester,1365,S,11,0
+Manchester,1366,S,11,0
+Manchester,1367,S,11,0
+Manchester,1368,S,11,0
+Manchester,1369,S,11,0
+Manchester,1370,S,11,0
+Manchester,1371,S,11,0
+Manchester,1372,S,11,0
+Manchester,1373,S,11,0
+Manchester,1374,S,11,0
+Manchester,1375,S,11,0
+Manchester,1376,S,11,0
+Manchester,1377,S,11,0
+Manchester,1378,S,11,0
+Manchester,1379,S,11,0
+Manchester,1380,S,11,0
+Manchester,1381,S,11,0
+Manchester,1382,S,11,0
+Manchester,1383,S,11,0
+Manchester,1384,S,11,0
+Manchester,1385,S,11,0
+Manchester,1386,S,11,0
+Manchester,1387,S,11,0
+Manchester,1388,S,11,0
+Manchester,1389,S,11,0
+Manchester,1390,S,11,0
+Manchester,1391,S,11,0
+Manchester,1392,S,11,0
+Manchester,1393,S,11,0
+Manchester,1394,S,11,0
+Manchester,1395,S,11,0
+Manchester,1396,S,11,0
+Manchester,1397,S,11,0
+Manchester,1398,S,11,0
+Manchester,1399,S,11,0
+Manchester,1400,S,11,0
+Manchester,1401,S,11,0
+Manchester,1402,S,11,0
+Manchester,1403,S,11,0
+Manchester,1404,S,11,0
+Manchester,1405,S,11,0
+Manchester,1406,S,11,0
+Manchester,1407,S,11,0
+Manchester,1408,S,11,0
+Manchester,1409,S,11,0
+Manchester,1410,S,11,0
+Manchester,1411,S,11,0
+Manchester,1412,S,11,0
+Manchester,1413,S,11,0
+Manchester,1414,S,11,0
+Manchester,1415,S,11,0
+Manchester,1416,S,11,0
+Manchester,1417,S,11,0
+Manchester,1418,S,11,0
+Manchester,1419,S,11,0
+Manchester,1420,S,11,0
+Manchester,1421,S,11,0
+Manchester,1422,S,11,0
+Manchester,1423,S,11,0
+Manchester,1424,S,11,0
+Manchester,1425,S,11,0
+Manchester,1426,S,11,0
+Manchester,1427,S,11,0
+Manchester,1428,S,11,0
+Manchester,1429,S,11,0
+Manchester,1430,S,11,0
+Manchester,1431,S,11,0
+Manchester,1432,S,11,0
+Manchester,1433,S,11,0
+Manchester,1434,S,11,0
+Manchester,1435,S,11,0
+Manchester,1436,S,11,0
+Manchester,1437,S,11,0
+Manchester,1438,S,11,0
+Manchester,1439,S,11,0
+Manchester,1440,S,11,0
+Oyster Bay,1,N,4,1
+Oyster Bay,2,N,4,1
+Oyster Bay,3,N,4,1
+Oyster Bay,4,N,4,1
+Oyster Bay,5,N,4,1
+Oyster Bay,6,N,4,1
+Oyster Bay,7,N,4,1
+Oyster Bay,8,N,4,1
+Oyster Bay,9,N,4,1
+Oyster Bay,10,N,4,1
+Oyster Bay,11,N,4,1
+Oyster Bay,12,N,4,1
+Oyster Bay,13,N,4,1
+Oyster Bay,14,N,4,1
+Oyster Bay,15,N,4,1
+Oyster Bay,16,N,4,1
+Oyster Bay,17,N,4,1
+Oyster Bay,18,N,4,1
+Oyster Bay,19,N,4,1
+Oyster Bay,20,N,4,1
+Oyster Bay,21,N,4,1
+Oyster Bay,22,N,4,1
+Oyster Bay,23,N,4,1
+Oyster Bay,24,N,4,1
+Oyster Bay,25,N,4,1
+Oyster Bay,26,N,4,1
+Oyster Bay,27,N,4,1
+Oyster Bay,28,N,4,1
+Oyster Bay,29,N,4,1
+Oyster Bay,30,N,4,1
+Oyster Bay,31,N,4,1
+Oyster Bay,32,N,4,1
+Oyster Bay,33,N,4,1
+Oyster Bay,34,N,4,1
+Oyster Bay,35,N,4,1
+Oyster Bay,36,N,4,1
+Oyster Bay,37,N,4,1
+Oyster Bay,38,N,4,1
+Oyster Bay,39,N,4,1
+Oyster Bay,40,N,4,1
+Oyster Bay,41,N,4,1
+Oyster Bay,42,N,4,1
+Oyster Bay,43,N,4,1
+Oyster Bay,44,N,4,1
+Oyster Bay,45,N,4,1
+Oyster Bay,46,N,4,1
+Oyster Bay,47,N,4,1
+Oyster Bay,48,N,4,0
+Oyster Bay,49,N,4,0
+Oyster Bay,50,N,4,0
+Oyster Bay,51,N,4,0
+Oyster Bay,52,N,4,0
+Oyster Bay,53,N,4,0
+Oyster Bay,54,N,4,0
+Oyster Bay,55,N,4,0
+Oyster Bay,56,N,4,0
+Oyster Bay,57,N,4,0
+Oyster Bay,58,N,4,0
+Oyster Bay,59,N,4,0
+Oyster Bay,60,N,4,0
+Oyster Bay,61,N,4,0
+Oyster Bay,62,N,4,0
+Oyster Bay,63,N,4,0
+Oyster Bay,64,N,4,0
+Oyster Bay,65,N,4,0
+Oyster Bay,66,N,4,0
+Oyster Bay,67,N,4,0
+Oyster Bay,68,N,4,0
+Oyster Bay,69,N,4,0
+Oyster Bay,70,N,4,0
+Oyster Bay,71,N,4,0
+Oyster Bay,72,N,4,0
+Oyster Bay,73,N,4,0
+Oyster Bay,74,N,4,0
+Oyster Bay,75,N,4,0
+Oyster Bay,76,N,4,0
+Oyster Bay,77,N,4,0
+Oyster Bay,78,N,6,1
+Oyster Bay,79,N,6,1
+Oyster Bay,80,N,6,1
+Oyster Bay,81,N,6,1
+Oyster Bay,82,N,6,1
+Oyster Bay,83,N,6,1
+Oyster Bay,84,N,6,1
+Oyster Bay,85,N,6,1
+Oyster Bay,86,N,6,1
+Oyster Bay,87,N,6,1
+Oyster Bay,88,N,6,1
+Oyster Bay,89,N,6,1
+Oyster Bay,90,N,6,1
+Oyster Bay,91,N,6,1
+Oyster Bay,92,N,6,1
+Oyster Bay,93,N,6,1
+Oyster Bay,94,N,9,1
+Oyster Bay,95,N,9,1
+Oyster Bay,96,N,9,1
+Oyster Bay,97,N,9,1
+Oyster Bay,98,N,9,1
+Oyster Bay,99,N,9,1
+Oyster Bay,100,N,9,1
+Oyster Bay,101,N,9,1
+Oyster Bay,102,N,9,1
+Oyster Bay,103,N,9,1
+Oyster Bay,104,N,9,1
+Oyster Bay,105,N,9,1
+Oyster Bay,106,N,9,1
+Oyster Bay,107,N,9,1
+Oyster Bay,108,N,9,1
+Oyster Bay,109,N,9,1
+Oyster Bay,110,N,9,1
+Oyster Bay,111,N,9,1
+Oyster Bay,112,N,9,1
+Oyster Bay,113,N,9,1
+Oyster Bay,114,N,9,1
+Oyster Bay,115,N,9,1
+Oyster Bay,116,N,9,1
+Oyster Bay,117,N,9,1
+Oyster Bay,118,N,9,1
+Oyster Bay,119,N,9,1
+Oyster Bay,120,N,9,1
+Oyster Bay,121,N,9,1
+Oyster Bay,122,N,9,1
+Oyster Bay,123,N,9,1
+Oyster Bay,124,N,9,1
+Oyster Bay,125,N,9,1
+Oyster Bay,126,N,9,1
+Oyster Bay,127,N,9,1
+Oyster Bay,128,N,9,1
+Oyster Bay,129,N,9,1
+Oyster Bay,130,N,9,1
+Oyster Bay,131,N,9,1
+Oyster Bay,132,N,9,1
+Oyster Bay,133,N,9,1
+Oyster Bay,134,N,9,1
+Oyster Bay,135,N,9,1
+Oyster Bay,136,N,9,1
+Oyster Bay,137,N,9,1
+Oyster Bay,138,N,9,1
+Oyster Bay,139,N,9,1
+Oyster Bay,140,N,9,1
+Oyster Bay,141,N,9,1
+Oyster Bay,142,N,9,1
+Oyster Bay,143,N,9,1
+Oyster Bay,144,N,9,1
+Oyster Bay,145,N,9,1
+Oyster Bay,146,N,9,1
+Oyster Bay,147,N,9,1
+Oyster Bay,148,N,9,1
+Oyster Bay,149,N,9,1
+Oyster Bay,150,N,9,1
+Oyster Bay,151,N,9,1
+Oyster Bay,152,N,9,1
+Oyster Bay,153,N,9,1
+Oyster Bay,154,N,9,1
+Oyster Bay,155,N,9,1
+Oyster Bay,156,N,9,1
+Oyster Bay,157,N,9,1
+Oyster Bay,158,N,9,1
+Oyster Bay,159,N,9,1
+Oyster Bay,160,N,9,1
+Oyster Bay,161,N,9,1
+Oyster Bay,162,N,9,1
+Oyster Bay,163,N,9,1
+Oyster Bay,164,N,9,1
+Oyster Bay,165,N,9,1
+Oyster Bay,166,N,9,1
+Oyster Bay,167,N,9,1
+Oyster Bay,168,N,9,1
+Oyster Bay,169,N,9,1
+Oyster Bay,170,N,9,1
+Oyster Bay,171,N,9,1
+Oyster Bay,172,N,9,1
+Oyster Bay,173,N,9,1
+Oyster Bay,174,N,9,1
+Oyster Bay,175,N,9,1
+Oyster Bay,176,N,9,1
+Oyster Bay,177,N,9,1
+Oyster Bay,178,N,9,1
+Oyster Bay,179,N,9,1
+Oyster Bay,180,N,9,1
+Oyster Bay,181,N,9,1
+Oyster Bay,182,N,9,1
+Oyster Bay,183,N,9,1
+Oyster Bay,184,N,9,1
+Oyster Bay,185,N,9,1
+Oyster Bay,186,N,9,1
+Oyster Bay,187,N,9,1
+Oyster Bay,188,N,10,1
+Oyster Bay,189,N,10,1
+Oyster Bay,190,N,10,1
+Oyster Bay,191,N,10,1
+Oyster Bay,192,N,10,1
+Oyster Bay,193,N,10,1
+Oyster Bay,194,N,10,1
+Oyster Bay,195,N,10,1
+Oyster Bay,196,N,10,1
+Oyster Bay,197,N,10,1
+Oyster Bay,198,N,10,1
+Oyster Bay,199,N,10,1
+Oyster Bay,200,N,10,1
+Oyster Bay,201,N,10,1
+Oyster Bay,202,N,10,1
+Oyster Bay,203,N,10,1
+Oyster Bay,204,N,10,1
+Oyster Bay,205,N,10,1
+Oyster Bay,206,N,10,1
+Oyster Bay,207,N,10,1
+Oyster Bay,208,N,10,1
+Oyster Bay,209,N,10,1
+Oyster Bay,210,N,10,1
+Oyster Bay,211,N,10,1
+Oyster Bay,212,N,10,1
+Oyster Bay,213,N,10,1
+Oyster Bay,214,N,10,1
+Oyster Bay,215,N,10,1
+Oyster Bay,216,N,10,1
+Oyster Bay,217,N,10,1
+Oyster Bay,218,N,10,1
+Oyster Bay,219,N,10,1
+Oyster Bay,220,N,10,1
+Oyster Bay,221,N,10,1
+Oyster Bay,222,N,10,1
+Oyster Bay,223,N,10,1
+Oyster Bay,224,N,10,1
+Oyster Bay,225,N,10,1
+Oyster Bay,226,N,10,1
+Oyster Bay,227,N,11,1
+Oyster Bay,228,N,11,1
+Oyster Bay,229,N,11,1
+Oyster Bay,230,N,11,1
+Oyster Bay,231,N,11,1
+Oyster Bay,232,N,11,1
+Oyster Bay,233,N,11,1
+Oyster Bay,234,N,11,1
+Oyster Bay,235,N,11,1
+Oyster Bay,236,N,11,1
+Oyster Bay,237,N,11,1
+Oyster Bay,238,N,11,1
+Oyster Bay,239,N,11,1
+Oyster Bay,240,N,11,1
+Oyster Bay,241,N,11,1
+Oyster Bay,242,N,11,1
+Oyster Bay,243,N,11,1
+Oyster Bay,244,N,11,1
+Oyster Bay,245,N,11,1
+Oyster Bay,246,N,11,1
+Oyster Bay,247,N,11,1
+Oyster Bay,248,N,11,0
+Oyster Bay,249,N,11,0
+Oyster Bay,250,N,11,0
+Oyster Bay,251,N,11,0
+Oyster Bay,252,N,11,0
+Oyster Bay,253,N,11,0
+Oyster Bay,254,N,11,0
+Oyster Bay,255,N,11,0
+Oyster Bay,256,N,11,0
+Oyster Bay,257,N,11,0
+Oyster Bay,258,N,11,0
+Oyster Bay,259,N,11,0
+Oyster Bay,260,N,11,0
+Oyster Bay,261,N,11,0
+Oyster Bay,262,N,11,0
+Oyster Bay,263,N,11,0
+Oyster Bay,264,N,11,0
+Oyster Bay,265,N,11,0
+Oyster Bay,266,N,11,0
+Oyster Bay,267,N,11,0
+Oyster Bay,268,N,11,0
+Oyster Bay,269,N,11,0
+Oyster Bay,270,N,11,0
+Oyster Bay,271,N,11,0
+Oyster Bay,272,N,11,0
+Oyster Bay,273,N,11,0
+Oyster Bay,274,N,11,0
+Oyster Bay,275,N,11,0
+Oyster Bay,276,N,11,0
+Oyster Bay,277,N,11,0
+Oyster Bay,278,N,11,0
+Oyster Bay,279,N,11,0
+Oyster Bay,280,N,11,0
+Oyster Bay,281,N,11,0
+Oyster Bay,282,N,11,0
+Oyster Bay,283,N,11,0
+Oyster Bay,284,N,11,0
+Oyster Bay,285,N,11,0
+Oyster Bay,286,N,11,0
+Oyster Bay,287,N,11,0
+Oyster Bay,288,N,11,0
+Oyster Bay,289,N,11,0
+Oyster Bay,290,N,11,0
+Oyster Bay,291,N,11,0
+Oyster Bay,292,N,11,0
+Oyster Bay,293,N,11,0
+Oyster Bay,294,N,11,0
+Oyster Bay,295,N,11,0
+Oyster Bay,296,N,11,0
+Oyster Bay,297,N,11,0
+Oyster Bay,298,N,11,0
+Oyster Bay,299,N,11,0
+Oyster Bay,300,N,11,0
+Oyster Bay,301,N,11,0
+Oyster Bay,302,N,11,0
+Oyster Bay,303,N,11,0
+Oyster Bay,304,N,11,0
+Oyster Bay,305,N,11,0
+Oyster Bay,306,N,11,0
+Oyster Bay,307,N,11,0
+Oyster Bay,308,N,11,0
+Oyster Bay,309,N,11,0
+Oyster Bay,310,N,11,0
+Oyster Bay,311,N,11,0
+Oyster Bay,312,N,11,0
+Oyster Bay,313,N,11,0
+Oyster Bay,314,N,11,0
+Oyster Bay,315,N,11,0
+Oyster Bay,316,N,11,0
+Oyster Bay,317,N,11,0
+Oyster Bay,318,N,11,0
+Oyster Bay,319,N,11,0
+Oyster Bay,320,N,11,0
+Oyster Bay,321,N,11,0
+Oyster Bay,322,N,11,0
+Oyster Bay,323,N,11,0
+Oyster Bay,324,N,11,0
+Oyster Bay,325,N,11,0
+Oyster Bay,326,N,11,0
+Oyster Bay,327,N,11,0
+Oyster Bay,328,N,11,0
+Oyster Bay,329,N,11,0
+Oyster Bay,330,N,11,0
+Oyster Bay,331,N,11,0
+Oyster Bay,332,N,11,0
+Oyster Bay,333,N,11,0
+Oyster Bay,334,N,11,0
+Oyster Bay,335,N,11,0
+Oyster Bay,336,N,11,0
+Oyster Bay,337,N,11,0
+Oyster Bay,338,N,11,0
+Oyster Bay,339,N,11,0
+Oyster Bay,340,N,11,0
+Oyster Bay,341,N,11,0
+Oyster Bay,342,N,11,0
+Oyster Bay,343,N,11,0
+Oyster Bay,344,N,11,0
+Oyster Bay,345,N,11,0
+Oyster Bay,346,N,11,0
+Oyster Bay,347,N,11,0
+Oyster Bay,348,N,11,0
+Oyster Bay,349,N,11,0
+Oyster Bay,350,N,11,0
+Oyster Bay,351,N,11,0
+Oyster Bay,352,N,11,0
+Oyster Bay,353,N,11,0
+Oyster Bay,354,N,11,0
+Oyster Bay,355,N,11,0
+Oyster Bay,356,N,11,0
+Oyster Bay,357,N,11,0
+Oyster Bay,358,N,11,0
+Oyster Bay,359,N,11,0
+Oyster Bay,360,N,11,0
+Oyster Bay,361,N,11,0
+Oyster Bay,362,N,11,0
+Oyster Bay,363,N,11,0
+Oyster Bay,364,N,11,0
+Oyster Bay,365,N,11,0
+Oyster Bay,366,N,11,0
+Oyster Bay,367,N,11,0
+Oyster Bay,368,N,11,0
+Oyster Bay,369,N,11,0
+Oyster Bay,370,N,11,0
+Oyster Bay,371,N,11,0
+Oyster Bay,372,N,11,0
+Oyster Bay,373,N,11,0
+Oyster Bay,374,N,11,0
+Oyster Bay,375,N,11,0
+Oyster Bay,376,N,11,0
+Oyster Bay,377,N,11,0
+Oyster Bay,378,N,11,0
+Oyster Bay,379,N,11,0
+Oyster Bay,380,N,11,0
+Oyster Bay,381,N,11,0
+Oyster Bay,382,N,11,0
+Oyster Bay,383,N,11,0
+Oyster Bay,384,N,11,0
+Oyster Bay,385,N,11,0
+Oyster Bay,386,N,11,0
+Oyster Bay,387,N,11,0
+Oyster Bay,388,N,11,0
+Oyster Bay,389,N,11,0
+Oyster Bay,390,N,11,0
+Oyster Bay,391,N,11,0
+Oyster Bay,392,N,11,0
+Oyster Bay,393,N,11,0
+Oyster Bay,394,N,11,0
+Oyster Bay,395,N,11,0
+Oyster Bay,396,N,11,0
+Oyster Bay,397,N,11,0
+Oyster Bay,398,N,11,0
+Oyster Bay,399,N,11,0
+Oyster Bay,400,N,11,0
+Oyster Bay,401,N,11,0
+Oyster Bay,402,N,11,0
+Oyster Bay,403,N,11,0
+Oyster Bay,404,N,11,0
+Oyster Bay,405,N,11,0
+Oyster Bay,406,N,11,0
+Oyster Bay,407,N,11,0
+Oyster Bay,408,N,11,0
+Oyster Bay,409,N,11,0
+Oyster Bay,410,N,11,0
+Oyster Bay,411,N,11,0
+Oyster Bay,412,N,11,0
+Oyster Bay,413,N,11,0
+Oyster Bay,414,N,11,0
+Oyster Bay,415,N,11,0
+Oyster Bay,416,N,11,0
+Oyster Bay,417,N,11,0
+Oyster Bay,418,N,11,0
+Oyster Bay,419,N,11,0
+Oyster Bay,420,N,11,0
+Oyster Bay,421,N,11,0
+Oyster Bay,422,N,11,0
+Oyster Bay,423,N,11,0
+Oyster Bay,424,N,11,0
+Oyster Bay,425,N,11,0
+Oyster Bay,426,N,11,0
+Oyster Bay,427,N,11,0
+Oyster Bay,428,N,11,0
+Oyster Bay,429,N,11,0
+Oyster Bay,430,N,11,0
+Oyster Bay,431,N,11,0
+Oyster Bay,432,N,11,0
+Oyster Bay,433,N,11,0
+Oyster Bay,434,N,11,0
+Oyster Bay,435,N,11,0
+Oyster Bay,436,N,11,0
+Oyster Bay,437,N,11,0
+Oyster Bay,438,N,11,0
+Oyster Bay,439,N,11,0
+Oyster Bay,440,N,11,0
+Oyster Bay,441,N,11,0
+Oyster Bay,442,N,11,0
+Oyster Bay,443,N,11,0
+Oyster Bay,444,N,11,0
+Oyster Bay,445,N,11,0
+Oyster Bay,446,N,11,0
+Oyster Bay,447,N,11,0
+Oyster Bay,448,N,11,0
+Oyster Bay,449,N,11,0
+Oyster Bay,450,N,11,0
+Oyster Bay,451,N,11,0
+Oyster Bay,452,N,11,0
+Oyster Bay,453,N,11,0
+Oyster Bay,454,N,11,0
+Oyster Bay,455,N,11,0
+Oyster Bay,456,N,11,0
+Oyster Bay,457,N,11,0
+Oyster Bay,458,N,11,0
+Oyster Bay,459,N,11,0
+Oyster Bay,460,N,11,0
+Oyster Bay,461,N,11,0
+Oyster Bay,462,N,11,0
+Oyster Bay,463,N,11,0
+Oyster Bay,464,N,11,0
+Oyster Bay,465,N,11,0
+Oyster Bay,466,N,11,0
+Oyster Bay,467,N,11,0
+Oyster Bay,468,N,11,0
+Oyster Bay,469,N,11,0
+Oyster Bay,470,N,11,0
+Oyster Bay,471,N,11,0
+Oyster Bay,472,N,11,0
+Oyster Bay,473,N,11,0
+Oyster Bay,474,N,11,0
+Oyster Bay,475,N,11,0
+Oyster Bay,476,N,11,0
+Oyster Bay,477,N,11,0
+Oyster Bay,478,N,11,0
+Oyster Bay,479,N,11,0
+Oyster Bay,480,N,11,0
+Oyster Bay,481,H,4,1
+Oyster Bay,482,H,4,1
+Oyster Bay,483,H,4,1
+Oyster Bay,484,H,4,1
+Oyster Bay,485,H,4,1
+Oyster Bay,486,H,4,1
+Oyster Bay,487,H,4,1
+Oyster Bay,488,H,4,1
+Oyster Bay,489,H,4,1
+Oyster Bay,490,H,4,1
+Oyster Bay,491,H,4,1
+Oyster Bay,492,H,4,1
+Oyster Bay,493,H,4,1
+Oyster Bay,494,H,4,1
+Oyster Bay,495,H,4,1
+Oyster Bay,496,H,4,1
+Oyster Bay,497,H,4,1
+Oyster Bay,498,H,4,1
+Oyster Bay,499,H,4,1
+Oyster Bay,500,H,4,1
+Oyster Bay,501,H,4,1
+Oyster Bay,502,H,4,1
+Oyster Bay,503,H,4,1
+Oyster Bay,504,H,4,1
+Oyster Bay,505,H,4,1
+Oyster Bay,506,H,4,1
+Oyster Bay,507,H,4,1
+Oyster Bay,508,H,4,1
+Oyster Bay,509,H,4,1
+Oyster Bay,510,H,4,1
+Oyster Bay,511,H,4,1
+Oyster Bay,512,H,4,1
+Oyster Bay,513,H,4,1
+Oyster Bay,514,H,4,1
+Oyster Bay,515,H,4,1
+Oyster Bay,516,H,4,1
+Oyster Bay,517,H,4,1
+Oyster Bay,518,H,4,1
+Oyster Bay,519,H,4,1
+Oyster Bay,520,H,4,1
+Oyster Bay,521,H,4,1
+Oyster Bay,522,H,4,1
+Oyster Bay,523,H,4,1
+Oyster Bay,524,H,4,1
+Oyster Bay,525,H,4,1
+Oyster Bay,526,H,4,1
+Oyster Bay,527,H,4,1
+Oyster Bay,528,H,4,1
+Oyster Bay,529,H,4,1
+Oyster Bay,530,H,4,1
+Oyster Bay,531,H,4,0
+Oyster Bay,532,H,4,0
+Oyster Bay,533,H,4,0
+Oyster Bay,534,H,4,0
+Oyster Bay,535,H,4,0
+Oyster Bay,536,H,4,0
+Oyster Bay,537,H,4,0
+Oyster Bay,538,H,4,0
+Oyster Bay,539,H,4,0
+Oyster Bay,540,H,4,0
+Oyster Bay,541,H,4,0
+Oyster Bay,542,H,4,0
+Oyster Bay,543,H,4,0
+Oyster Bay,544,H,4,0
+Oyster Bay,545,H,4,0
+Oyster Bay,546,H,4,0
+Oyster Bay,547,H,4,0
+Oyster Bay,548,H,4,0
+Oyster Bay,549,H,4,0
+Oyster Bay,550,H,4,0
+Oyster Bay,551,H,4,0
+Oyster Bay,552,H,4,0
+Oyster Bay,553,H,4,0
+Oyster Bay,554,H,4,0
+Oyster Bay,555,H,4,0
+Oyster Bay,556,H,4,0
+Oyster Bay,557,H,4,0
+Oyster Bay,558,H,4,0
+Oyster Bay,559,H,4,0
+Oyster Bay,560,H,4,0
+Oyster Bay,561,H,4,0
+Oyster Bay,562,H,4,0
+Oyster Bay,563,H,4,0
+Oyster Bay,564,H,6,1
+Oyster Bay,565,H,6,1
+Oyster Bay,566,H,6,1
+Oyster Bay,567,H,9,1
+Oyster Bay,568,H,9,1
+Oyster Bay,569,H,9,1
+Oyster Bay,570,H,9,1
+Oyster Bay,571,H,9,1
+Oyster Bay,572,H,9,1
+Oyster Bay,573,H,9,1
+Oyster Bay,574,H,9,1
+Oyster Bay,575,H,9,1
+Oyster Bay,576,H,9,1
+Oyster Bay,577,H,9,1
+Oyster Bay,578,H,9,1
+Oyster Bay,579,H,9,1
+Oyster Bay,580,H,9,1
+Oyster Bay,581,H,9,1
+Oyster Bay,582,H,9,1
+Oyster Bay,583,H,9,1
+Oyster Bay,584,H,9,1
+Oyster Bay,585,H,9,1
+Oyster Bay,586,H,9,1
+Oyster Bay,587,H,9,1
+Oyster Bay,588,H,9,1
+Oyster Bay,589,H,9,1
+Oyster Bay,590,H,9,1
+Oyster Bay,591,H,9,1
+Oyster Bay,592,H,9,1
+Oyster Bay,593,H,9,1
+Oyster Bay,594,H,9,1
+Oyster Bay,595,H,9,1
+Oyster Bay,596,H,9,1
+Oyster Bay,597,H,9,1
+Oyster Bay,598,H,9,1
+Oyster Bay,599,H,9,1
+Oyster Bay,600,H,9,1
+Oyster Bay,601,H,9,1
+Oyster Bay,602,H,9,1
+Oyster Bay,603,H,9,1
+Oyster Bay,604,H,9,1
+Oyster Bay,605,H,9,1
+Oyster Bay,606,H,9,1
+Oyster Bay,607,H,9,1
+Oyster Bay,608,H,9,1
+Oyster Bay,609,H,9,1
+Oyster Bay,610,H,9,1
+Oyster Bay,611,H,9,1
+Oyster Bay,612,H,9,1
+Oyster Bay,613,H,9,1
+Oyster Bay,614,H,9,1
+Oyster Bay,615,H,9,1
+Oyster Bay,616,H,9,1
+Oyster Bay,617,H,9,1
+Oyster Bay,618,H,9,1
+Oyster Bay,619,H,10,1
+Oyster Bay,620,H,10,1
+Oyster Bay,621,H,10,1
+Oyster Bay,622,H,10,1
+Oyster Bay,623,H,10,1
+Oyster Bay,624,H,10,1
+Oyster Bay,625,H,10,1
+Oyster Bay,626,H,10,1
+Oyster Bay,627,H,10,1
+Oyster Bay,628,H,10,1
+Oyster Bay,629,H,10,1
+Oyster Bay,630,H,10,1
+Oyster Bay,631,H,10,1
+Oyster Bay,632,H,10,1
+Oyster Bay,633,H,11,1
+Oyster Bay,634,H,11,1
+Oyster Bay,635,H,11,1
+Oyster Bay,636,H,11,1
+Oyster Bay,637,H,11,1
+Oyster Bay,638,H,11,1
+Oyster Bay,639,H,11,1
+Oyster Bay,640,H,11,1
+Oyster Bay,641,H,11,1
+Oyster Bay,642,H,11,1
+Oyster Bay,643,H,11,1
+Oyster Bay,644,H,11,1
+Oyster Bay,645,H,11,1
+Oyster Bay,646,H,11,1
+Oyster Bay,647,H,11,1
+Oyster Bay,648,H,11,1
+Oyster Bay,649,H,11,1
+Oyster Bay,650,H,11,1
+Oyster Bay,651,H,11,1
+Oyster Bay,652,H,11,1
+Oyster Bay,653,H,11,1
+Oyster Bay,654,H,11,0
+Oyster Bay,655,H,11,0
+Oyster Bay,656,H,11,0
+Oyster Bay,657,H,11,0
+Oyster Bay,658,H,11,0
+Oyster Bay,659,H,11,0
+Oyster Bay,660,H,11,0
+Oyster Bay,661,H,11,0
+Oyster Bay,662,H,11,0
+Oyster Bay,663,H,11,0
+Oyster Bay,664,H,11,0
+Oyster Bay,665,H,11,0
+Oyster Bay,666,H,11,0
+Oyster Bay,667,H,11,0
+Oyster Bay,668,H,11,0
+Oyster Bay,669,H,11,0
+Oyster Bay,670,H,11,0
+Oyster Bay,671,H,11,0
+Oyster Bay,672,H,11,0
+Oyster Bay,673,H,11,0
+Oyster Bay,674,H,11,0
+Oyster Bay,675,H,11,0
+Oyster Bay,676,H,11,0
+Oyster Bay,677,H,11,0
+Oyster Bay,678,H,11,0
+Oyster Bay,679,H,11,0
+Oyster Bay,680,H,11,0
+Oyster Bay,681,H,11,0
+Oyster Bay,682,H,11,0
+Oyster Bay,683,H,11,0
+Oyster Bay,684,H,11,0
+Oyster Bay,685,H,11,0
+Oyster Bay,686,H,11,0
+Oyster Bay,687,H,11,0
+Oyster Bay,688,H,11,0
+Oyster Bay,689,H,11,0
+Oyster Bay,690,H,11,0
+Oyster Bay,691,H,11,0
+Oyster Bay,692,H,11,0
+Oyster Bay,693,H,11,0
+Oyster Bay,694,H,11,0
+Oyster Bay,695,H,11,0
+Oyster Bay,696,H,11,0
+Oyster Bay,697,H,11,0
+Oyster Bay,698,H,11,0
+Oyster Bay,699,H,11,0
+Oyster Bay,700,H,11,0
+Oyster Bay,701,H,11,0
+Oyster Bay,702,H,11,0
+Oyster Bay,703,H,11,0
+Oyster Bay,704,H,11,0
+Oyster Bay,705,H,11,0
+Oyster Bay,706,H,11,0
+Oyster Bay,707,H,11,0
+Oyster Bay,708,H,11,0
+Oyster Bay,709,H,11,0
+Oyster Bay,710,H,11,0
+Oyster Bay,711,H,11,0
+Oyster Bay,712,H,11,0
+Oyster Bay,713,H,11,0
+Oyster Bay,714,H,11,0
+Oyster Bay,715,H,11,0
+Oyster Bay,716,H,11,0
+Oyster Bay,717,H,11,0
+Oyster Bay,718,H,11,0
+Oyster Bay,719,H,11,0
+Oyster Bay,720,H,11,0
+Oyster Bay,721,H,11,0
+Oyster Bay,722,H,11,0
+Oyster Bay,723,H,11,0
+Oyster Bay,724,H,11,0
+Oyster Bay,725,H,11,0
+Oyster Bay,726,H,11,0
+Oyster Bay,727,H,11,0
+Oyster Bay,728,H,11,0
+Oyster Bay,729,H,11,0
+Oyster Bay,730,H,11,0
+Oyster Bay,731,H,11,0
+Oyster Bay,732,H,11,0
+Oyster Bay,733,H,11,0
+Oyster Bay,734,H,11,0
+Oyster Bay,735,H,11,0
+Oyster Bay,736,H,11,0
+Oyster Bay,737,H,11,0
+Oyster Bay,738,H,11,0
+Oyster Bay,739,H,11,0
+Oyster Bay,740,H,11,0
+Oyster Bay,741,H,11,0
+Oyster Bay,742,H,11,0
+Oyster Bay,743,H,11,0
+Oyster Bay,744,H,11,0
+Oyster Bay,745,H,11,0
+Oyster Bay,746,H,11,0
+Oyster Bay,747,H,11,0
+Oyster Bay,748,H,11,0
+Oyster Bay,749,H,11,0
+Oyster Bay,750,H,11,0
+Oyster Bay,751,H,11,0
+Oyster Bay,752,H,11,0
+Oyster Bay,753,H,11,0
+Oyster Bay,754,H,11,0
+Oyster Bay,755,H,11,0
+Oyster Bay,756,H,11,0
+Oyster Bay,757,H,11,0
+Oyster Bay,758,H,11,0
+Oyster Bay,759,H,11,0
+Oyster Bay,760,H,11,0
+Oyster Bay,761,H,11,0
+Oyster Bay,762,H,11,0
+Oyster Bay,763,H,11,0
+Oyster Bay,764,H,11,0
+Oyster Bay,765,H,11,0
+Oyster Bay,766,H,11,0
+Oyster Bay,767,H,11,0
+Oyster Bay,768,H,11,0
+Oyster Bay,769,H,11,0
+Oyster Bay,770,H,11,0
+Oyster Bay,771,H,11,0
+Oyster Bay,772,H,11,0
+Oyster Bay,773,H,11,0
+Oyster Bay,774,H,11,0
+Oyster Bay,775,H,11,0
+Oyster Bay,776,H,11,0
+Oyster Bay,777,H,11,0
+Oyster Bay,778,H,11,0
+Oyster Bay,779,H,11,0
+Oyster Bay,780,H,11,0
+Oyster Bay,781,H,11,0
+Oyster Bay,782,H,11,0
+Oyster Bay,783,H,11,0
+Oyster Bay,784,H,11,0
+Oyster Bay,785,H,11,0
+Oyster Bay,786,H,11,0
+Oyster Bay,787,H,11,0
+Oyster Bay,788,H,11,0
+Oyster Bay,789,H,11,0
+Oyster Bay,790,H,11,0
+Oyster Bay,791,H,11,0
+Oyster Bay,792,H,11,0
+Oyster Bay,793,H,11,0
+Oyster Bay,794,H,11,0
+Oyster Bay,795,H,11,0
+Oyster Bay,796,H,11,0
+Oyster Bay,797,H,11,0
+Oyster Bay,798,H,11,0
+Oyster Bay,799,H,11,0
+Oyster Bay,800,H,11,0
+Oyster Bay,801,H,11,0
+Oyster Bay,802,H,11,0
+Oyster Bay,803,H,11,0
+Oyster Bay,804,H,11,0
+Oyster Bay,805,H,11,0
+Oyster Bay,806,H,11,0
+Oyster Bay,807,H,11,0
+Oyster Bay,808,H,11,0
+Oyster Bay,809,H,11,0
+Oyster Bay,810,H,11,0
+Oyster Bay,811,H,11,0
+Oyster Bay,812,H,11,0
+Oyster Bay,813,H,11,0
+Oyster Bay,814,H,11,0
+Oyster Bay,815,H,11,0
+Oyster Bay,816,H,11,0
+Oyster Bay,817,H,11,0
+Oyster Bay,818,H,11,0
+Oyster Bay,819,H,11,0
+Oyster Bay,820,H,11,0
+Oyster Bay,821,H,11,0
+Oyster Bay,822,H,11,0
+Oyster Bay,823,H,11,0
+Oyster Bay,824,H,11,0
+Oyster Bay,825,H,11,0
+Oyster Bay,826,H,11,0
+Oyster Bay,827,H,11,0
+Oyster Bay,828,H,11,0
+Oyster Bay,829,H,11,0
+Oyster Bay,830,H,11,0
+Oyster Bay,831,H,11,0
+Oyster Bay,832,H,11,0
+Oyster Bay,833,H,11,0
+Oyster Bay,834,H,11,0
+Oyster Bay,835,H,11,0
+Oyster Bay,836,H,11,0
+Oyster Bay,837,H,11,0
+Oyster Bay,838,H,11,0
+Oyster Bay,839,H,11,0
+Oyster Bay,840,H,11,0
+Oyster Bay,841,H,11,0
+Oyster Bay,842,H,11,0
+Oyster Bay,843,H,11,0
+Oyster Bay,844,H,11,0
+Oyster Bay,845,H,11,0
+Oyster Bay,846,H,11,0
+Oyster Bay,847,H,11,0
+Oyster Bay,848,H,11,0
+Oyster Bay,849,H,11,0
+Oyster Bay,850,H,11,0
+Oyster Bay,851,H,11,0
+Oyster Bay,852,H,11,0
+Oyster Bay,853,H,11,0
+Oyster Bay,854,H,11,0
+Oyster Bay,855,H,11,0
+Oyster Bay,856,H,11,0
+Oyster Bay,857,H,11,0
+Oyster Bay,858,H,11,0
+Oyster Bay,859,H,11,0
+Oyster Bay,860,H,11,0
+Oyster Bay,861,H,11,0
+Oyster Bay,862,H,11,0
+Oyster Bay,863,H,11,0
+Oyster Bay,864,H,11,0
+Oyster Bay,865,H,11,0
+Oyster Bay,866,H,11,0
+Oyster Bay,867,H,11,0
+Oyster Bay,868,H,11,0
+Oyster Bay,869,H,11,0
+Oyster Bay,870,H,11,0
+Oyster Bay,871,H,11,0
+Oyster Bay,872,H,11,0
+Oyster Bay,873,H,11,0
+Oyster Bay,874,H,11,0
+Oyster Bay,875,H,11,0
+Oyster Bay,876,H,11,0
+Oyster Bay,877,H,11,0
+Oyster Bay,878,H,11,0
+Oyster Bay,879,H,11,0
+Oyster Bay,880,H,11,0
+Oyster Bay,881,H,11,0
+Oyster Bay,882,H,11,0
+Oyster Bay,883,H,11,0
+Oyster Bay,884,H,11,0
+Oyster Bay,885,H,11,0
+Oyster Bay,886,H,11,0
+Oyster Bay,887,H,11,0
+Oyster Bay,888,H,11,0
+Oyster Bay,889,H,11,0
+Oyster Bay,890,H,11,0
+Oyster Bay,891,H,11,0
+Oyster Bay,892,H,11,0
+Oyster Bay,893,H,11,0
+Oyster Bay,894,H,11,0
+Oyster Bay,895,H,11,0
+Oyster Bay,896,H,11,0
+Oyster Bay,897,H,11,0
+Oyster Bay,898,H,11,0
+Oyster Bay,899,H,11,0
+Oyster Bay,900,H,11,0
+Oyster Bay,901,H,11,0
+Oyster Bay,902,H,11,0
+Oyster Bay,903,H,11,0
+Oyster Bay,904,H,11,0
+Oyster Bay,905,H,11,0
+Oyster Bay,906,H,11,0
+Oyster Bay,907,H,11,0
+Oyster Bay,908,H,11,0
+Oyster Bay,909,H,11,0
+Oyster Bay,910,H,11,0
+Oyster Bay,911,H,11,0
+Oyster Bay,912,H,11,0
+Oyster Bay,913,H,11,0
+Oyster Bay,914,H,11,0
+Oyster Bay,915,H,11,0
+Oyster Bay,916,H,11,0
+Oyster Bay,917,H,11,0
+Oyster Bay,918,H,11,0
+Oyster Bay,919,H,11,0
+Oyster Bay,920,H,11,0
+Oyster Bay,921,H,11,0
+Oyster Bay,922,H,11,0
+Oyster Bay,923,H,11,0
+Oyster Bay,924,H,11,0
+Oyster Bay,925,H,11,0
+Oyster Bay,926,H,11,0
+Oyster Bay,927,H,11,0
+Oyster Bay,928,H,11,0
+Oyster Bay,929,H,11,0
+Oyster Bay,930,H,11,0
+Oyster Bay,931,H,11,0
+Oyster Bay,932,H,11,0
+Oyster Bay,933,H,11,0
+Oyster Bay,934,H,11,0
+Oyster Bay,935,H,11,0
+Oyster Bay,936,H,11,0
+Oyster Bay,937,H,11,0
+Oyster Bay,938,H,11,0
+Oyster Bay,939,H,11,0
+Oyster Bay,940,H,11,0
+Oyster Bay,941,H,11,0
+Oyster Bay,942,H,11,0
+Oyster Bay,943,H,11,0
+Oyster Bay,944,H,11,0
+Oyster Bay,945,H,11,0
+Oyster Bay,946,H,11,0
+Oyster Bay,947,H,11,0
+Oyster Bay,948,H,11,0
+Oyster Bay,949,H,11,0
+Oyster Bay,950,H,11,0
+Oyster Bay,951,H,11,0
+Oyster Bay,952,H,11,0
+Oyster Bay,953,H,11,0
+Oyster Bay,954,H,11,0
+Oyster Bay,955,H,11,0
+Oyster Bay,956,H,11,0
+Oyster Bay,957,H,11,0
+Oyster Bay,958,H,11,0
+Oyster Bay,959,H,11,0
+Oyster Bay,960,H,11,0
+Oyster Bay,961,S,4,1
+Oyster Bay,962,S,4,1
+Oyster Bay,963,S,4,1
+Oyster Bay,964,S,4,1
+Oyster Bay,965,S,4,1
+Oyster Bay,966,S,4,1
+Oyster Bay,967,S,4,1
+Oyster Bay,968,S,4,1
+Oyster Bay,969,S,4,1
+Oyster Bay,970,S,4,1
+Oyster Bay,971,S,4,1
+Oyster Bay,972,S,4,1
+Oyster Bay,973,S,4,1
+Oyster Bay,974,S,4,1
+Oyster Bay,975,S,4,1
+Oyster Bay,976,S,4,1
+Oyster Bay,977,S,4,1
+Oyster Bay,978,S,4,1
+Oyster Bay,979,S,4,1
+Oyster Bay,980,S,4,1
+Oyster Bay,981,S,4,1
+Oyster Bay,982,S,4,1
+Oyster Bay,983,S,4,1
+Oyster Bay,984,S,4,1
+Oyster Bay,985,S,4,1
+Oyster Bay,986,S,4,1
+Oyster Bay,987,S,4,1
+Oyster Bay,988,S,4,1
+Oyster Bay,989,S,4,1
+Oyster Bay,990,S,4,1
+Oyster Bay,991,S,4,1
+Oyster Bay,992,S,4,1
+Oyster Bay,993,S,4,1
+Oyster Bay,994,S,4,1
+Oyster Bay,995,S,4,1
+Oyster Bay,996,S,4,1
+Oyster Bay,997,S,4,1
+Oyster Bay,998,S,4,1
+Oyster Bay,999,S,4,1
+Oyster Bay,1000,S,4,1
+Oyster Bay,1001,S,4,1
+Oyster Bay,1002,S,4,1
+Oyster Bay,1003,S,4,1
+Oyster Bay,1004,S,4,1
+Oyster Bay,1005,S,4,1
+Oyster Bay,1006,S,4,1
+Oyster Bay,1007,S,4,1
+Oyster Bay,1008,S,4,1
+Oyster Bay,1009,S,4,1
+Oyster Bay,1010,S,4,1
+Oyster Bay,1011,S,4,1
+Oyster Bay,1012,S,4,1
+Oyster Bay,1013,S,4,0
+Oyster Bay,1014,S,4,0
+Oyster Bay,1015,S,4,0
+Oyster Bay,1016,S,4,0
+Oyster Bay,1017,S,4,0
+Oyster Bay,1018,S,4,0
+Oyster Bay,1019,S,4,0
+Oyster Bay,1020,S,4,0
+Oyster Bay,1021,S,4,0
+Oyster Bay,1022,S,4,0
+Oyster Bay,1023,S,4,0
+Oyster Bay,1024,S,4,0
+Oyster Bay,1025,S,4,0
+Oyster Bay,1026,S,4,0
+Oyster Bay,1027,S,4,0
+Oyster Bay,1028,S,4,0
+Oyster Bay,1029,S,4,0
+Oyster Bay,1030,S,4,0
+Oyster Bay,1031,S,4,0
+Oyster Bay,1032,S,4,0
+Oyster Bay,1033,S,4,0
+Oyster Bay,1034,S,4,0
+Oyster Bay,1035,S,4,0
+Oyster Bay,1036,S,4,0
+Oyster Bay,1037,S,4,0
+Oyster Bay,1038,S,4,0
+Oyster Bay,1039,S,4,0
+Oyster Bay,1040,S,4,0
+Oyster Bay,1041,S,4,0
+Oyster Bay,1042,S,4,0
+Oyster Bay,1043,S,4,0
+Oyster Bay,1044,S,4,0
+Oyster Bay,1045,S,4,0
+Oyster Bay,1046,S,6,1
+Oyster Bay,1047,S,6,1
+Oyster Bay,1048,S,6,1
+Oyster Bay,1049,S,6,1
+Oyster Bay,1050,S,6,1
+Oyster Bay,1051,S,6,1
+Oyster Bay,1052,S,6,1
+Oyster Bay,1053,S,6,1
+Oyster Bay,1054,S,6,1
+Oyster Bay,1055,S,6,1
+Oyster Bay,1056,S,6,1
+Oyster Bay,1057,S,6,1
+Oyster Bay,1058,S,6,1
+Oyster Bay,1059,S,6,1
+Oyster Bay,1060,S,6,1
+Oyster Bay,1061,S,6,1
+Oyster Bay,1062,S,6,1
+Oyster Bay,1063,S,6,1
+Oyster Bay,1064,S,6,1
+Oyster Bay,1065,S,6,1
+Oyster Bay,1066,S,6,1
+Oyster Bay,1067,S,6,1
+Oyster Bay,1068,S,6,1
+Oyster Bay,1069,S,6,1
+Oyster Bay,1070,S,6,1
+Oyster Bay,1071,S,9,1
+Oyster Bay,1072,S,9,1
+Oyster Bay,1073,S,9,1
+Oyster Bay,1074,S,9,1
+Oyster Bay,1075,S,9,1
+Oyster Bay,1076,S,9,1
+Oyster Bay,1077,S,9,1
+Oyster Bay,1078,S,9,1
+Oyster Bay,1079,S,9,1
+Oyster Bay,1080,S,9,1
+Oyster Bay,1081,S,9,1
+Oyster Bay,1082,S,9,1
+Oyster Bay,1083,S,9,1
+Oyster Bay,1084,S,9,1
+Oyster Bay,1085,S,9,1
+Oyster Bay,1086,S,9,1
+Oyster Bay,1087,S,9,1
+Oyster Bay,1088,S,9,1
+Oyster Bay,1089,S,9,1
+Oyster Bay,1090,S,9,1
+Oyster Bay,1091,S,9,1
+Oyster Bay,1092,S,9,1
+Oyster Bay,1093,S,9,1
+Oyster Bay,1094,S,9,1
+Oyster Bay,1095,S,9,1
+Oyster Bay,1096,S,9,1
+Oyster Bay,1097,S,9,1
+Oyster Bay,1098,S,9,1
+Oyster Bay,1099,S,9,1
+Oyster Bay,1100,S,9,1
+Oyster Bay,1101,S,9,1
+Oyster Bay,1102,S,9,1
+Oyster Bay,1103,S,9,1
+Oyster Bay,1104,S,9,1
+Oyster Bay,1105,S,9,1
+Oyster Bay,1106,S,9,1
+Oyster Bay,1107,S,9,1
+Oyster Bay,1108,S,9,1
+Oyster Bay,1109,S,9,1
+Oyster Bay,1110,S,9,1
+Oyster Bay,1111,S,9,1
+Oyster Bay,1112,S,9,1
+Oyster Bay,1113,S,9,1
+Oyster Bay,1114,S,9,1
+Oyster Bay,1115,S,9,1
+Oyster Bay,1116,S,9,1
+Oyster Bay,1117,S,9,1
+Oyster Bay,1118,S,9,1
+Oyster Bay,1119,S,9,1
+Oyster Bay,1120,S,9,1
+Oyster Bay,1121,S,9,1
+Oyster Bay,1122,S,9,1
+Oyster Bay,1123,S,9,1
+Oyster Bay,1124,S,9,1
+Oyster Bay,1125,S,9,1
+Oyster Bay,1126,S,9,1
+Oyster Bay,1127,S,9,1
+Oyster Bay,1128,S,9,1
+Oyster Bay,1129,S,9,1
+Oyster Bay,1130,S,9,1
+Oyster Bay,1131,S,9,1
+Oyster Bay,1132,S,9,1
+Oyster Bay,1133,S,9,1
+Oyster Bay,1134,S,9,1
+Oyster Bay,1135,S,9,1
+Oyster Bay,1136,S,9,1
+Oyster Bay,1137,S,9,1
+Oyster Bay,1138,S,9,1
+Oyster Bay,1139,S,9,1
+Oyster Bay,1140,S,10,1
+Oyster Bay,1141,S,10,1
+Oyster Bay,1142,S,10,1
+Oyster Bay,1143,S,10,1
+Oyster Bay,1144,S,10,1
+Oyster Bay,1145,S,10,1
+Oyster Bay,1146,S,10,1
+Oyster Bay,1147,S,10,1
+Oyster Bay,1148,S,10,1
+Oyster Bay,1149,S,10,1
+Oyster Bay,1150,S,10,1
+Oyster Bay,1151,S,10,1
+Oyster Bay,1152,S,10,1
+Oyster Bay,1153,S,10,1
+Oyster Bay,1154,S,10,1
+Oyster Bay,1155,S,10,1
+Oyster Bay,1156,S,10,1
+Oyster Bay,1157,S,10,1
+Oyster Bay,1158,S,10,1
+Oyster Bay,1159,S,10,1
+Oyster Bay,1160,S,10,1
+Oyster Bay,1161,S,10,1
+Oyster Bay,1162,S,10,1
+Oyster Bay,1163,S,10,1
+Oyster Bay,1164,S,10,1
+Oyster Bay,1165,S,10,1
+Oyster Bay,1166,S,10,1
+Oyster Bay,1167,S,10,1
+Oyster Bay,1168,S,10,1
+Oyster Bay,1169,S,10,1
+Oyster Bay,1170,S,10,1
+Oyster Bay,1171,S,10,1
+Oyster Bay,1172,S,10,1
+Oyster Bay,1173,S,10,1
+Oyster Bay,1174,S,10,1
+Oyster Bay,1175,S,10,1
+Oyster Bay,1176,S,10,1
+Oyster Bay,1177,S,10,1
+Oyster Bay,1178,S,10,1
+Oyster Bay,1179,S,10,1
+Oyster Bay,1180,S,10,1
+Oyster Bay,1181,S,10,1
+Oyster Bay,1182,S,10,1
+Oyster Bay,1183,S,10,1
+Oyster Bay,1184,S,10,1
+Oyster Bay,1185,S,10,1
+Oyster Bay,1186,S,10,1
+Oyster Bay,1187,S,10,1
+Oyster Bay,1188,S,10,1
+Oyster Bay,1189,S,10,1
+Oyster Bay,1190,S,10,1
+Oyster Bay,1191,S,10,1
+Oyster Bay,1192,S,10,1
+Oyster Bay,1193,S,10,1
+Oyster Bay,1194,S,10,1
+Oyster Bay,1195,S,10,1
+Oyster Bay,1196,S,10,1
+Oyster Bay,1197,S,10,1
+Oyster Bay,1198,S,10,1
+Oyster Bay,1199,S,10,1
+Oyster Bay,1200,S,10,1
+Oyster Bay,1201,S,10,1
+Oyster Bay,1202,S,10,1
+Oyster Bay,1203,S,10,1
+Oyster Bay,1204,S,10,1
+Oyster Bay,1205,S,10,1
+Oyster Bay,1206,S,10,1
+Oyster Bay,1207,S,10,1
+Oyster Bay,1208,S,10,1
+Oyster Bay,1209,S,10,1
+Oyster Bay,1210,S,10,1
+Oyster Bay,1211,S,10,1
+Oyster Bay,1212,S,10,1
+Oyster Bay,1213,S,10,1
+Oyster Bay,1214,S,10,1
+Oyster Bay,1215,S,10,1
+Oyster Bay,1216,S,10,1
+Oyster Bay,1217,S,10,1
+Oyster Bay,1218,S,10,1
+Oyster Bay,1219,S,10,1
+Oyster Bay,1220,S,10,1
+Oyster Bay,1221,S,10,1
+Oyster Bay,1222,S,10,1
+Oyster Bay,1223,S,10,1
+Oyster Bay,1224,S,10,1
+Oyster Bay,1225,S,10,1
+Oyster Bay,1226,S,10,1
+Oyster Bay,1227,S,10,1
+Oyster Bay,1228,S,10,1
+Oyster Bay,1229,S,10,1
+Oyster Bay,1230,S,10,1
+Oyster Bay,1231,S,10,1
+Oyster Bay,1232,S,10,1
+Oyster Bay,1233,S,10,1
+Oyster Bay,1234,S,10,1
+Oyster Bay,1235,S,10,1
+Oyster Bay,1236,S,10,1
+Oyster Bay,1237,S,10,1
+Oyster Bay,1238,S,10,1
+Oyster Bay,1239,S,10,1
+Oyster Bay,1240,S,10,1
+Oyster Bay,1241,S,10,1
+Oyster Bay,1242,S,10,1
+Oyster Bay,1243,S,10,1
+Oyster Bay,1244,S,10,1
+Oyster Bay,1245,S,10,1
+Oyster Bay,1246,S,10,1
+Oyster Bay,1247,S,10,1
+Oyster Bay,1248,S,10,1
+Oyster Bay,1249,S,10,1
+Oyster Bay,1250,S,11,1
+Oyster Bay,1251,S,11,1
+Oyster Bay,1252,S,11,1
+Oyster Bay,1253,S,11,1
+Oyster Bay,1254,S,11,1
+Oyster Bay,1255,S,11,1
+Oyster Bay,1256,S,11,1
+Oyster Bay,1257,S,11,1
+Oyster Bay,1258,S,11,1
+Oyster Bay,1259,S,11,1
+Oyster Bay,1260,S,11,1
+Oyster Bay,1261,S,11,1
+Oyster Bay,1262,S,11,1
+Oyster Bay,1263,S,11,1
+Oyster Bay,1264,S,11,1
+Oyster Bay,1265,S,11,1
+Oyster Bay,1266,S,11,1
+Oyster Bay,1267,S,11,1
+Oyster Bay,1268,S,11,1
+Oyster Bay,1269,S,11,1
+Oyster Bay,1270,S,11,1
+Oyster Bay,1271,S,11,1
+Oyster Bay,1272,S,11,1
+Oyster Bay,1273,S,11,1
+Oyster Bay,1274,S,11,1
+Oyster Bay,1275,S,11,1
+Oyster Bay,1276,S,11,1
+Oyster Bay,1277,S,11,0
+Oyster Bay,1278,S,11,0
+Oyster Bay,1279,S,11,0
+Oyster Bay,1280,S,11,0
+Oyster Bay,1281,S,11,0
+Oyster Bay,1282,S,11,0
+Oyster Bay,1283,S,11,0
+Oyster Bay,1284,S,11,0
+Oyster Bay,1285,S,11,0
+Oyster Bay,1286,S,11,0
+Oyster Bay,1287,S,11,0
+Oyster Bay,1288,S,11,0
+Oyster Bay,1289,S,11,0
+Oyster Bay,1290,S,11,0
+Oyster Bay,1291,S,11,0
+Oyster Bay,1292,S,11,0
+Oyster Bay,1293,S,11,0
+Oyster Bay,1294,S,11,0
+Oyster Bay,1295,S,11,0
+Oyster Bay,1296,S,11,0
+Oyster Bay,1297,S,11,0
+Oyster Bay,1298,S,11,0
+Oyster Bay,1299,S,11,0
+Oyster Bay,1300,S,11,0
+Oyster Bay,1301,S,11,0
+Oyster Bay,1302,S,11,0
+Oyster Bay,1303,S,11,0
+Oyster Bay,1304,S,11,0
+Oyster Bay,1305,S,11,0
+Oyster Bay,1306,S,11,0
+Oyster Bay,1307,S,11,0
+Oyster Bay,1308,S,11,0
+Oyster Bay,1309,S,11,0
+Oyster Bay,1310,S,11,0
+Oyster Bay,1311,S,11,0
+Oyster Bay,1312,S,11,0
+Oyster Bay,1313,S,11,0
+Oyster Bay,1314,S,11,0
+Oyster Bay,1315,S,11,0
+Oyster Bay,1316,S,11,0
+Oyster Bay,1317,S,11,0
+Oyster Bay,1318,S,11,0
+Oyster Bay,1319,S,11,0
+Oyster Bay,1320,S,11,0
+Oyster Bay,1321,S,11,0
+Oyster Bay,1322,S,11,0
+Oyster Bay,1323,S,11,0
+Oyster Bay,1324,S,11,0
+Oyster Bay,1325,S,11,0
+Oyster Bay,1326,S,11,0
+Oyster Bay,1327,S,11,0
+Oyster Bay,1328,S,11,0
+Oyster Bay,1329,S,11,0
+Oyster Bay,1330,S,11,0
+Oyster Bay,1331,S,11,0
+Oyster Bay,1332,S,11,0
+Oyster Bay,1333,S,11,0
+Oyster Bay,1334,S,11,0
+Oyster Bay,1335,S,11,0
+Oyster Bay,1336,S,11,0
+Oyster Bay,1337,S,11,0
+Oyster Bay,1338,S,11,0
+Oyster Bay,1339,S,11,0
+Oyster Bay,1340,S,11,0
+Oyster Bay,1341,S,11,0
+Oyster Bay,1342,S,11,0
+Oyster Bay,1343,S,11,0
+Oyster Bay,1344,S,11,0
+Oyster Bay,1345,S,11,0
+Oyster Bay,1346,S,11,0
+Oyster Bay,1347,S,11,0
+Oyster Bay,1348,S,11,0
+Oyster Bay,1349,S,11,0
+Oyster Bay,1350,S,11,0
+Oyster Bay,1351,S,11,0
+Oyster Bay,1352,S,11,0
+Oyster Bay,1353,S,11,0
+Oyster Bay,1354,S,11,0
+Oyster Bay,1355,S,11,0
+Oyster Bay,1356,S,11,0
+Oyster Bay,1357,S,11,0
+Oyster Bay,1358,S,11,0
+Oyster Bay,1359,S,11,0
+Oyster Bay,1360,S,11,0
+Oyster Bay,1361,S,11,0
+Oyster Bay,1362,S,11,0
+Oyster Bay,1363,S,11,0
+Oyster Bay,1364,S,11,0
+Oyster Bay,1365,S,11,0
+Oyster Bay,1366,S,11,0
+Oyster Bay,1367,S,11,0
+Oyster Bay,1368,S,11,0
+Oyster Bay,1369,S,11,0
+Oyster Bay,1370,S,11,0
+Oyster Bay,1371,S,11,0
+Oyster Bay,1372,S,11,0
+Oyster Bay,1373,S,11,0
+Oyster Bay,1374,S,11,0
+Oyster Bay,1375,S,11,0
+Oyster Bay,1376,S,11,0
+Oyster Bay,1377,S,11,0
+Oyster Bay,1378,S,11,0
+Oyster Bay,1379,S,11,0
+Oyster Bay,1380,S,11,0
+Oyster Bay,1381,S,11,0
+Oyster Bay,1382,S,11,0
+Oyster Bay,1383,S,11,0
+Oyster Bay,1384,S,11,0
+Oyster Bay,1385,S,11,0
+Oyster Bay,1386,S,11,0
+Oyster Bay,1387,S,11,0
+Oyster Bay,1388,S,11,0
+Oyster Bay,1389,S,11,0
+Oyster Bay,1390,S,11,0
+Oyster Bay,1391,S,11,0
+Oyster Bay,1392,S,11,0
+Oyster Bay,1393,S,11,0
+Oyster Bay,1394,S,11,0
+Oyster Bay,1395,S,11,0
+Oyster Bay,1396,S,11,0
+Oyster Bay,1397,S,11,0
+Oyster Bay,1398,S,11,0
+Oyster Bay,1399,S,11,0
+Oyster Bay,1400,S,11,0
+Oyster Bay,1401,S,11,0
+Oyster Bay,1402,S,11,0
+Oyster Bay,1403,S,11,0
+Oyster Bay,1404,S,11,0
+Oyster Bay,1405,S,11,0
+Oyster Bay,1406,S,11,0
+Oyster Bay,1407,S,11,0
+Oyster Bay,1408,S,11,0
+Oyster Bay,1409,S,11,0
+Oyster Bay,1410,S,11,0
+Oyster Bay,1411,S,11,0
+Oyster Bay,1412,S,11,0
+Oyster Bay,1413,S,11,0
+Oyster Bay,1414,S,11,0
+Oyster Bay,1415,S,11,0
+Oyster Bay,1416,S,11,0
+Oyster Bay,1417,S,11,0
+Oyster Bay,1418,S,11,0
+Oyster Bay,1419,S,11,0
+Oyster Bay,1420,S,11,0
+Oyster Bay,1421,S,11,0
+Oyster Bay,1422,S,11,0
+Oyster Bay,1423,S,11,0
+Oyster Bay,1424,S,11,0
+Oyster Bay,1425,S,11,0
+Oyster Bay,1426,S,11,0
+Oyster Bay,1427,S,11,0
+Oyster Bay,1428,S,11,0
+Oyster Bay,1429,S,11,0
+Oyster Bay,1430,S,11,0
+Oyster Bay,1431,S,11,0
+Oyster Bay,1432,S,11,0
+Oyster Bay,1433,S,11,0
+Oyster Bay,1434,S,11,0
+Oyster Bay,1435,S,11,0
+Oyster Bay,1436,S,11,0
+Oyster Bay,1437,S,11,0
+Oyster Bay,1438,S,11,0
+Oyster Bay,1439,S,11,0
+Oyster Bay,1440,S,11,0

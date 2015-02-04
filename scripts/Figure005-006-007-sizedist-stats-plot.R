@@ -120,6 +120,16 @@ endy1<-ddply(y1size,.(Length.mm,Site,Pop,Tray,Sample,Area,Pop2),subset,Date>="20
 normality<-ddply(endy1,.(Date,Site,Pop),summarize,n=length(Length.mm),sw=shapiro.test(as.numeric(Length.mm))[2])
 #Still Not normal, must use nonparametric test. 
 
+#Attempting a GLM fit to normalize the data.
+glmsize<-glm(endy1$Length.mm~endy1$Site+endy1$Pop2, family=poisson())
+anova(glmsize)
+summary(glmsize)
+
+#Using an ANOVA and TUKEY on the data
+aovsize<-aov(endy1$Length.mm~endy1$Site+endy1$Pop2+endy1$Site:endy1$Pop2,endy1)
+print(aovsize)
+tukeysize<-TukeyHSD(aovsize)
+print(tukeysize)
 
 #using size data from the final sampling for Kruskal Wallis test to compare size versus site
 sizekw<-kruskal.test(endy1$Length.mm~endy1$Site,endy1)
@@ -143,4 +153,13 @@ sizenemenyi2
 sizenemenyi3<-posthoc.kruskal.nemenyi.test(x=endy1$Length.mm,g=endy1$Site:endy1$Pop2, method="Tukey")
 sizenemenyi3
 
+#Brooder Size Data
+broodersizes<-read.csv('./data/Broodersizes.csv')
+#Let R know what format dates are in
+broodersizes$Date<-as.Date(broodersizes$Date,"%m/%d/%Y")
 
+#Run ANOVA on size
+brdszaov<-aov(broodersizes$Size~broodersizes$Site+broodersizes$Population+broodersizes$Site:broodersizes$Population,broodersizes)
+print(brdszaov)
+tkbrdsz<-TukeyHSD(brdszaov)
+print(tkbrdsz)
