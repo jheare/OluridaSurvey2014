@@ -128,6 +128,7 @@ summary(glmsize)
 #Using an ANOVA and TUKEY on the data
 aovsize<-aov(endy1$Length.mm~endy1$Site+endy1$Pop2+endy1$Site:endy1$Pop2,endy1)
 print(aovsize)
+summary(aovsize)
 tukeysize<-TukeyHSD(aovsize)
 print(tukeysize)
 
