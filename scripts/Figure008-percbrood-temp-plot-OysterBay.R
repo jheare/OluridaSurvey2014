@@ -94,11 +94,13 @@ g <- gtable_add_grob(g, ax, pp$t, length(g$widths) - 1, pp$b)
 #generates the final graph
 grid.draw(g)
 
-#General statistics on brooding
+#General statistics on brooding using ANOVA
 brood$arcperc<-asin(brood$Percent/100)
 BroodANOVA<-aov(brood$arcperc~brood$Site+brood$Pop+brood$Site:brood$Pop,brood)
 print(BroodANOVA)
 summary(BroodANOVA)
+
+#Tukey Post Hoc test for Brooding
 broodTukey<-TukeyHSD(BroodANOVA)
 print(broodTukey)
-summary<-ddply(broodersizes,.(Site,Population),summarize,max_size=max(Size))
+

@@ -120,18 +120,6 @@ endy1<-ddply(y1size,.(Length.mm,Site,Pop,Tray,Sample,Area,Pop2),subset,Date>="20
 normality<-ddply(endy1,.(Date,Site,Pop),summarize,n=length(Length.mm),sw=shapiro.test(as.numeric(Length.mm))[2])
 #Still Not normal, must use nonparametric test. 
 
-#Attempting a GLM fit to normalize the data.
-glmsize<-glm(endy1$Length.mm~endy1$Site+endy1$Pop2, family=poisson())
-anova(glmsize)
-summary(glmsize)
-
-#Using an ANOVA and TUKEY on the data
-aovsize<-aov(endy1$Length.mm~endy1$Site+endy1$Pop2+endy1$Site:endy1$Pop2,endy1)
-print(aovsize)
-summary(aovsize)
-tukeysize<-TukeyHSD(aovsize)
-print(tukeysize)
-
 #using size data from the final sampling for Kruskal Wallis test to compare size versus site
 sizekw<-kruskal.test(endy1$Length.mm~endy1$Site,endy1)
 print(sizekw)
@@ -159,8 +147,29 @@ broodersizes<-read.csv('./data/Broodersizes.csv')
 #Let R know what format dates are in
 broodersizes$Date<-as.Date(broodersizes$Date,"%m/%d/%Y")
 
-#Run ANOVA on size
+#Run ANOVA on Brooding female size
 brdszaov<-aov(broodersizes$Size~broodersizes$Site+broodersizes$Population+broodersizes$Site:broodersizes$Population,broodersizes)
 print(brdszaov)
+summary(brdszaov)
+#Run TukeyHSD post hoc on Brooding Female Sizes
 tkbrdsz<-TukeyHSD(brdszaov)
 print(tkbrdsz)
+
+#Dotplot for Brooding Female Sizes
+ggplot(broodersizes, aes(x=Site, fill=Population, y=Size))+
+  geom_dotplot(binwidth=0.5,binaxis='y',stackdir="center", position=position_dodge(width=0.5))+
+  scale_fill_manual(values=c("blue","purple","orange"), labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  theme_bw()+
+  labs(x="Site",y="Length (mm)")+
+  scale_x_discrete(labels=c("Fidalgo Bay","Clam Bay","Oyster Bay"))+
+  theme(axis.text.x=element_text(size=20),
+        axis.title.x=element_text(size=25, vjust=0.1),
+        axis.title.y=element_text(size=25, vjust=2),
+        axis.text.y=element_text(size=20),
+        legend.justification=c(0,1),
+        legend.position=c(0,1), 
+        legend.title=element_text(size=15),
+        legend.text=element_text(size=15))
+
+ 
+ 
