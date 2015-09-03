@@ -6,7 +6,7 @@ This repository includes raw data and R scripts used to generate figures for Hea
 Heare JE, Blake B, Davis JP, Vadopalas B, Roberts SB. (2015) Evidence of Ostrea lurida (Carpenter 1894) population structure in Puget Sound, WA. PeerJ PrePrints 2:e704v1 http://dx.doi.org/10.7287/peerj.preprints.704v1
 ```
 
-Specific release that is supplemental to the manuscript - [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.30372.svg)](http://dx.doi.org/10.5281/zenodo.13201)
+Specific release that is supplemental to the manuscript - [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.30372.svg)](http://dx.doi.org/10.5281/zenodo.30372)
 
 ---
 
