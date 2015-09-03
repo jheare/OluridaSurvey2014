@@ -58,7 +58,10 @@ ggplot()+
   geom_line(data=fidmeantemp, aes(x=Date, y=mean_temp, group=1),col="purple",size=1)+
   geom_line(data=oysmeantemp, aes(x=Date, y=mean_temp, group=1),col="orange",size=1)+
   labs(x="Date",y="Average Daily Temperature (C)")+
-  theme_bw()
+  theme_bw()+theme(panel.border = element_blank(),
+                  panel.grid.major = element_blank(), 
+                  panel.grid.minor = element_blank(),
+                  axis.line = element_line(colour = "black"))
 #Creates a graph with each line representing average daily temps for each site
 
 
@@ -79,7 +82,11 @@ ggplot()+
         axis.text.x=element_text(size=20),
         axis.title.x=element_text(size=20),
         axis.text.y=element_text(size=20),
-        axis.title.y=element_text(size=20))
+        axis.title.y=element_text(size=20))+
+  theme(panel.border = element_blank(),
+        panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        axis.line = element_line(colour = "black"))
 #Creates a graph with each line representing average daily temps for each site also adds red line to indicate Spawning threshold
 
 
@@ -88,9 +95,9 @@ ggplot()+
   geom_line(data=manmeantemp, aes(x=Date, y=min_temp, group=1, colour="2"),size=1)+
   geom_line(data=fidmeantemp, aes(x=Date, y=min_temp, group=1, colour="3"),size=1)+
   geom_line(data=oysmeantemp, aes(x=Date, y=min_temp, group=1, colour="4"),size=1)+
-  scale_colour_manual(values=c("forestgreen","blue","purple","orange"),
+  scale_colour_manual(values=c("#333333","#cccccc","#999999","#666666"),
                       name="Site",
-                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
+                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay"))+
   labs(x="Date",y="Minimum Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.13,0.18),
@@ -99,7 +106,11 @@ ggplot()+
         axis.text.x=element_text(size=20),
         axis.title.x=element_text(size=20),
         axis.text.y=element_text(size=20),
-        axis.title.y=element_text(size=20))
+        axis.title.y=element_text(size=20))+
+  theme(panel.border = element_blank(),
+        panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        axis.line = element_line(colour = "black"))
 #Creates a graph with each line representing observed minimum daily temps for each site
 
 
@@ -108,9 +119,9 @@ ggplot()+
   geom_line(data=manmeantemp, aes(x=Date, y=max_temp, group=1, colour="2"),size=1)+
   geom_line(data=fidmeantemp, aes(x=Date, y=max_temp, group=1, colour="3"),size=1)+
   geom_line(data=oysmeantemp, aes(x=Date, y=max_temp, group=1, colour="4"),size=1)+
-  scale_colour_manual(values=c("forestgreen","blue","purple","orange"),
+  scale_colour_manual(values=c("#333333","#cccccc","#999999","#666666"),
                       name="Site",
-                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
+                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay"))+
   labs(x="Date",y="Maximum Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.25,0.8),
@@ -119,7 +130,11 @@ ggplot()+
         axis.text.x=element_text(size=20),
         axis.title.x=element_text(size=20),
         axis.text.y=element_text(size=20),
-        axis.title.y=element_text(size=20))
+        axis.title.y=element_text(size=20))+
+  theme(panel.border = element_blank(),
+        panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        axis.line = element_line(colour = "black"))
 #Creates a graph with each line representing observed maximum daily temps for each site
 
 #Dates Min Temp met Spawn Threshold

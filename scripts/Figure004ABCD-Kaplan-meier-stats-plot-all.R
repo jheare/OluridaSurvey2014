@@ -30,8 +30,8 @@ fit1=with(kmdab,survfit(Surv(Death,Status)~Population))
 summary(fit1)
 
 #Plots Kaplan Meier graph
-plot(fit1,xlim=c(0,11), col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
+plot(fit1,xlim=c(0,11), col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
+legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
 
 
 #reads in  Kaplan Meier formatted survival data
@@ -51,8 +51,8 @@ fit2=with(kmman, survfit(Surv(Death,Status)~Population))
 summary(fit2)
 
 #Plots Kaplan Meier graph
-plot(fit2, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
+plot(fit2, col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
+legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
 
 #reads in  Kaplan Meier formatted survival data
 kmfid=read.csv("./data/KMdataFid.csv")
@@ -68,8 +68,8 @@ fit3=with(kmfid, survfit(Surv(Death,Status)~Population))
 summary(fit3)
 
 #Plots Kaplan Meier graph
-plot(fit3, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
+plot(fit3, col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
+legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
 
 #reads in  Kaplan Meier formatted survival data
 kmoys=read.csv("./data/KMdataOys.csv")
@@ -85,8 +85,8 @@ fit4=with(kmoys, survfit(Surv(Death,Status)~Population))
 summary(fit4)
 
 #Plots Kaplan Meier graph
-plot(fit4, col=c("#3366CC","#CC66CC","#FF9900"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#3366CC","#CC66CC","#FF9900"))
+plot(fit4, col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
+legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
 
 #Summary of Survival Information
 mansum<-summary(survfit(Surv(Death,Status)~Population,data=kmman))

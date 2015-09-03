@@ -37,8 +37,8 @@ p1<-ggplot(data=manrep, aes(x=Date, weight=Percent, colour=Pop, fill=Pop))+
   geom_bar(binwidth=3, position=position_dodge())+
   ylim(c(0,20))+
   theme(axis.text.x=element_text(angle=90, size=10, vjust=0.5))+
-  scale_colour_manual(values=c("blue","purple","orange"),labels=c("Dabob","Fidalgo","Oyster Bay"))+
-  scale_fill_manual(values=c("blue","purple","orange"),labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_colour_manual(values=c("#cccccc","#999999","#666666"),labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_fill_manual(values=c("#cccccc","#999999","#666666"),labels=c("Dabob","Fidalgo","Oyster Bay"))+
   labs(x="Sample Date", y="Percent Brooding")+
   theme_bw()+
   theme(legend.justification=c(0,1),
@@ -48,7 +48,11 @@ p1<-ggplot(data=manrep, aes(x=Date, weight=Percent, colour=Pop, fill=Pop))+
         axis.title.x=element_text(size=20),
         axis.title.y=element_text(size=20),
         legend.title=element_text(size=20),
-        legend.text=element_text(size=20))
+        legend.text=element_text(size=20))+ 
+  theme(panel.border = element_blank(),
+        panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        axis.line = element_line(colour = "black"))
 
 
 
@@ -66,7 +70,7 @@ manmintemprep<-subset(manmintemp, Date>="2014-04-30"& Date<="2014-08-06")
 
 #creates an object out of our temperature data graph that will be overlaid on the percent brooding graph
 p2<-ggplot()+geom_line(data=manmintemprep,
-                       aes(x=Date, y=min_temp), color="red")+
+                       aes(x=Date, y=min_temp), color="black")+
   ylim(c(8,18))+
   theme_bw() %+replace% 
   theme(panel.background = element_rect(fill = NA),
@@ -74,7 +78,7 @@ p2<-ggplot()+geom_line(data=manmintemprep,
         panel.grid.minor.x=element_blank(),
         panel.grid.major.y=element_blank(),
         panel.grid.minor.y=element_blank(),
-        axis.text.y=element_text(size=20,color="red"),
+        axis.text.y=element_text(size=20,color="black"),
         axis.title.y=element_text(size=20))
 
 
