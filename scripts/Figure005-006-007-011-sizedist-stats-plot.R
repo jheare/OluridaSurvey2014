@@ -62,11 +62,11 @@ endoysy1<-ddply(y1size,.(Length.mm,Pop,Tray,Sample,Area),subset,Date=="2014-09-1
 
 ggplot()+
   geom_boxplot(data=endmany1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("#cccccc","#999999","#666666"),guide=F)+
-  scale_fill_manual(values=c("#cccccc","#999999","#666666"), guide=F)+
+  scale_colour_manual(values=c("blue","purple","orange"),guide=F)+
+  scale_fill_manual(values=c("blue","purple","orange"), guide=F)+
   ylim(c(0,50))+
   labs(x="Population",y="Length (mm)")+
-  scale_x_discrete(labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_x_discrete(labels=c("Dabob Bay","Fidalgo Bay","Oyster Bay"))+
   annotate("text", x=c("4N","4H","4S"),y=50, label=c("A","B","A"),size=10)+
   theme_bw()+
   theme(axis.text.x=element_text(size=20),
@@ -81,11 +81,11 @@ ggplot()+
 
 ggplot()+
   geom_boxplot(data=endfidy1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("#cccccc","#999999","#666666"),guide=F)+
-  scale_fill_manual(values=c("#cccccc","#999999","#666666"),guide=F)+
+  scale_colour_manual(values=c("blue","purple","orange"),guide=F)+
+  scale_fill_manual(values=c("blue","purple","orange"),guide=F)+
   ylim(c(0,50))+
   labs(x="Population",y="Length (mm)")+
-  scale_x_discrete(labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_x_discrete(labels=c("Dabob Bay","Fidalgo Bay","Oyster Bay"))+
   annotate("text", x=c("2N","2H","2S"),y=50, label=c("A","B","A"),size=10)+
   theme_bw()+
   theme(axis.text.x=element_text(size=20),
@@ -99,11 +99,11 @@ ggplot()+
 
 ggplot()+
   geom_boxplot(data=endoysy1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("#cccccc","#999999","#666666"),guide=F)+
-  scale_fill_manual(values=c("#cccccc","#999999","#666666"),guide=F)+
+  scale_colour_manual(values=c("blue","purple","orange"),guide=F)+
+  scale_fill_manual(values=c("blue","purple","orange"),guide=F)+
   ylim(c(0,50))+
   labs(x="Population",y="Length (mm)")+
-  scale_x_discrete(labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_x_discrete(labels=c("Dabob Bay","Fidalgo Bay","Oyster Bay"))+
   annotate("text", x=c("1N","1H","1S"),y=50, label=c("B","A","A"),size=10)+
   theme_bw()+
   theme(axis.text.x=element_text(size=20),
@@ -170,10 +170,10 @@ print(tkbrdsz)
 #Dotplot for Brooding Female Sizes
 ggplot(broodersizes, aes(x=Site, fill=Population, y=Size))+
   geom_dotplot(binwidth=0.5,binaxis='y',stackdir="center", position=position_dodge(width=0.5))+
-  scale_fill_manual(values=c("#cccccc","#999999","#666666"), labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_fill_manual(values=c("blue","purple","orange"), labels=c("Dabob","Fidalgo","Oyster Bay"))+
   theme_bw()+
   labs(x="Site",y="Length (mm)")+
-  scale_x_discrete(labels=c("Fidalgo Bay","Clam Bay","Oyster Bay"))+
+  scale_x_discrete(labels=c("Northern","Central","Southern"))+
   theme(axis.text.x=element_text(size=20),
         axis.title.x=element_text(size=25, vjust=0.1),
         axis.title.y=element_text(size=25, vjust=2),

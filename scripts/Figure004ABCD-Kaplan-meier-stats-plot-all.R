@@ -30,8 +30,8 @@ fit1=with(kmdab,survfit(Surv(Death,Status)~Population))
 summary(fit1)
 
 #Plots Kaplan Meier graph
-plot(fit1,xlim=c(0,11), col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
+plot(fit1,xlim=c(0,11), col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=10)
+legend("bottomleft", title="Population", c("Hood Canal","Northern","Southern"), fill=c("blue","purple","orange"))
 
 
 #reads in  Kaplan Meier formatted survival data
@@ -51,8 +51,8 @@ fit2=with(kmman, survfit(Surv(Death,Status)~Population))
 summary(fit2)
 
 #Plots Kaplan Meier graph
-plot(fit2, col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
+plot(fit2, col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
+
 
 #reads in  Kaplan Meier formatted survival data
 kmfid=read.csv("./data/KMdataFid.csv")
@@ -68,8 +68,8 @@ fit3=with(kmfid, survfit(Surv(Death,Status)~Population))
 summary(fit3)
 
 #Plots Kaplan Meier graph
-plot(fit3, col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
+plot(fit3, col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
+
 
 #reads in  Kaplan Meier formatted survival data
 kmoys=read.csv("./data/KMdataOys.csv")
@@ -85,8 +85,8 @@ fit4=with(kmoys, survfit(Surv(Death,Status)~Population))
 summary(fit4)
 
 #Plots Kaplan Meier graph
-plot(fit4, col=c("#cccccc","#999999","#666666"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=2)
-legend("bottomleft", title="Population", c("Dabob","Fidalgo","Oyster Bay"), fill=c("#cccccc","#999999","#666666"))
+plot(fit4, col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving", lwd=10)
+
 
 #Summary of Survival Information
 mansum<-summary(survfit(Surv(Death,Status)~Population,data=kmman))
@@ -144,3 +144,22 @@ plot(allsurv)
 fitall2=(Surv(Death,Status)~as.factor(Site)+as.factor(Population),data=kmall)
 anova(fitall2)
 TukeyHSD(allfit)
+
+par(mfrow=c(1,1))
+
+plot(fit1,xlim=c(0,11), col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving",cex.axis=2,cex.lab=1.5,lwd=10)
+legend("bottomleft", title="Population", c("Hood Canal","Northern","Southern"), fill=c("blue","purple","orange"))
+text(0.8, 0.8, "C", cex=6)
+text(7, 0.7, "a", cex=2)
+text(7, 0.52, "b", cex=2)
+text(7, 0.33, "c", cex=2)
+plot(fit2, col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving",cex.axis=2,cex.lab=1.5,lwd=10)
+text(0.8, 0.8, "B", cex=6)
+text(11, 1.01, "a", cex=2)
+plot(fit3, col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving",cex.axis=2,cex.lab=1.5,lwd=10)
+text(0.8, 0.8, "D", cex=6)
+plot(fit4, col=c("blue","purple","orange"), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving",cex.axis=2,cex.lab=1.5,lwd=10)
+text(0.8, 0.8, "A", cex=6)
+text(11, 0.8, "a", cex=2)
+text(11, 0.63, "b", cex=2)
+text(11, 0.48, "c", cex=2)

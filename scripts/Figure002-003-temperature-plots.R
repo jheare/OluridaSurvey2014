@@ -73,7 +73,7 @@ ggplot()+
   geom_hline(aes(yintercept=12.5,colour="5"),size=1)+
   scale_colour_manual(values=c("forestgreen","blue","purple","orange","red"),
                       name="Site",
-                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay","Spawn Thresh"))+
+                      labels=c("Hood Canal","Central","Northern","Southern"))+
   labs(x="Date",y="Average Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.13,0.15),
@@ -95,9 +95,9 @@ ggplot()+
   geom_line(data=manmeantemp, aes(x=Date, y=min_temp, group=1, colour="2"),size=1)+
   geom_line(data=fidmeantemp, aes(x=Date, y=min_temp, group=1, colour="3"),size=1)+
   geom_line(data=oysmeantemp, aes(x=Date, y=min_temp, group=1, colour="4"),size=1)+
-  scale_colour_manual(values=c("#333333","#cccccc","#999999","#666666"),
+  scale_colour_manual(values=c("forestgreen","blue","purple","orange"),
                       name="Site",
-                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay"))+
+                      labels=c("Hood Canal","Central","Northern","Southern"))+
   labs(x="Date",y="Minimum Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.13,0.18),
@@ -119,9 +119,9 @@ ggplot()+
   geom_line(data=manmeantemp, aes(x=Date, y=max_temp, group=1, colour="2"),size=1)+
   geom_line(data=fidmeantemp, aes(x=Date, y=max_temp, group=1, colour="3"),size=1)+
   geom_line(data=oysmeantemp, aes(x=Date, y=max_temp, group=1, colour="4"),size=1)+
-  scale_colour_manual(values=c("#333333","#cccccc","#999999","#666666"),
+  scale_colour_manual(values=c("forestgreen","blue","purple","orange"),
                       name="Site",
-                      labels=c("Dabob Bay","Clam Bay","Fidalgo Bay","Oyster Bay"))+
+                      labels=c("Hood Canal","Central","Northern","Southern"))+
   labs(x="Date",y="Maximum Daily Temperature (C)")+
   theme_bw()+
   theme(legend.position=c(0.25,0.8),
