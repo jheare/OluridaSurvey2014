@@ -37,9 +37,9 @@ p1<-ggplot(data=manrep, aes(x=Date, weight=Percent, colour=Pop, fill=Pop))+
   geom_bar(binwidth=3, position=position_dodge())+
   ylim(c(0,20))+
   theme(axis.text.x=element_text(angle=90, size=10, vjust=0.5))+
-  scale_colour_manual(values=c("#cccccc","#999999","#666666"),labels=c("Dabob","Fidalgo","Oyster Bay"))+
-  scale_fill_manual(values=c("#cccccc","#999999","#666666"),labels=c("Dabob","Fidalgo","Oyster Bay"))+
-  labs(x="Sample Date", y="Percent Brooding")+
+  scale_colour_grey(start=0, end=.9,labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_fill_grey(start=0, end=.9,labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  labs(x="Month", y="Brooding Females (Percent)")+
   theme_bw()+
   theme(legend.justification=c(0,1),
         legend.position=c(0,1),

@@ -115,11 +115,12 @@ ggplot()+
 
 
 ggplot()+
-  geom_line(data=dabmeantemp, aes(x=Date, y=max_temp, group=1, colour="1"),size=1)+
-  geom_line(data=manmeantemp, aes(x=Date, y=max_temp, group=1, colour="2"),size=1)+
-  geom_line(data=fidmeantemp, aes(x=Date, y=max_temp, group=1, colour="3"),size=1)+
-  geom_line(data=oysmeantemp, aes(x=Date, y=max_temp, group=1, colour="4"),size=1)+
-  scale_colour_manual(values=c("forestgreen","blue","purple","orange"),
+  geom_line(data=dabmeantemp, aes(x=Date, y=max_temp, group=1, colour="1",linetype=6),size=1)+
+  geom_line(data=manmeantemp, aes(x=Date, y=max_temp, group=1, colour="2",linetype=5),size=1)+
+  geom_line(data=fidmeantemp, aes(x=Date, y=max_temp, group=1, colour="3",linetype=1),size=1)+
+  geom_line(data=oysmeantemp, aes(x=Date, y=max_temp, group=1, colour="4",linetype=5),size=1)+
+  scale_linetype_identity()+
+  scale_colour_grey(start=0, end=.8,
                       name="Site",
                       labels=c("Hood Canal","Central","Northern","Southern"))+
   labs(x="Date",y="Maximum Daily Temperature (C)")+

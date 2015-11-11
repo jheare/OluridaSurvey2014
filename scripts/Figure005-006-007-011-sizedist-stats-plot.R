@@ -62,8 +62,8 @@ endoysy1<-ddply(y1size,.(Length.mm,Pop,Tray,Sample,Area),subset,Date=="2014-09-1
 
 ggplot()+
   geom_boxplot(data=endmany1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("blue","purple","orange"),guide=F)+
-  scale_fill_manual(values=c("blue","purple","orange"), guide=F)+
+  scale_colour_grey(start=0, end=0.9,guide=F)+
+  scale_fill_grey(start=0, end=0.9, guide=F)+
   ylim(c(0,50))+
   labs(x="Population",y="Length (mm)")+
   scale_x_discrete(labels=c("Dabob Bay","Fidalgo Bay","Oyster Bay"))+
@@ -81,8 +81,8 @@ ggplot()+
 
 ggplot()+
   geom_boxplot(data=endfidy1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("blue","purple","orange"),guide=F)+
-  scale_fill_manual(values=c("blue","purple","orange"),guide=F)+
+  scale_colour_grey(start=0, end=0.9,guide=F)+
+  scale_fill_grey(start=0, end=0.9, guide=F)+
   ylim(c(0,50))+
   labs(x="Population",y="Length (mm)")+
   scale_x_discrete(labels=c("Dabob Bay","Fidalgo Bay","Oyster Bay"))+
@@ -99,8 +99,8 @@ ggplot()+
 
 ggplot()+
   geom_boxplot(data=endoysy1,aes(x=Pop,y=Length.mm,fill=Pop))+
-  scale_colour_manual(values=c("blue","purple","orange"),guide=F)+
-  scale_fill_manual(values=c("blue","purple","orange"),guide=F)+
+  scale_colour_grey(start=0, end=0.9,guide=F)+
+  scale_fill_grey(start=0, end=0.9, guide=F)+
   ylim(c(0,50))+
   labs(x="Population",y="Length (mm)")+
   scale_x_discrete(labels=c("Dabob Bay","Fidalgo Bay","Oyster Bay"))+
@@ -170,7 +170,7 @@ print(tkbrdsz)
 #Dotplot for Brooding Female Sizes
 ggplot(broodersizes, aes(x=Site, fill=Population, y=Size))+
   geom_dotplot(binwidth=0.5,binaxis='y',stackdir="center", position=position_dodge(width=0.5))+
-  scale_fill_manual(values=c("blue","purple","orange"), labels=c("Dabob","Fidalgo","Oyster Bay"))+
+  scale_fill_grey(start=0, end=.9, labels=c("Dabob","Fidalgo","Oyster Bay"))+
   theme_bw()+
   labs(x="Site",y="Length (mm)")+
   scale_x_discrete(labels=c("Northern","Central","Southern"))+
