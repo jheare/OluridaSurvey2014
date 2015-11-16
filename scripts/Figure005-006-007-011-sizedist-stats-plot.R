@@ -9,8 +9,9 @@
 #install.packages("splitstackshape")
 #install.packages("nparcomp")
 #install.packages("PMCMR")
+install.packages("afex")
 =============================
-  
+require(afex)
 #loads required packages
 require(ggplot2)
 require(plyr)
@@ -188,4 +189,26 @@ ggplot(broodersizes, aes(x=Site, fill=Population, y=Size))+
         axis.line = element_line(colour = "black"))
 
  
- 
+size1<-lm(endy1$Length.mm~endy1$Pop2+endy1$Site)
+summary(size1)
+
+size2<-mixed(endy1$Length.mm~endy1$Pop2*endy1$Site+(1|endy1$Tray),endy1)
+summary(size2)
+mixed(size2)
+ansize2<-anova(size2)
+TukeyHSD(ansize2)
+size3<-lmer(endy1$Length.mm~endy1$Pop2*endy1$Site+(1|endy1$Tray))
+summary(size3)
+
+size4<-lmer(endy1$Length.mm~endy1$Site*endy1$Pop2+(endy1$Pop2|endy1$Tray))
+summary(size4)
+
+size5<-lmer(endy1$Length.mm~endy1$Site*endy1$Pop2+(1|endy1$Tray))
+summary(size5)
+
+
+
+
+anova(size4,size5)
+??car::anova
+??afex::mixed
