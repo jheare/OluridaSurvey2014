@@ -65,7 +65,7 @@ summary(model3)
 
 anova(model2,model3)
 
-drglm<-glm((cbind(round(drills),round(nodrills)))~Pop,family=quasibinomial(logit),data=drsum)
+drglm<-glm((cbind(round(drills),round(nodrills)))~Pop,family=binomial(logit),data=drsum)
 summary(drglm,dispersion=1.44627,correlation=T,symbolic.cor=T)
 summary(drglm)
 drglm.mod<-glm.binomial.disp(drglm)
