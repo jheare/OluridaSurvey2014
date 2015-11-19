@@ -27,11 +27,17 @@ If everything works right you should create the figures in the manuscript!
 
 **Files Contained in _data_ directory**
 
+Brooder-size-2014.csv - raw size data for all observed brooding females summer 2014
+
 Brood-numbers-all-2014.csv  -  brooder information collected over the summer
 
 Dabob-temp-2014.csv  -  raw temperature data for Dabob
 
+Drill-mortality-2013-2014.csv - Drill hole observations in Hood Canal for analysis
+
 Fidalgo-temp-2014.csv  -  raw temperature data for Fidalgo Bay
+
+Imagej-size-data-2013-2014.csv - raw size data from ImageJ for growth rate analysis
 
 KMdataDabob.csv  -  survival data for Dabob
 
@@ -50,17 +56,21 @@ Size-outplant-end-all-2013-14.csv  -  raw size data for outplant oysters and for
 --- 
 **Files Contained in _script_ directory**
 
-Figure002-003-temperature-plots.R  -  R script tp create minimum and maximum temperature graphs for all 4 sites combined
+Figure002-003-temperature-plots.R  -  R script to create minimum and maximum temperature graphs for all 4 sites combined.
 
 Figure004ABCD-Kaplan-meier-stats-plot-all.R  -  R script to produce Kaplan meier figures.(Makes 4 individual figures that were combined to make Figure 4)
 
-Figure005-006-007--011-sizedist-stats-plot.R  -   R script to create boxplots for size at all sites. Also creates dotplot for SL at brooding.
+Figure005-006-007-014-sizedist-stats-plot.R  -   R script to create boxplots for size at all sites. Also creates dotplot for SL at brooding.
 
-Figure008-percbrood-temp-plot-OysterBay.R  -- R script to generate percent brooding with temperature overlay for Oyster Bay (Does not produce second Y axis label. Must be manually added)
+Figure008-009-010-growthrate-plots.R  -  R script to create growth rate line graphs.
+
+Figure011-percbrood-temp-plot-OysterBay.R  -- R script to generate percent brooding with temperature overlay for Oyster Bay (Does not produce second Y axis label. Must be manually added)
     
-Figure009-percbrood-temp-plot-Fidalgo.R  - R script to generate percent brooding with temperature overlay for Fidalgo Bay (Does not produce second Y axis label. Must be manually added)
+Figure012-percbrood-temp-plot-Fidalgo.R  - R script to generate percent brooding with temperature overlay for Fidalgo Bay (Does not produce second Y axis label. Must be manually added)
    
-Figure010-percbrood-temp-plot-ClamBay.R  -- R script to generate percent brooding with temperature overlay for Manchester (Does not produce second Y axis label. Must be manually added)
+Figure013-percbrood-temp-plot-ClamBay.R  -- R script to generate percent brooding with temperature overlay for Manchester (Does not produce second Y axis label. Must be manually added)
+
+Oyster-drill-analysis.R  -  R script used to analyze drill mortality data.
 
 
     
