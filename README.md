@@ -64,11 +64,11 @@ Figure005-006-007-014-sizedist-stats-plot.R  -   R script to create boxplots for
 
 Figure008-009-010-growthrate-plots.R  -  R script to create growth rate line graphs.
 
-Figure011-percbrood-temp-plot-OysterBay.R  -- R script to generate percent brooding with temperature overlay for Oyster Bay (Does not produce second Y axis label. Must be manually added)
+Figure011-percbrood-temp-plot-OysterBay.R  - R script to generate percent brooding with temperature overlay for Oyster Bay (Does not produce second Y axis label. Must be manually added)
     
 Figure012-percbrood-temp-plot-Fidalgo.R  - R script to generate percent brooding with temperature overlay for Fidalgo Bay (Does not produce second Y axis label. Must be manually added)
    
-Figure013-percbrood-temp-plot-ClamBay.R  -- R script to generate percent brooding with temperature overlay for Manchester (Does not produce second Y axis label. Must be manually added)
+Figure013-percbrood-temp-plot-ClamBay.R  - R script to generate percent brooding with temperature overlay for Manchester (Does not produce second Y axis label. Must be manually added)
 
 Oyster-drill-analysis.R  -  R script used to analyze drill mortality data.
 
