@@ -1,14 +1,30 @@
-install.packages("dispmod")
+========================
+#
+#UNCOMMENT the lines below if you do have the packages already installed
+#
+#install.packages("ggplot2")
+#install.packages("plyr")
+#install.packages("dispmod")
+#install.packages("lme4")
+
+=============================
+
+#loads required packages
 require(lme4)
 require(plyr)
 require(ggplot2)
 require(dispmod)
 
+#set working directory
+setwd("**your directory here**")
 
-drill<-read.csv("./data/Drill.csv",header=T)
+#reads in data csv
+drill<-read.csv("./data/Drill-mortality-2013-2014.csv",header=T)
 
+#tells R to register date notation as Dates
 drill$Date<-as.factor(as.Date(drill$Date, "%m/%d/%Y"))
 
+#creates summary of all drill data
 drsum<-ddply(drill,.(Date,Pop),summarise,drill1shell=sum(Drill.1.Shell,na.rm=T),
              drill2shell=sum(Drill.2.shell,na.rm=T),
              nodrill1shell=sum(No.Drill.1,na.rm=T),
@@ -18,8 +34,7 @@ drsum<-ddply(drill,.(Date,Pop),summarise,drill1shell=sum(Drill.1.Shell,na.rm=T),
              N=round(drills+nodrills),
              prop=(drills/N))
 
-drsum$Date<-as.Date(drsum$Date, "%Y-%m-%d")
-
+#creates bargraph plot to visualize drill data
 ggplot(drsum,aes(x=Date,y=prop,colour=Pop, fill=Pop))+
   geom_bar(stat="identity",position=position_dodge())+
   geom_text(aes(label=N), color="black",
@@ -46,29 +61,10 @@ ggplot(drsum,aes(x=Date,y=prop,colour=Pop, fill=Pop))+
         legend.text=element_text(size=20)) 
   
 
-drill$prop<-drill$Total.Drill.Oyster/(drill$Total.Drill.Oyster+drill$Total.No.Drill.Oysters)
-
-is.factor(drill$Tray)
-
-drillaov<-aov(drill$prop~drill$Pop+drill$Date+drill$Pop:drill$Date,drill)
-summary(drillaov)
-TukeyHSD(drillaov)
-
-model1<-lm(drill$prop~drill$Pop*drill$Date)
-summary(model1)
-
-model2<-lmer(drill$prop~drill$Pop+(1|drill$Date))
-summary(model2)
-
-model3<-lmer(drill$prop~drill$Pop+(1|drill$Date)+(1|drill$Tray))
-summary(model3)
-
-anova(model2,model3)
-
+#runs a general linear model on drill data
 drglm<-glm((cbind(round(drills),round(nodrills)))~Pop,family=binomial(logit),data=drsum)
-summary(drglm,dispersion=1.44627,correlation=T,symbolic.cor=T)
 summary(drglm)
+
+#corrects for overdispersion in GLM
 drglm.mod<-glm.binomial.disp(drglm)
 
-
-ggplot(drill,aes(x=Date,y=prop,colour=Pop, fill=Pop))+geom_bar(stat="identity",position=position_dodge())

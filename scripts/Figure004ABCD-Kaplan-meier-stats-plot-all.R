@@ -127,6 +127,7 @@ print(oyssurv)
 oyssum<-summary(survfit(Surv(Death,Status)~Population,data=kmoys))
 print(oyssum)
 
+#Exploratory Statistics for all data
 kmall=read.csv("./data/KMdataAll.csv")
 names(kmall)
 
@@ -145,8 +146,8 @@ fitall2=(Surv(Death,Status)~as.factor(Site)+as.factor(Population),data=kmall)
 anova(fitall2)
 TukeyHSD(allfit)
 
-par(mfrow=c(1,1))
 
+#Code for developing publication quality figures.
 plot(fit1,xlim=c(0,11), col=gray.colors(3,start=0, end=0.9), xlab="Survival Time from Outplant in Months", ylab="Proportion Surviving",cex.axis=2,cex.lab=1.5,lwd=10)
 legend("bottomleft", title="Population", c("Hood Canal","Northern","Southern"), fill=gray.colors(3,start=0, end=0.9))
 text(0.8, 0.8, "C", cex=6)

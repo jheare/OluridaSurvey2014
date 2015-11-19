@@ -190,27 +190,9 @@ ggplot(broodersizes, aes(x=Site, fill=Population, y=Size))+
         axis.line = element_line(colour = "black"))
 
  
-size1<-lmer(endy1$Length.mm~endy1$Pop2*endy1$Site)
-summary(size1)
-
-size2<-lmer(endy1$Length.mm~endy1$Pop2*endy1$Site+(endy1$Pop2|endy1$Tray))
-summary(size2)
-
-size3<-lmer(endy1$Length.mm~endy1$Pop2*endy1$Site+(1|endy1$Tray))
-summary(size3)
-
-size4<-lmer(endy1$Length.mm~endy1$Site*endy1$Pop2+(endy1$Pop2|endy1$Tray))
-summary(size4)
-
-size5<-lmer(endy1$Length.mm~endy1$Site*endy1$Pop2+(1|endy1$Tray))
-summary(size5)
-
-
-anova(size2)
-
-
-
+#mixed effects models with p-value generation
+sizelme<-lmer(Length.mm~Pop2*Site+(~Pop2|Tray))
+sizelme
 sizep<-mixed(Length.mm~Pop2*Site+(Pop2|Tray),data=endy1)
 sizep
-post<-lsmeans(size2, test.effs="Pop2:Site")
-post
+
