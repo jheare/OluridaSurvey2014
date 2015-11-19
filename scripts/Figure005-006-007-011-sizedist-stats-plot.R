@@ -9,9 +9,9 @@
 #install.packages("splitstackshape")
 #install.packages("nparcomp")
 #install.packages("PMCMR")
-install.packages("afex")
+#install.packages("afex")
 =============================
-require(afex)
+
 #loads required packages
 require(ggplot2)
 require(plyr)
@@ -19,6 +19,7 @@ require(splitstackshape)
 require(nparcomp)
 require(PMCMR)
 require(pastecs)
+require(afex)
 
 #set working directory
 setwd("**your directory here**")
@@ -207,6 +208,9 @@ summary(size5)
 
 anova(size2)
 
-require(afex)
 
-mixed(Length.mm~Pop2*Site+(Pop2|Tray),data=endy1)
+
+sizep<-mixed(Length.mm~Pop2*Site+(Pop2|Tray),data=endy1)
+sizep
+post<-lsmeans(size2, test.effs="Pop2:Site")
+post
