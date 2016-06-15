@@ -1,0 +1,67 @@
+Call:
+glm(formula = (cbind(round(drills), round(nodrills))) ~ Pop, 
+    family = binomial(logit), data = drsum)
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-1.37938  -0.51643  -0.09711   0.94766   1.57623  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -0.90155    0.18518  -4.869 1.12e-06 ***
+PopN         0.83093    0.22360   3.716 0.000202 ***
+PopS        -0.05891    0.23789  -0.248 0.804408    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 34.9413  on 8  degrees of freedom
+Residual deviance:  8.7762  on 6  degrees of freedom
+AIC: 49.818
+
+Number of Fisher Scoring iterations: 4
+
+> drglm.mod<-glm.binomial.disp(drglm)
+
+Binomial overdispersed logit model fitting...
+Iter.  1  phi: 0.009334663 
+Iter.  2  phi: 0.01248775 
+Iter.  3  phi: 0.0133829 
+Iter.  4  phi: 0.01362761 
+Iter.  5  phi: 0.01369388 
+Iter.  6  phi: 0.01371177 
+Iter.  7  phi: 0.0137166 
+Iter.  8  phi: 0.01371791 
+Iter.  9  phi: 0.01371826 
+Iter.  10  phi: 0.01371835 
+Iter.  11  phi: 0.01371838 
+Iter.  12  phi: 0.01371839 
+Iter.  13  phi: 0.01371839 
+Iter.  14  phi: 0.01371839 
+Converged after 14 iterations. 
+Estimated dispersion parameter: 0.01371839 
+
+Call:
+glm(formula = (cbind(round(drills), round(nodrills))) ~ Pop, 
+    family = binomial(logit), data = drsum, weights = disp.weights)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.1809  -0.3932  -0.1464   0.5949   1.5430  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)   
+(Intercept)  -0.8279     0.2610  -3.173  0.00151 **
+PopN          0.7886     0.3290   2.397  0.01653 * 
+PopS         -0.1410     0.3444  -0.409  0.68224   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 17.4314  on 8  degrees of freedom
+Residual deviance:  6.1876  on 6  degrees of freedom
+AIC: 30.309
+
+Number of Fisher Scoring iterations: 4
