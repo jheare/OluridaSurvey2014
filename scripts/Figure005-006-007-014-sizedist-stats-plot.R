@@ -61,7 +61,7 @@ endoysy1<-ddply(y1size,.(Length.mm,Pop,Tray,Sample,Area),subset,Date=="2014-09-1
 
 
 #using ggplot2 to create Boxplots
-
+tiff(file = "Endmansize.tiff", units="in", width=10, height=10, res = 600)
 ggplot()+
   geom_boxplot(data=endmany1,aes(x=Pop,y=Length.mm,fill=Pop))+
   scale_colour_grey(start=0, end=0.9,guide=F)+
@@ -79,8 +79,9 @@ ggplot()+
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         axis.line = element_line(colour = "black"))
+dev.off()
 
-
+tiff(file = "Endfidsize.tiff", units="in", width=10, height=10, res = 600)
 ggplot()+
   geom_boxplot(data=endfidy1,aes(x=Pop,y=Length.mm,fill=Pop))+
   scale_colour_grey(start=0, end=0.9,guide=F)+
@@ -98,7 +99,9 @@ ggplot()+
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         axis.line = element_line(colour = "black"))
+dev.off()
 
+tiff(file = "Endoyssize.tiff", units="in", width=10, height=10, res = 600)
 ggplot()+
   geom_boxplot(data=endoysy1,aes(x=Pop,y=Length.mm,fill=Pop))+
   scale_colour_grey(start=0, end=0.9,guide=F)+
@@ -116,6 +119,7 @@ ggplot()+
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         axis.line = element_line(colour = "black"))
+dev.off()
 
 
 #Check Data for Normality
@@ -170,6 +174,7 @@ tkbrdsz<-TukeyHSD(brdszaov)
 print(tkbrdsz)
 
 #Dotplot for Brooding Female Sizes
+tiff(file = "broodsize.tiff", units="in", width=10, height=10, res = 600)
 ggplot(broodersizes, aes(x=Site, fill=Population, y=Size))+
   geom_dotplot(binwidth=0.5,binaxis='y',stackdir="center", position=position_dodge(width=0.5))+
   scale_fill_grey(start=0, end=.9, labels=c("Dabob","Fidalgo","Oyster Bay"))+
@@ -188,7 +193,7 @@ ggplot(broodersizes, aes(x=Site, fill=Population, y=Size))+
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         axis.line = element_line(colour = "black"))
-
+dev.off()
  
 #mixed effects models with p-value generation
 sizelme<-lmer(Length.mm~Pop2*Site+(~Pop2|Tray))

@@ -4,7 +4,7 @@ require(plyr)
 require(ggplot2)
 
 #set working directory to local copy of repository
-setwd<-("**your directory here**")
+setwd<-("**insert working directory here**")
 
 daby1edit<-read.csv("./data/Dabob-temp-2014.csv")
 #reads in edited CSV with raw data.
@@ -89,7 +89,7 @@ ggplot()+
         axis.line = element_line(colour = "black"))
 #Creates a graph with each line representing average daily temps for each site also adds red line to indicate Spawning threshold
 
-
+tiff(file = "MinDayTemp.tiff", units="in", width=10, height=10, res = 600)
 ggplot()+
   geom_line(data=dabmeantemp, aes(x=Date, y=min_temp, group=1, colour="1"),size=1)+
   geom_line(data=manmeantemp, aes(x=Date, y=min_temp, group=1, colour="2"),size=1)+
@@ -111,9 +111,10 @@ ggplot()+
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         axis.line = element_line(colour = "black"))
+dev.off()
 #Creates a graph with each line representing observed minimum daily temps for each site
 
-
+tiff(file = "MaxDayTemp.tiff", units="in", width=10, height=10, res = 600)
 ggplot()+
   geom_line(data=dabmeantemp, aes(x=Date, y=max_temp, group=1, colour="1"),size=1)+
   geom_line(data=manmeantemp, aes(x=Date, y=max_temp, group=1, colour="2"),size=1)+
@@ -136,9 +137,12 @@ ggplot()+
         panel.grid.minor = element_blank(),
         axis.line = element_line(colour = "black"))
 #Creates a graph with each line representing observed maximum daily temps for each site
+dev.off()
 
 #Dates Min Temp met Spawn Threshold
 oysspawntemp<-oysmeantemp[(oysmeantemp$min_temp >= 12.5 & format(oysmeantemp$Date,"%Y")=="2014"),]
 manspawntemp<-manmeantemp[(manmeantemp$min_temp >= 12.5 & format(manmeantemp$Date,"%Y")=="2014"),]
 fidspawntemp<-fidmeantemp[(fidmeantemp$min_temp >= 12.5 & format(fidmeantemp$Date,"%Y")=="2014"),]
+
+
 

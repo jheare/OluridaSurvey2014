@@ -51,6 +51,7 @@ ggplot(gratemean, aes(x=Date,y=mean_length,color=Pop))+
   theme_bw()+facet_wrap(~Site,ncol=1)
 
 #Plots growth rates for all populations at Fidalgo Bay
+tiff(file = "GRfid.tiff", units="in", width=10, height=10, res = 600)
 ggplot(grfid, aes(x=Date,y=mean_length,color=Pop))+
   geom_point(size=2)+geom_line(size=1)+
   geom_errorbar(aes(ymin=mean_length-ci,ymax=mean_length+ci),color="black",width=10)+
@@ -74,8 +75,10 @@ ggplot(grfid, aes(x=Date,y=mean_length,color=Pop))+
         legend.title=element_text(size=20),
         legend.text=element_text(size=20))+ 
   ylim(0,40)
+dev.off()
 
 #Plots growth rates for all populations at Clam Bay
+tiff(file = "GRman.tiff", units="in", width=10, height=10, res = 600)
 ggplot(grman, aes(x=Date,y=mean_length,color=Pop))+
   geom_point(size=2)+geom_line(size=1)+
   geom_errorbar(aes(ymin=mean_length-ci,ymax=mean_length+ci),color="black",width=10)+
@@ -99,8 +102,9 @@ ggplot(grman, aes(x=Date,y=mean_length,color=Pop))+
         legend.title=element_text(size=20),
         legend.text=element_text(size=20))+
   ylim(0,40)
-
+dev.off()
 #Plots growth rates for all populations at Oyster Bay
+tiff(file = "GRoys.tiff", units="in", width=10, height=10, res = 600)
 ggplot(groys, aes(x=Date,y=mean_length,color=Pop))+
   geom_point(size=2)+geom_line(size=1)+
   geom_errorbar(aes(ymin=mean_length-ci,ymax=mean_length+ci),color="black",width=10)+
@@ -124,5 +128,6 @@ ggplot(groys, aes(x=Date,y=mean_length,color=Pop))+
         legend.title=element_text(size=20),
         legend.text=element_text(size=20))+
   ylim(0,40)
+dev.off()
 
 
